@@ -124,7 +124,7 @@ async function refreshData() {
     const currentGeneratedAt = els.generatedAt.textContent;
     els.refreshStatus.textContent =
       currentGeneratedAt === previousGeneratedAt
-        ? "目前已是最新已發布資料；若要抓最新行情，請按手動更新資料"
+        ? "目前已是最新已發布資料；系統約每 30 分鐘自動更新"
         : "已載入最新發布資料";
   } catch (error) {
     els.refreshStatus.textContent = "重新載入失敗";

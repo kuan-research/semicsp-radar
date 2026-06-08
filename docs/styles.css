@@ -134,6 +134,13 @@ h1 {
   cursor: pointer;
 }
 
+.update-note {
+  display: block;
+  margin-top: 6px;
+  color: var(--muted);
+  font-size: 12px;
+}
+
 .refresh-button:disabled {
   cursor: wait;
   opacity: 0.6;

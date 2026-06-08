@@ -40,7 +40,7 @@ python .\server.py
 http://localhost:8787
 ```
 
-公開部署版右上角按鈕是「重新載入資料」，用來讀取最新已產生的 JSON。真正的資料更新由 GitHub Actions 每天自動執行。
+公開部署版右上角按鈕是「重新載入資料」，用來讀取最新已產生的 JSON。真正的資料更新由 GitHub Actions 約每 30 分鐘自動執行。
 
 ## 資料夾結構
 
@@ -96,9 +96,9 @@ docs/
 https://你的GitHub帳號.github.io/semicsp-radar/
 ```
 
-每日更新：
+定期更新：
 
-- `.github/workflows/update-data.yml` 會每天自動執行 `python radar.py`
+- `.github/workflows/update-data.yml` 會約每 30 分鐘自動執行 `python radar.py`
 - 也可以在 GitHub Actions 頁面手動按 `Run workflow`
 - 更新後網站會讀取新的 `docs/data/news.json`
 
