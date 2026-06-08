@@ -1,0 +1,44 @@
+[
+  {
+    "id": "sample-001",
+    "title": "Microsoft expands AI data center capacity as cloud demand accelerates",
+    "title_zh": "Microsoft 擴大 AI 資料中心容量，雲端需求持續升溫",
+    "source": "Sample Briefing",
+    "url": "https://example.com/microsoft-ai-capacity",
+    "published": "2026-06-08T08:00:00+08:00",
+    "region": "international",
+    "segments": ["CSP / 雲端需求", "AI 伺服器 / 資料中心供應鏈"],
+    "companies": ["Microsoft", "NVIDIA", "TSMC"],
+    "importance": 5,
+    "summary_zh": "Microsoft 持續擴大 AI 資料中心投資，顯示雲端 AI 工作負載仍在推升 GPU、網通與電力基礎設施需求。",
+    "investment_takeaway": "偏多訊號在 AI server、GPU 供應鏈與先進封裝；後續應追蹤 CapEx 指引是否轉化為實際訂單。"
+  },
+  {
+    "id": "sample-002",
+    "title": "TSMC advanced packaging capacity remains key bottleneck for AI accelerators",
+    "title_zh": "台積電先進封裝產能仍是 AI 加速器供應關鍵瓶頸",
+    "source": "Sample Briefing",
+    "url": "https://example.com/tsmc-packaging",
+    "published": "2026-06-08T09:00:00+08:00",
+    "region": "taiwan",
+    "segments": ["晶圓代工 / 製程", "先進封裝 / 測試"],
+    "companies": ["TSMC", "NVIDIA", "AMD", "Broadcom"],
+    "importance": 5,
+    "summary_zh": "AI 加速器需求推升 CoWoS 等先進封裝需求，產能擴充節奏仍是觀察 GPU 與 ASIC 供給的重要變數。",
+    "investment_takeaway": "台灣供應鏈重點在先進封裝、測試、載板與設備材料；若產能吃緊持續，相關供應商議價能力可能改善。"
+  },
+  {
+    "id": "sample-003",
+    "title": "HBM supply contracts indicate strong accelerator demand into next year",
+    "title_zh": "HBM 供應合約顯示 AI 加速器需求延續至明年",
+    "source": "Sample Briefing",
+    "url": "https://example.com/hbm-demand",
+    "published": "2026-06-08T10:00:00+08:00",
+    "region": "international",
+    "segments": ["記憶體 / HBM", "晶片設計"],
+    "companies": ["SK hynix", "Samsung", "Micron", "NVIDIA"],
+    "importance": 4,
+    "summary_zh": "HBM 需求延續反映 AI 加速器出貨能見度仍高，但供需變化會影響 GPU 交期與毛利結構。",
+    "investment_takeaway": "記憶體循環受 AI 需求支撐；需追蹤 HBM3E/HBM4 良率、價格與主要客戶認證進度。"
+  }
+]

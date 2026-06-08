@@ -1,0 +1,60 @@
+{
+  "international": [
+    {
+      "name": "NVIDIA Newsroom",
+      "url": "https://nvidianews.nvidia.com/releases.xml",
+      "region": "international",
+      "focus": ["gpu", "ai_infrastructure", "data_center"]
+    },
+    {
+      "name": "AMD Newsroom",
+      "url": "https://ir.amd.com/news-events/press-releases/rss",
+      "region": "international",
+      "focus": ["gpu", "cpu", "data_center"]
+    },
+    {
+      "name": "Intel Foundry / AI Chips - Google News",
+      "url": "https://news.google.com/rss/search?q=Intel%20foundry%20OR%20Gaudi%20OR%20AI%20chip%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
+      "region": "international",
+      "focus": ["foundry", "cpu", "policy"]
+    },
+    {
+      "name": "Amazon AWS News Blog",
+      "url": "https://aws.amazon.com/blogs/aws/feed/",
+      "region": "international",
+      "focus": ["csp", "cloud", "ai_services"]
+    },
+    {
+      "name": "Google Cloud Blog",
+      "url": "https://cloudblog.withgoogle.com/rss/",
+      "region": "international",
+      "focus": ["csp", "cloud", "tpu"]
+    },
+    {
+      "name": "Microsoft Azure Blog",
+      "url": "https://azure.microsoft.com/en-us/blog/feed/",
+      "region": "international",
+      "focus": ["csp", "cloud", "ai_services"]
+    }
+  ],
+  "taiwan": [
+    {
+      "name": "TSMC / CoWoS / Advanced Packaging - Google News",
+      "url": "https://news.google.com/rss/search?q=TSMC%20OR%20CoWoS%20OR%20%22advanced%20packaging%22%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
+      "region": "taiwan",
+      "focus": ["foundry", "advanced_process", "advanced_packaging"]
+    },
+    {
+      "name": "DIGITIMES Asia",
+      "url": "https://www.digitimes.com/rss/daily.xml",
+      "region": "taiwan",
+      "focus": ["supply_chain", "server", "component"]
+    },
+    {
+      "name": "Taiwan AI Server Supply Chain - Google News",
+      "url": "https://news.google.com/rss/search?q=Taiwan%20%22AI%20server%22%20OR%20Foxconn%20OR%20Quanta%20OR%20Wiwynn%20when%3A7d&hl=en-US&gl=US&ceid=US:en",
+      "region": "taiwan",
+      "focus": ["taiwan_market", "policy", "supply_chain"]
+    }
+  ]
+}

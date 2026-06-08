@@ -1,0 +1,41 @@
+{
+  "segments": {
+    "csp": {
+      "label": "CSP / 雲端需求",
+      "keywords": ["aws", "azure", "google cloud", "gcp", "microsoft", "amazon", "meta", "oracle", "coreweave", "xai", "openai", "anthropic", "datacenter", "data center", "cloud", "capex"]
+    },
+    "chip_design": {
+      "label": "晶片設計",
+      "keywords": ["nvidia", "amd", "broadcom", "marvell", "qualcomm", "intel", "asic", "gpu", "accelerator", "trainium", "inferentia", "tpu", "maia", "mtia"]
+    },
+    "foundry": {
+      "label": "晶圓代工 / 製程",
+      "keywords": ["tsmc", "samsung foundry", "intel foundry", "smic", "foundry", "wafer", "node", "2nm", "3nm", "5nm", "n2", "n3"]
+    },
+    "memory": {
+      "label": "記憶體 / HBM",
+      "keywords": ["hbm", "dram", "nand", "sk hynix", "samsung", "micron", "memory", "ddr5"]
+    },
+    "packaging": {
+      "label": "先進封裝 / 測試",
+      "keywords": ["cowos", "soic", "advanced packaging", "packaging", "ase", "amkor", "osat", "substrate", "interposer"]
+    },
+    "equipment": {
+      "label": "設備 / 材料",
+      "keywords": ["asml", "euv", "applied materials", "lam research", "kla", "tokyo electron", "equipment", "photoresist", "etch", "deposition"]
+    },
+    "ai_server": {
+      "label": "AI 伺服器 / 資料中心供應鏈",
+      "keywords": ["ai server", "server", "rack", "liquid cooling", "800g", "1.6t", "optical", "switch", "foxconn", "quanta", "wiwynn", "wistron", "inventec", "supermicro", "dell", "hpe"]
+    },
+    "policy": {
+      "label": "政策 / 地緣政治",
+      "keywords": ["export control", "tariff", "chips act", "subsidy", "china", "taiwan", "japan", "korea", "us", "sanction", "regulation"]
+    }
+  },
+  "companies": {
+    "CSP": ["Microsoft", "Amazon", "Google", "Meta", "Oracle", "CoreWeave", "xAI", "OpenAI", "Anthropic"],
+    "Semiconductor": ["NVIDIA", "AMD", "Broadcom", "Marvell", "Intel", "Qualcomm", "TSMC", "Samsung", "SK hynix", "Micron", "ASML", "Applied Materials", "Lam Research", "KLA"],
+    "Taiwan Supply Chain": ["TSMC", "ASE", "Foxconn", "Quanta", "Wiwynn", "Wistron", "Inventec", "GlobalWafers", "MediaTek", "Realtek"]
+  }
+}

@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>SemiCSP Radar</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="topbar" id="top">
+      <div>
+        <p class="eyebrow">Semiconductor & CSP Daily Radar</p>
+        <h1>半導體與 CSP 產業鏈情報儀表板</h1>
+      </div>
+      <div class="timestamp">
+        <span>更新時間</span>
+        <strong id="generatedAt">讀取中</strong>
+        <button id="refreshButton" class="refresh-button" type="button">重新載入資料</button>
+        <small id="refreshStatus" class="refresh-status"></small>
+      </div>
+    </header>
+
+    <nav class="main-tabs" aria-label="Primary views">
+      <a class="tab-link active" href="#semiconductor" data-view="semiconductor">半導體動態</a>
+      <a class="tab-link" href="#market" data-view="market">股市動態</a>
+    </nav>
+
+    <div class="shell">
+      <aside class="side-timeline" aria-label="Historical timeline">
+        <div class="side-heading">
+          <h2>歷史時間線</h2>
+          <span>每日歸檔</span>
+        </div>
+        <div id="timeline" class="timeline"></div>
+      </aside>
+
+      <main>
+        <section id="semiconductorView" class="view active-view">
+          <section class="briefing-grid" aria-label="Briefing summary">
+            <article class="metric">
+              <span>今日訊號</span>
+              <strong id="totalCount">0</strong>
+            </article>
+            <article class="metric">
+              <span>國際情勢</span>
+              <strong id="internationalCount">0</strong>
+            </article>
+            <article class="metric">
+              <span>台灣本土</span>
+              <strong id="taiwanCount">0</strong>
+            </article>
+            <article class="metric accent">
+              <span>高重要性</span>
+              <strong id="highCount">0</strong>
+            </article>
+          </section>
+
+          <section class="toolbar" aria-label="Filters">
+            <label>
+              <span>搜尋</span>
+              <input id="searchInput" type="search" placeholder="公司、CoWoS、HBM、CapEx...">
+            </label>
+            <label>
+              <span>方向</span>
+              <select id="regionFilter">
+                <option value="all">全部</option>
+                <option value="international">國際情勢</option>
+                <option value="taiwan">台灣本土</option>
+              </select>
+            </label>
+          </section>
+
+          <section class="tag-filter-panel" aria-label="Topic tags">
+            <div class="tag-filter-head">
+              <span>快速標籤</span>
+              <button id="clearTagButton" class="clear-tag-button" type="button">全部</button>
+            </div>
+            <div id="topicTags" class="topic-tags"></div>
+          </section>
+
+          <section class="split">
+            <div>
+              <div class="section-heading">
+                <h2>國際情勢</h2>
+                <span>CSP、晶片、記憶體、設備與政策</span>
+              </div>
+              <div id="internationalList" class="news-list"></div>
+            </div>
+            <div>
+              <div class="section-heading">
+                <h2>台灣本土</h2>
+                <span>台積電、封裝、伺服器 ODM 與零組件</span>
+              </div>
+              <div id="taiwanList" class="news-list"></div>
+            </div>
+          </section>
+
+          <section id="singleRegionSection" class="single-region">
+            <div class="section-heading">
+              <h2 id="singleRegionTitle">半導體動態</h2>
+              <span id="singleRegionSubtitle">依篩選條件顯示</span>
+            </div>
+            <div id="singleRegionList" class="news-list"></div>
+          </section>
+        </section>
+
+        <section id="marketView" class="view">
+          <section class="market-panel" aria-label="Market watch">
+            <div class="section-heading">
+              <h2>股市動態</h2>
+              <span>台股大盤、半導體供應鏈與 Yahoo 股市新聞</span>
+            </div>
+            <div class="market-layout">
+              <div>
+                <div id="marketSummary" class="market-summary"></div>
+                <div id="marketIndex" class="market-index"></div>
+                <div id="stockGrid" class="stock-grid"></div>
+              </div>
+              <aside>
+                <h3 class="aside-title">Yahoo 股市新聞</h3>
+                <div id="marketNews" class="market-news"></div>
+              </aside>
+            </div>
+          </section>
+        </section>
+      </main>
+    </div>
+
+    <button id="backToTop" class="back-to-top" type="button" aria-label="回到頂部">↑</button>
+
+    <template id="newsCardTemplate">
+      <article class="news-card">
+        <div class="card-head">
+          <div>
+            <p class="source"></p>
+            <h3></h3>
+          </div>
+          <span class="importance"></span>
+        </div>
+        <p class="english-title"></p>
+        <p class="summary"></p>
+        <p class="takeaway"></p>
+        <div class="tags"></div>
+        <a class="read-link" target="_blank" rel="noreferrer">閱讀原文</a>
+      </article>
+    </template>
+
+    <template id="stockCardTemplate">
+      <article class="stock-card">
+        <div>
+          <p class="stock-group"></p>
+          <h3></h3>
+          <span class="stock-symbol"></span>
+        </div>
+        <div class="stock-price"></div>
+        <p class="stock-read"></p>
+      </article>
+    </template>
+
+    <script src="app.js"></script>
+  </body>
+</html>
