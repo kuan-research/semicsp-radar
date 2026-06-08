@@ -111,8 +111,9 @@ function bindEvents() {
 
 async function refreshData() {
   els.refreshButton.disabled = true;
-  els.refreshStatus.textContent = "重新載入中...";
+  els.refreshStatus.textContent = "重新讀取已發布資料...";
   try {
+    const previousGeneratedAt = els.generatedAt.textContent;
     const payload = await loadJson("data/news.json");
     const history = await loadHistory();
     applyPayload(payload);
@@ -120,7 +121,11 @@ async function refreshData() {
     renderTimeline();
     renderMarket();
     renderNews();
-    els.refreshStatus.textContent = "已重新載入";
+    const currentGeneratedAt = els.generatedAt.textContent;
+    els.refreshStatus.textContent =
+      currentGeneratedAt === previousGeneratedAt
+        ? "目前已是最新已發布資料；若要抓最新行情，請按手動更新資料"
+        : "已載入最新發布資料";
   } catch (error) {
     els.refreshStatus.textContent = "重新載入失敗";
   } finally {
