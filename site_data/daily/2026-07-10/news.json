@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T00:04:32+00:00",
+  "generated_at": "2026-07-10T04:33:33+00:00",
   "date": "2026-07-10",
   "market": {
     "indices": [
@@ -8,9 +8,9 @@
         "name": "台灣加權指數",
         "group": "大盤",
         "price": 45354.61,
-        "previous_close": 46780.62,
-        "change": -1426.010000000002,
-        "change_percent": -3.0482922201544187,
+        "previous_close": 46556.39,
+        "change": -1201.7799999999988,
+        "change_percent": -2.581342754453253,
         "currency": "TWD",
         "market_state": "",
         "updated_at": 1783575195,
@@ -23,35 +23,35 @@
         "name": "台積電",
         "group": "晶圓代工",
         "price": 2415.0,
-        "previous_close": 2445.0,
-        "change": -30.0,
-        "change_percent": -1.2269938650306749,
+        "previous_close": 2460.0,
+        "change": -45.0,
+        "change_percent": -1.8292682926829267,
         "currency": "TWD",
         "market_state": "",
         "updated_at": 1783575009,
-        "plain_read": "台積電小幅下跌，代表短線買盤較保守。"
+        "plain_read": "台積電明顯下跌，短線風險意識升高，需留意是否為大盤或族群同步修正。"
       },
       {
         "symbol": "2317.TW",
         "name": "鴻海",
         "group": "AI 伺服器 / 組裝",
         "price": 237.5,
-        "previous_close": 240.5,
-        "change": -3.0,
-        "change_percent": -1.2474012474012475,
+        "previous_close": 242.0,
+        "change": -4.5,
+        "change_percent": -1.859504132231405,
         "currency": "TWD",
         "market_state": "",
         "updated_at": 1783575008,
-        "plain_read": "鴻海小幅下跌，代表短線買盤較保守。"
+        "plain_read": "鴻海明顯下跌，短線風險意識升高，需留意是否為大盤或族群同步修正。"
       },
       {
         "symbol": "2382.TW",
         "name": "廣達",
         "group": "AI 伺服器 ODM",
         "price": 373.5,
-        "previous_close": 377.0,
-        "change": -3.5,
-        "change_percent": -0.9283819628647214,
+        "previous_close": 378.0,
+        "change": -4.5,
+        "change_percent": -1.1904761904761905,
         "currency": "TWD",
         "market_state": "",
         "updated_at": 1783575016,
@@ -62,22 +62,22 @@
         "name": "緯穎",
         "group": "AI 伺服器 ODM",
         "price": 5040.0,
-        "previous_close": 5265.0,
-        "change": -225.0,
-        "change_percent": -4.273504273504273,
+        "previous_close": 5035.0,
+        "change": 5.0,
+        "change_percent": 0.09930486593843098,
         "currency": "TWD",
         "market_state": "",
         "updated_at": 1783575037,
-        "plain_read": "緯穎明顯下跌，短線風險意識升高，需留意是否為大盤或族群同步修正。"
+        "plain_read": "緯穎變動不大，市場暫時沒有明確方向。"
       },
       {
         "symbol": "3231.TW",
         "name": "緯創",
         "group": "AI 伺服器 ODM",
         "price": 144.5,
-        "previous_close": 159.0,
-        "change": -14.5,
-        "change_percent": -9.119496855345911,
+        "previous_close": 158.0,
+        "change": -13.5,
+        "change_percent": -8.544303797468354,
         "currency": "TWD",
         "market_state": "",
         "updated_at": 1783575009,
@@ -88,9 +88,9 @@
         "name": "聯發科",
         "group": "IC 設計",
         "price": 3925.0,
-        "previous_close": 4195.0,
-        "change": -270.0,
-        "change_percent": -6.436233611442193,
+        "previous_close": 4125.0,
+        "change": -200.0,
+        "change_percent": -4.848484848484849,
         "currency": "TWD",
         "market_state": "",
         "updated_at": 1783575017,
@@ -101,9 +101,9 @@
         "name": "日月光投控",
         "group": "封裝測試",
         "price": 677.0,
-        "previous_close": 682.0,
-        "change": -5.0,
-        "change_percent": -0.7331378299120235,
+        "previous_close": 679.0,
+        "change": -2.0,
+        "change_percent": -0.29455081001472755,
         "currency": "TWD",
         "market_state": "",
         "updated_at": 1783575006,
@@ -114,9 +114,9 @@
         "name": "欣興",
         "group": "載板 / PCB",
         "price": 875.0,
-        "previous_close": 969.0,
-        "change": -94.0,
-        "change_percent": -9.700722394220847,
+        "previous_close": 917.0,
+        "change": -42.0,
+        "change_percent": -4.580152671755725,
         "currency": "TWD",
         "market_state": "",
         "updated_at": 1783575002,
@@ -127,9 +127,9 @@
         "name": "南電",
         "group": "載板 / PCB",
         "price": 1215.0,
-        "previous_close": 1185.0,
-        "change": 30.0,
-        "change_percent": 2.5316455696202533,
+        "previous_close": 1075.0,
+        "change": 140.0,
+        "change_percent": 13.023255813953488,
         "currency": "TWD",
         "market_state": "",
         "updated_at": 1783575008,
@@ -140,9 +140,9 @@
         "name": "創意",
         "group": "ASIC / 設計服務",
         "price": 4340.0,
-        "previous_close": 5040.0,
-        "change": -700.0,
-        "change_percent": -13.88888888888889,
+        "previous_close": 4605.0,
+        "change": -265.0,
+        "change_percent": -5.754614549402823,
         "currency": "TWD",
         "market_state": "",
         "updated_at": 1783575021,
@@ -153,9 +153,9 @@
         "name": "健策",
         "group": "散熱 / 機構件",
         "price": 3205.0,
-        "previous_close": 3420.0,
-        "change": -215.0,
-        "change_percent": -6.286549707602338,
+        "previous_close": 3320.0,
+        "change": -115.0,
+        "change_percent": -3.463855421686747,
         "currency": "TWD",
         "market_state": "",
         "updated_at": 1783575025,
@@ -166,9 +166,9 @@
         "name": "台達電",
         "group": "電源 / 資料中心",
         "price": 1880.0,
-        "previous_close": 2075.0,
-        "change": -195.0,
-        "change_percent": -9.397590361445783,
+        "previous_close": 1995.0,
+        "change": -115.0,
+        "change_percent": -5.764411027568922,
         "currency": "TWD",
         "market_state": "",
         "updated_at": 1783575013,
@@ -177,46 +177,46 @@
     ],
     "news": [
       {
-        "title": "錢鏡你家1／台積電愈漲不動愈好買 蔡明翰揭「市值比重」逆向布局法",
+        "title": "台積電6月營收有望破4千億元？ 2專家看好「史上新高」",
         "source": "Yahoo 股市 - 台股動態",
-        "url": "https://tw.news.yahoo.com/%E9%8C%A2%E9%8F%A1%E4%BD%A0%E5%AE%B61-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%84%88%E6%BC%B2%E4%B8%8D%E5%8B%95%E6%84%88%E5%A5%BD%E8%B2%B7-%E8%94%A1%E6%98%8E%E7%BF%B0%E6%8F%AD-%E5%B8%82%E5%80%BC%E6%AF%94%E9%87%8D-%E9%80%86%E5%90%91%E5%B8%83%E5%B1%80%E6%B3%95-233001992.html",
-        "published": "Thu, 09 Jul 2026 23:30:01 GMT",
-        "summary": "台股熱潮爆棚！根據證交所資料顯示，截至6月底，全台股票開戶人數已達1,448萬人，單月大增超過15萬戶，再創歷史新高。不過，同時也引發投資人集體焦慮，不斷詢問：現在高檔還能買嗎？到底要買0050（元大"
+        "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB6%E6%9C%88%E7%87%9F%E6%94%B6%E6%9C%89%E6%9C%9B%E7%A0%B44%E5%8D%83%E5%84%84%E5%85%83%EF%BC%9F-2%E5%B0%88%E5%AE%B6%E7%9C%8B%E5%A5%BD%E3%80%8C%E5%8F%B2%E4%B8%8A%E6%96%B0%E9%AB%98%E3%80%8D-042506968.html",
+        "published": "Fri, 10 Jul 2026 04:25:06 GMT",
+        "summary": "晶圓代工龍頭台積電（2330）原定今（10）日公布6月營收，受到颱風來襲影響，官方宣布將順延至下周一（13日）揭曉，市場關注熱度依賴不減，對此，資深台股分析師蔡明翰與統一投顧董事長黎方國均抱持樂觀態度"
       },
       {
-        "title": "別被洗出場外！經理人「這句話」點醒散戶 台股基本面大解密",
+        "title": "Meta自研AI晶片9月量產 台積電代工降低對輝達依賴",
         "source": "Yahoo 股市 - 台股動態",
-        "url": "https://tw.news.yahoo.com/%E5%88%A5%E8%A2%AB%E6%B4%97%E5%87%BA%E5%A0%B4%E5%A4%96-%E7%B6%93%E7%90%86%E4%BA%BA-%E9%80%99%E5%8F%A5%E8%A9%B1-%E9%BB%9E%E9%86%92%E6%95%A3%E6%88%B6-%E5%8F%B0%E8%82%A1%E5%9F%BA%E6%9C%AC%E9%9D%A2%E5%A4%A7%E8%A7%A3%E5%AF%86-232100056.html",
-        "published": "Thu, 09 Jul 2026 23:21:00 GMT",
-        "summary": "台股頻創新高引發過熱疑慮，永豐投信經理人周立行指出，台股漲勢有企業獲利飆升四成作為強勁支撐，且AI十年科技大週期才剛起步，現在布局並不晚。面對市場高檔震盪，主動式ETF展現靈活選股優勢，能避開被動投資"
+        "url": "https://tw.stock.yahoo.com/news/meta%E8%87%AA%E7%A0%94ai%E6%99%B6%E7%89%879%E6%9C%88%E9%87%8F%E7%94%A2-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E4%BB%A3%E5%B7%A5%E9%99%8D%E4%BD%8E%E5%B0%8D%E8%BC%9D%E9%81%94%E4%BE%9D%E8%B3%B4-041641654.html",
+        "published": "Fri, 10 Jul 2026 04:16:41 GMT",
+        "summary": "（中央社紐約/舊金山2026年7月9日綜合外電報導）根據路透社查閱的Meta Platforms內部備忘錄，Meta計劃今年9月開始生量一款人工智慧（AI）晶片，作為明年將整體運算能力提升至14吉瓦（"
       },
       {
-        "title": "投資人淡化美伊衝突 美股道瓊漲139點、費半漲3.06%、台積電小跌",
+        "title": "台股休市錯失大漲機會！律師曝1都市傳說",
         "source": "Yahoo 股市 - 台股動態",
-        "url": "https://tw.news.yahoo.com/%E6%8A%95%E8%B3%87%E4%BA%BA%E6%B7%A1%E5%8C%96%E7%BE%8E%E4%BC%8A%E8%A1%9D%E7%AA%81-%E7%BE%8E%E8%82%A1%E9%81%93%E7%93%8A%E6%BC%B2139%E9%BB%9E-%E8%B2%BB%E5%8D%8A%E6%BC%B23-06-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%B0%8F%E8%B7%8C-230747221.html",
-        "published": "Thu, 09 Jul 2026 23:07:47 GMT",
-        "summary": "[Newtalk新聞] 美國和伊朗再度互相攻擊，中東緊張局勢升級，投資人淡化美伊衝突影響，國際油價下跌，美國股市4大指數9日全部上漲，道瓊工業指數上漲139.02點、0.27%，那斯達克指數上漲1.3"
+        "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E4%BC%91%E5%B8%82%E9%8C%AF%E5%A4%B1%E5%A4%A7%E6%BC%B2%E6%A9%9F%E6%9C%83-%E5%BE%8B%E5%B8%AB%E6%9B%9D1%E9%83%BD%E5%B8%82%E5%82%B3%E8%AA%AA-032356521.html",
+        "published": "Fri, 10 Jul 2026 04:05:23 GMT",
+        "summary": "[NOWNEWS今日新聞]受到中度颱風巴威襲台影響，北北基等10縣市宣布今（10）日停班停課，台灣金融市場也全面暫停交易，然而休市前最後一個台指期夜盤，在美股半導體族群強勢大漲帶動下，指數一舉飆破4萬"
       },
       {
-        "title": "夜盤走揚、美股領漲！「台股放颱風假」這群人哀號",
+        "title": "AMD股價創新高！費半勁揚3%美股收紅 台積電ADR不捧場",
         "source": "Yahoo 股市 - 台股動態",
-        "url": "https://tw.stock.yahoo.com/news/%E5%A4%9C%E7%9B%A4%E8%B5%B0%E6%8F%9A%E3%80%81%E7%BE%8E%E8%82%A1%E9%A0%98%E6%BC%B2%EF%BC%81%E3%80%8C%E5%8F%B0%E8%82%A1%E6%94%BE%E9%A2%B1%E9%A2%A8%E5%81%87%E3%80%8D%E9%80%99%E7%BE%A4%E4%BA%BA%E5%93%80%E8%99%9F-230122822.html",
-        "published": "Thu, 09 Jul 2026 23:01:22 GMT",
-        "summary": "財經中心／李明融報導受到強烈颱風巴威來勢洶洶影響，台北市宣布10日停止上班上課，台灣金融市場也同步按下暫停鍵，證交所與期交所雙雙公告股匯市、期貨及選擇權市場全日休市一天。然而，這對滿腦子投資經的股民來"
+        "url": "https://tw.news.yahoo.com/amd%E8%82%A1%E5%83%B9%E5%89%B5%E6%96%B0%E9%AB%98-%E8%B2%BB%E5%8D%8A%E5%8B%81%E6%8F%9A3-%E7%BE%8E%E8%82%A1%E6%94%B6%E7%B4%85-%E5%8F%B0%E7%A9%8D%E9%9B%BBadr%E4%B8%8D%E6%8D%A7%E5%A0%B4-040400011.html",
+        "published": "Fri, 10 Jul 2026 04:04:00 GMT",
+        "summary": "【國際中心／綜合報導】晶片與記憶體類股今天強彈，帶動費半勁揚3%，美國4大指數全收紅，超微（AMD）股價飆漲逾5%締造歷史新高，台積電ADR卻意外收在平盤。"
       },
       {
-        "title": "Meta加速「去輝達化」 首款AI晶片9月交台積電量產",
+        "title": "日本半導體大廠Rapidus打價格戰 社長小池淳義：產品降價與台積電一拚",
         "source": "Yahoo 股市 - 台股動態",
-        "url": "https://tw.news.yahoo.com/meta%E5%8A%A0%E9%80%9F-%E5%8E%BB%E8%BC%9D%E9%81%94%E5%8C%96-%E9%A6%96%E6%AC%BEai%E6%99%B6%E7%89%879%E6%9C%88%E4%BA%A4%E5%8F%B0%E7%A9%8D%E9%9B%BB%E9%87%8F%E7%94%A2-230000574.html",
-        "published": "Thu, 09 Jul 2026 23:00:00 GMT",
-        "summary": "全球AI軍備競賽再升級！根據《路透》取得Meta內部資料，耗時5年多自研AI晶片將在9月正式量產，由博通（Broadcom）協助設計、台積電負責代工，正加速降低對輝達（NVIDIA）的依賴，朝AI晶片"
+        "url": "https://tw.news.yahoo.com/%E6%97%A5%E6%9C%AC%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%A4%A7%E5%BB%A0rapidus%E6%89%93%E5%83%B9%E6%A0%BC%E6%88%B0-%E7%A4%BE%E9%95%B7%E5%B0%8F%E6%B1%A0%E6%B7%B3%E7%BE%A9-%E7%94%A2%E5%93%81%E9%99%8D%E5%83%B9%E8%88%87%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E6%8B%9A-035206177.html",
+        "published": "Fri, 10 Jul 2026 03:52:06 GMT",
+        "summary": "日本共同社報導，日本半導體代工大廠「Rapidus」，在日本政府全力扶持下，力拚半導體國產化。Rapidus社長小池淳義日前表示，它們未來的晶片售價，會比台積電低，至少「在價格上不能輸」。（葉柏毅報導"
       },
       {
-        "title": "科技股領漲！ 美股道瓊漲139點、費半升逾3％ 、台積電收跌",
+        "title": "台股2檔「面板、矽光子」熱門千萬別買！抱緊4大龍頭不怕跌",
         "source": "Yahoo 股市 - 台股動態",
-        "url": "https://tw.news.yahoo.com/%E7%A7%91%E6%8A%80%E8%82%A1%E9%A0%98%E6%BC%B2-%E7%BE%8E%E8%82%A1%E9%81%93%E7%93%8A%E6%BC%B2139%E9%BB%9E-%E8%B2%BB%E5%8D%8A%E5%8D%87%E9%80%BE3-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%94%B6%E8%B7%8C-223334804.html",
-        "published": "Thu, 09 Jul 2026 22:33:34 GMT",
-        "summary": "儘管中東緊張局勢再度升級，投資人淡化美國和伊朗之間的新衝突，油價下跌，促使股市走高，晶片股股價回升，美股主要指數星期四全部上漲，台積電ADR小跌0.02美元，收在436.96美元。 美國星期三宣"
+        "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A12%E6%AA%94-%E9%9D%A2%E6%9D%BF-%E7%9F%BD%E5%85%89%E5%AD%90-%E7%86%B1%E9%96%80%E5%8D%83%E8%90%AC%E5%88%A5%E8%B2%B7-%E6%8A%B1%E7%B7%8A4%E5%A4%A7%E9%BE%8D%E9%A0%AD%E4%B8%8D%E6%80%95%E8%B7%8C-034446671.html",
+        "published": "Fri, 10 Jul 2026 03:44:46 GMT",
+        "summary": "今年以來，台股屢創新高，5萬點近在咫尺，但市場擔憂隨之而來，崩盤說法風聲鶴唳。對此，資深分析師蔡明翰認為，過熱崩盤說法不存在，台股5萬點是時間早晚的問題，因此重點要放在選股上，建議投資人選擇績優股布局"
       },
       {
         "title": "最後一隻白老鼠？ 26萬散戶昨FOMO進場淪住套房 分析師：健康換手",
@@ -224,6 +224,13 @@
         "url": "https://tw.stock.yahoo.com/news/%E6%9C%80%E5%BE%8C%E4%B8%80%E9%9A%BB%E7%99%BD%E8%80%81%E9%BC%A0%EF%BC%9F-26%E8%90%AC%E6%95%A3%E6%88%B6%E6%98%A8fomo%E9%80%B2%E5%A0%B4%E6%B7%AA%E4%BD%8F%E5%A5%97%E6%88%BF-%E5%88%86%E6%9E%90%E5%B8%AB%EF%BC%9A%E5%81%A5%E5%BA%B7%E6%8F%9B%E6%89%8B-021046535.html",
         "published": "Thu, 26 Feb 2026 02:10:46 GMT",
         "summary": "最後一隻白老鼠？台股昨天破35521點新高紀錄，據台灣證交所資料顯示，有26萬人FOMO（錯失恐懼症）追高進場，押寶輝達Nvidia黃仁勳再開金口釋利多，不過輝達財報儘管亮眼，盤後股價先漲後跌，拖累台"
+      },
+      {
+        "title": "股災反而是機會！分析師曝3檔「跌越深越該買」 台積電上榜",
+        "source": "Yahoo 股市 - 研究報導",
+        "url": "https://tw.stock.yahoo.com/news/%E8%82%A1%E7%81%BD%E5%8F%8D%E8%80%8C%E6%98%AF%E6%A9%9F%E6%9C%83-%E5%88%86%E6%9E%90%E5%B8%AB%E6%9B%9D3%E6%AA%94-%E8%B7%8C%E8%B6%8A%E6%B7%B1%E8%B6%8A%E8%A9%B2%E8%B2%B7-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E4%B8%8A%E6%A6%9C-010640826.html",
+        "published": "Fri, 10 Jul 2026 01:06:40 GMT",
+        "summary": "台、美股今年屢創新高，但伴隨劇烈波動，《The Motley Fool》提醒，投資人仍應提前為熊市做好準備，因為市場修正幾乎無法避免。分析師認為，若能趁股價因恐慌回檔時布局具備長期競爭力的企業，更有機"
       },
       {
         "title": "《美股主題週報》個人化廣告技術—META、APP、RAMP",
@@ -252,24 +259,106 @@
         "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E4%B8%BB%E9%A1%8C%E9%80%B1%E5%A0%B1-3d%E5%88%97%E5%8D%B0-velo-prlb-adsk-072600414.html",
         "published": "Thu, 09 Jul 2026 07:26:00 GMT",
         "summary": "MoneyDJ新聞 2026-07-09 15:26:27 數位內容中心 發佈Velo3D（VELO.US） Velo3D在加州Livermore啟用288,747平方英尺新設施，初期可容納40多套大"
-      },
-      {
-        "title": "《美股主題週報》軟體定義自駕—TSLA、NXPI、MU",
-        "source": "Yahoo 股市 - 研究報導",
-        "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E4%B8%BB%E9%A1%8C%E9%80%B1%E5%A0%B1-%E8%BB%9F%E9%AB%94%E5%AE%9A%E7%BE%A9%E8%87%AA%E9%A7%95-tsla-nxpi-mu-071200543.html",
-        "published": "Thu, 09 Jul 2026 07:12:00 GMT",
-        "summary": "MoneyDJ新聞 2026-07-09 15:12:45 數位內容中心 發佈Tesla（TSLA.US） 7月初Tesla向部分車輛推送FSD v14 Lite，約400萬輛Hardware 3車主"
       }
     ],
     "summary": {
       "tracked": 12,
-      "gainers": 1,
-      "losers": 11,
+      "gainers": 2,
+      "losers": 10,
       "plain_read": "追蹤的半導體供應鏈多數下跌，今天比較像是風險降溫或籌碼修正。"
     },
     "errors": []
   },
   "items": [
+    {
+      "id": "8990402399d1d8853779",
+      "title": "Better Chip Stock: Intel Versus Taiwan Semiconductor - AOL.com",
+      "title_zh": "國際觀察：Intel的晶片設計相關動態",
+      "source": "Intel Foundry / AI Chips - Google News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRYllHdE4zRkJKY2lWTmNrelNOUjlCVkZ2T0xyM2gzaVFXUHI5d25rQW5mZXpDSVdaN2ZGLXJLanBmbFpfSlhVbDFEYlRDU1c5ekhmZnlFREROMWFZTlJ0d2NubVFPb1pBdGFXVkdkdGJhd0M3YURpUkhhcGY1dw?oc=5",
+      "published": "Fri, 10 Jul 2026 02:49:01 GMT",
+      "region": "international",
+      "segments": [
+        "晶片設計",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "Intel"
+      ],
+      "importance": 4,
+      "summary_zh": "Better Chip Stock: Intel Versus Taiwan Semiconductor AOL.com",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+    },
+    {
+      "id": "4d273db875d5ccdc2979",
+      "title": "TSMC Q2 Earnings Preview: Why Should You Buy TSM Stock Before July 16? - Yahoo Finance",
+      "title_zh": "台灣觀察：TSMC的晶圓代工 / 製程相關動態",
+      "source": "TSMC / CoWoS / Advanced Packaging - Google News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbEt1Qk5vM3VPWUo2TVJ1RC1hXzE1ZDByMjlZUUVmMm5Ld0lSdF9ubnNKbFFrNGxoVkYwUU5RRWwzTDA5YWRJUURBQVNxcDZNWDZ3WTF3SDdpei1jakdtZF9mVWdyNEw5eGF3Mk45OHk3QTBGdElMeGptOGJFa24xbDNQSlRHMER0WXZTT01PblYyd01vUHV2MA?oc=5",
+      "published": "Thu, 09 Jul 2026 19:00:00 GMT",
+      "region": "taiwan",
+      "segments": [
+        "晶圓代工 / 製程"
+      ],
+      "companies": [
+        "TSMC"
+      ],
+      "importance": 4,
+      "summary_zh": "TSMC Q2 Earnings Preview: Why Should You Buy TSM Stock Before July 16? Yahoo Finance",
+      "investment_takeaway": "投資觀察重點在台灣供應鏈是否取得 AI 伺服器、封裝、測試或零組件增量訂單。"
+    },
+    {
+      "id": "a5c4147a8b83f203ad06",
+      "title": "'Entrenched bottlenecks that are irreplaceable', TSMC and ASML are superior long-term plays: Investor - CNBC",
+      "title_zh": "台灣觀察：TSMC、ASML的晶圓代工 / 製程相關動態",
+      "source": "TSMC / CoWoS / Advanced Packaging - Google News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS0diTlV1NmprcGJ0akdLTEhyRUJNUFVaekF4c0YyWVNLX190WVVGcC1MSFRUWDBTeFluWjhsS0VqSE9MRkV3SlVHNHpfUzkzUDJkQzFlNHg5Vjg2UG9xVkxoNE91TWJXWjBfVkNwX2c5WDloOGY4SE1RcHlveDc3bkJhSVdVSTNBODNfbGNkOWRTcEpETGRNRFp3?oc=5",
+      "published": "Thu, 09 Jul 2026 21:10:50 GMT",
+      "region": "taiwan",
+      "segments": [
+        "晶圓代工 / 製程",
+        "設備 / 材料"
+      ],
+      "companies": [
+        "TSMC",
+        "ASML"
+      ],
+      "importance": 4,
+      "summary_zh": "'Entrenched bottlenecks that are irreplaceable', TSMC and ASML are superior long-term plays: Investor CNBC",
+      "investment_takeaway": "投資觀察重點在台灣供應鏈是否取得 AI 伺服器、封裝、測試或零組件增量訂單。"
+    },
+    {
+      "id": "10deb5706c3e74bfc00c",
+      "title": "Advanced Packaging Technologies Market to Surge Beyond $15 Billion by 2030, Driven by Demand for Compact Electronics - Yahoo Finance UK",
+      "title_zh": "台灣觀察：先進封裝 / 測試的先進封裝 / 測試相關動態",
+      "source": "TSMC / CoWoS / Advanced Packaging - Google News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdUpubHVySGgycnJCb0JWdEpKR0REci1LdVIzZG5lbzJxUDlaZVVvS2xwb0xlVjNNa3BOZncyY3pRUC01dmR6THQyUzllUTFQaEZGd3lEVUxicF9nZlczbHlONEl2SFpXbXgwZW5rSmUwYzJhT29vOG9QUkx0YkFjcGZQNVN5cDN0d3JNN01ERUs3YVZIb3NyUw?oc=5",
+      "published": "Tue, 07 Jul 2026 08:42:00 GMT",
+      "region": "taiwan",
+      "segments": [
+        "先進封裝 / 測試"
+      ],
+      "companies": [],
+      "importance": 3,
+      "summary_zh": "Advanced Packaging Technologies Market to Surge Beyond $15 Billion by 2030, Driven by Demand for Compact Electronics Yahoo Finance UK",
+      "investment_takeaway": "投資觀察重點在 CoWoS/先進封裝產能、載板與測試稼動率，這通常是 AI 加速器供給瓶頸。"
+    },
+    {
+      "id": "fb6a43b967a5d34f9895",
+      "title": "AI, chip stocks slowly recover amid escalating US-Iran conflict - Seeking Alpha",
+      "title_zh": "國際觀察：政策 / 地緣政治的政策 / 地緣政治相關動態",
+      "source": "Intel Foundry / AI Chips - Google News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd0liWnFnQXJKSjdhQ1ljNktfYi0xaEJqSlJIem9aNDd4Zkk5WHdBSFQ4dExmMHFhaDNJNVNtZ1hlenUwYk0zMkxXSVlkTi1iSVFvU1Zld3NzLUJDVmxJTlMtZ2o3M2NVVHdVaGYyNDNHelBuQ1NRcUg5VWNjOVZXUXpveUFkZnRHMERiVmdYWHZNVGpK?oc=5",
+      "published": "Wed, 08 Jul 2026 14:14:00 GMT",
+      "region": "international",
+      "segments": [
+        "政策 / 地緣政治"
+      ],
+      "companies": [],
+      "importance": 2,
+      "summary_zh": "AI, chip stocks slowly recover amid escalating US-Iran conflict Seeking Alpha",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+    },
     {
       "id": "2ab327627f947224b854",
       "title": "Here’s Why TSMC Investors Are Counting Down to July 16 - Yahoo Finance",
@@ -305,6 +394,27 @@
       "investment_takeaway": "投資觀察重點在台灣供應鏈是否取得 AI 伺服器、封裝、測試或零組件增量訂單。"
     },
     {
+      "id": "5020443b0193106a6dbe",
+      "title": "AMD Stock and Intel Crushed Nvidia in the First Half. Here's My Prediction for the Second Half. - The Globe and Mail",
+      "title_zh": "國際觀察：NVIDIA、AMD的晶片設計相關動態",
+      "source": "Intel Foundry / AI Chips - Google News",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNGU3TzZCaTM4MVpET2hJUWJyWlVzSk9lazdOT2xIWU1nWG1uQ1E0cnJrQjQxRU1mNUpvYm55amZvU1FyN1JSUlp4ekpfSFhxMTZJQU1hbExQNkZzaU04SVo3aXoxLTdSS1RGOFAzME04S25TM0w1b3NFYkkwNVdNbXRBVHlIUFEzSVFzX1FNb3hSUTIxOHNoX1pfTnh3aTRiSUtZSGtYSEx2NVNhVU5CUjF2SHVIVUU2TkxmbjFYdTZWaFBmR0g0bEFBbVoyVTRTMENIZkpSSkVTOWlabmhuVXBNTFRCSGJXZlYwTVIxSWtZV21rOEZUVTAwQVpNcW9wOEhnaXByQQ?oc=5",
+      "published": "Sun, 05 Jul 2026 22:30:00 GMT",
+      "region": "international",
+      "segments": [
+        "晶片設計",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "NVIDIA",
+        "AMD",
+        "Intel"
+      ],
+      "importance": 4,
+      "summary_zh": "AMD Stock and Intel Crushed Nvidia in the First Half. Here's My Prediction for the Second Half. The Globe and Mail",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+    },
+    {
       "id": "50d7a1c38f8c573b7f00",
       "title": "Samsung Hikes 5nm and 4nm Wafer Prices 15%, Breaking From TSMC’s Broad Increases as AI Demand Rewrites the Rules – Report - Wccftech",
       "title_zh": "台灣觀察：TSMC、Samsung的晶圓代工 / 製程相關動態",
@@ -325,27 +435,6 @@
       "importance": 5,
       "summary_zh": "Samsung Hikes 5nm and 4nm Wafer Prices 15%, Breaking From TSMC’s Broad Increases as AI Demand Rewrites the Rules – Report Wccftech",
       "investment_takeaway": "投資觀察重點在 CoWoS/先進封裝產能、載板與測試稼動率，這通常是 AI 加速器供給瓶頸。"
-    },
-    {
-      "id": "5020443b0193106a6dbe",
-      "title": "AMD Stock and Intel Crushed Nvidia in the First Half. Here's My Prediction for the Second Half. - The Globe and Mail",
-      "title_zh": "國際觀察：NVIDIA、AMD的晶片設計相關動態",
-      "source": "Intel Foundry / AI Chips - Google News",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNGU3TzZCaTM4MVpET2hJUWJyWlVzSk9lazdOT2xIWU1nWG1uQ1E0cnJrQjQxRU1mNUpvYm55amZvU1FyN1JSUlp4ekpfSFhxMTZJQU1hbExQNkZzaU04SVo3aXoxLTdSS1RGOFAzME04S25TM0w1b3NFYkkwNVdNbXRBVHlIUFEzSVFzX1FNb3hSUTIxOHNoX1pfTnh3aTRiSUtZSGtYSEx2NVNhVU5CUjF2SHVIVUU2TkxmbjFYdTZWaFBmR0g0bEFBbVoyVTRTMENIZkpSSkVTOWlabmhuVXBNTFRCSGJXZlYwTVIxSWtZV21rOEZUVTAwQVpNcW9wOEhnaXByQQ?oc=5",
-      "published": "Sun, 05 Jul 2026 22:30:00 GMT",
-      "region": "international",
-      "segments": [
-        "晶片設計",
-        "政策 / 地緣政治"
-      ],
-      "companies": [
-        "NVIDIA",
-        "AMD",
-        "Intel"
-      ],
-      "importance": 4,
-      "summary_zh": "AMD Stock and Intel Crushed Nvidia in the First Half. Here's My Prediction for the Second Half. The Globe and Mail",
-      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     },
     {
       "id": "3dcb12743025b3988dff",
@@ -691,7 +780,7 @@
     },
     {
       "id": "b2a1a5fb217e075053a0",
-      "title": "Foxconn Tech stock holds steady on Taiwan listing - Ad-hoc-news.de",
+      "title": "Foxconn Tech stock holds steady on Taiwan listing - AD HOC NEWS",
       "title_zh": "台灣觀察：Foxconn的AI 伺服器 / 資料中心供應鏈相關動態",
       "source": "Taiwan AI Server Supply Chain - Google News",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNalFDXy1TU3lBRGZjVnFTczFGc1lEZzBHN01WX3ZUTlZIN1hMN1pERFp4azRJNXdQanVtLS1iYVVQb0ZNVHhRMXZFM1hLS2lLQ2gxSXF4MkJUNTQwQW9Sd29jLUJPUlROWlhTRWRKa0RwcG1rcWFLOXZwQmxzVjZBaUV4WmIwQmY2NkxBTTlTRExha3pjTTQ0RllZZGx1RjBGWDNLNHVSZnVWRU9T?oc=5",
@@ -705,7 +794,7 @@
         "Foxconn"
       ],
       "importance": 3,
-      "summary_zh": "Foxconn Tech stock holds steady on Taiwan listing Ad-hoc-news.de",
+      "summary_zh": "Foxconn Tech stock holds steady on Taiwan listing AD HOC NEWS",
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     },
     {
@@ -728,7 +817,7 @@
     },
     {
       "id": "6098a2d8f369379244a0",
-      "title": "Foxconn Tech stock stays supported by electronics demand - Ad-hoc-news.de",
+      "title": "Foxconn Tech stock stays supported by electronics demand - AD HOC NEWS",
       "title_zh": "台灣觀察：Foxconn的AI 伺服器 / 資料中心供應鏈相關動態",
       "source": "Taiwan AI Server Supply Chain - Google News",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcEJJcEVQdlctcVQxeUcwbE45NVhkMzl5MGlqbzVXOE5VZUhhODBwNXkzeUxFdGV3UDBzMHlRSERuRDhoMEV2ZlExSDY1N2NuZl9oRUI2aVJ3VlQwc2ZiWDN4X2ZsSkZ0eG9renFTUUFwb1pKTjNla2NhR0JQWjd3N3ZiZXhSSzFJZGwxM1hlNnd5WFFoaF9JTmp1WXJGWl8tNXpmY2Jpa2R5b0VXOXJvaFlIWmNmdw?oc=5",
@@ -741,7 +830,7 @@
         "Foxconn"
       ],
       "importance": 2,
-      "summary_zh": "Foxconn Tech stock stays supported by electronics demand Ad-hoc-news.de",
+      "summary_zh": "Foxconn Tech stock stays supported by electronics demand AD HOC NEWS",
       "investment_takeaway": "投資觀察重點在台灣供應鏈是否取得 AI 伺服器、封裝、測試或零組件增量訂單。"
     },
     {
@@ -2409,94 +2498,6 @@
       "importance": 3,
       "summary_zh": "Taiwan's Mainland Affairs Council told lawmakers on July 8 that China's 2026 15th Five-Year Plan is focused on expanding domestic demand and boosting consumption, but that deep structural problems remain unresolved. The council said China's low-speed growth co",
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
-      "id": "58e18a8dd621102d75d1",
-      "title": "Altos posts record first-half revenue as AI education demand rises",
-      "title_zh": "台灣觀察：ASE的先進封裝 / 測試相關動態",
-      "source": "DIGITIMES Asia",
-      "url": "https://www.digitimes.com/news/a20260708PD250/altos-computing-revenue-education-acer-demand.html",
-      "published": "Thu, 9 Jul 2026 00:33:03 GMT",
-      "region": "taiwan",
-      "segments": [
-        "先進封裝 / 測試",
-        "政策 / 地緣政治"
-      ],
-      "companies": [
-        "ASE"
-      ],
-      "importance": 3,
-      "summary_zh": "Acer subsidiary Altos reported record revenue for June, the second quarter, and the first half of 2026 as demand for AI infrastructure in education and enterprise markets continued to climb. The Taiwan-based systems provider said its AI hardware and software i",
-      "investment_takeaway": "投資觀察重點在 CoWoS/先進封裝產能、載板與測試稼動率，這通常是 AI 加速器供給瓶頸。"
-    },
-    {
-      "id": "78ef4b25e1b50909a0a5",
-      "title": "OpenAI loses safety chief as leadership turnover continues ahead of IPO",
-      "title_zh": "台灣觀察：OpenAI、Anthropic的CSP / 雲端需求相關動態",
-      "source": "DIGITIMES Asia",
-      "url": "https://www.digitimes.com/news/a20260709PD209/openai-policy-2024-anthropic-development.html",
-      "published": "Thu, 9 Jul 2026 00:31:41 GMT",
-      "region": "taiwan",
-      "segments": [
-        "CSP / 雲端需求"
-      ],
-      "companies": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "importance": 3,
-      "summary_zh": "OpenAI said one of its top safety and policy executives will leave the company on July 24, adding to a series of departures as it prepares for an initial public offering. The exit comes after several former OpenAI staffers have already moved to Anthropic.",
-      "investment_takeaway": "投資觀察重點在 CSP CapEx、AI 叢集擴建，以及 GPU/ASIC 需求是否轉成供應鏈訂單。"
-    },
-    {
-      "id": "b8741ac38bf876b7e2bb",
-      "title": "Honor expands Taiwan smartphone push with flagship and midrange launches",
-      "title_zh": "台灣觀察：政策 / 地緣政治的政策 / 地緣政治相關動態",
-      "source": "DIGITIMES Asia",
-      "url": "https://www.digitimes.com/news/a20260709PD211/honor-taiwan-flagship-smartphone-2026.html",
-      "published": "Thu, 9 Jul 2026 00:27:58 GMT",
-      "region": "taiwan",
-      "segments": [
-        "政策 / 地緣政治"
-      ],
-      "companies": [],
-      "importance": 3,
-      "summary_zh": "Honor recently launched the Honor 600 series in Taiwan, positioning it around AI imaging creation, a 200-megapixel main camera and a 7,000mAh battery. The company has also introduced the X6d 5G, giving it coverage in both midrange and premium segments within j",
-      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
-      "id": "1865198c1e10e5de0173",
-      "title": "Anpec June revenue rises on fan motor driver IC demand",
-      "title_zh": "台灣觀察：政策 / 地緣政治的政策 / 地緣政治相關動態",
-      "source": "DIGITIMES Asia",
-      "url": "https://www.digitimes.com/news/a20260709PD201/revenue-ic-management-demand-2026.html",
-      "published": "Thu, 9 Jul 2026 00:41:27 GMT",
-      "region": "taiwan",
-      "segments": [
-        "政策 / 地緣政治"
-      ],
-      "companies": [],
-      "importance": 2,
-      "summary_zh": "Taiwanese PMIC provider Anpec reported stronger revenue in June 2026, supported by rising demand for fan motor driver ICs. The company said June revenue reached NT$695 million, up 1.31% from May and 11.1% from a year earlier.",
-      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
-      "id": "bcd96b1275ccdba8b6bd",
-      "title": "Samsung weighs first AI glasses launch as it prepares July 22 Unpacked event",
-      "title_zh": "台灣觀察：Samsung的記憶體 / HBM相關動態",
-      "source": "DIGITIMES Asia",
-      "url": "https://www.digitimes.com/news/a20260709PD210/samsung-galaxy-launch-foldable-display.html",
-      "published": "Thu, 9 Jul 2026 00:28:44 GMT",
-      "region": "taiwan",
-      "segments": [
-        "記憶體 / HBM"
-      ],
-      "companies": [
-        "Samsung"
-      ],
-      "importance": 2,
-      "summary_zh": "Samsung Electronics said on July 8 that it will hold its Samsung Galaxy Unpacked 2026 global launch event in London on July 22. The company is expected to introduce next-generation foldable phones and smartwatches, while a possible debut for its first AI glass",
-      "investment_takeaway": "投資觀察重點在 HBM 價格、良率、客戶認證與供應合約年限。"
     }
   ]
 }
