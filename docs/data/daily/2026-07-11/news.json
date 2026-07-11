@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T22:21:17+00:00",
+  "generated_at": "2026-07-11T23:26:34+00:00",
   "date": "2026-07-11",
   "market": {
     "indices": [
@@ -270,6 +270,26 @@
     "errors": []
   },
   "items": [
+    {
+      "id": "74be240abcf71f13a99c",
+      "title": "Why Intel Stock Is Crashing as the 18A Delay Meets AMD's Data Center Surge - Phemex",
+      "title_zh": "國際觀察：AMD、Intel的CSP / 雲端需求相關動態",
+      "source": "Intel Foundry / AI Chips - Google News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QZXhPZjZ4SWNCcm5xY3dxOGJReU1fM3JzVzUtOVoxNTExUEctblJMZlp0cndETnQzVnlfdzlzb18tMlZnMzRkR1Fyb1E1OUtVQWN3VjJkdF9WcVZHV2NOdkpQcnVoQU9NQ0hCTFRWZEtBdnBGbzhaRXJnSmpJR0E?oc=5",
+      "published": "Wed, 08 Jul 2026 04:32:36 GMT",
+      "region": "international",
+      "segments": [
+        "CSP / 雲端需求",
+        "晶片設計"
+      ],
+      "companies": [
+        "AMD",
+        "Intel"
+      ],
+      "importance": 4,
+      "summary_zh": "Why Intel Stock Is Crashing as the 18A Delay Meets AMD's Data Center Surge Phemex",
+      "investment_takeaway": "投資觀察重點在 CSP CapEx、AI 叢集擴建，以及 GPU/ASIC 需求是否轉成供應鏈訂單。"
+    },
     {
       "id": "e89a96af218d5d6eb81d",
       "title": "[News] Japan’s Rapidus Takes on TSMC With Aggressive 2nm Pricing, Reportedly Targeting up to ¥3.5M per Wafer - TrendForce",
@@ -2479,34 +2499,6 @@
       ],
       "importance": 5,
       "summary_zh": "Here’s a question we hear often at Google Cloud: How do you safely run AI-generated code or untrusted binaries without putting your host application, data, and cloud credentials at risk? In other words, how do you give AI-written programs a safe space to run —",
-      "investment_takeaway": "投資觀察重點在 CSP CapEx、AI 叢集擴建，以及 GPU/ASIC 需求是否轉成供應鏈訂單。"
-    },
-    {
-      "id": "dae96fe6614bdffebcff",
-      "title": "Solve harder problems with AlphaEvolve, now available to everyone on Google Cloud",
-      "title_zh": "國際觀察：Google、NVIDIA的CSP / 雲端需求相關動態",
-      "source": "Google Cloud Blog",
-      "url": "https://cloud.google.com/blog/products/ai-machine-learning/alphaevolve-is-available-for-everyone/",
-      "published": "Thu, 09 Jul 2026 16:00:00 +0000",
-      "region": "international",
-      "segments": [
-        "CSP / 雲端需求",
-        "晶片設計",
-        "記憶體 / HBM",
-        "先進封裝 / 測試",
-        "設備 / 材料",
-        "AI 伺服器 / 資料中心供應鏈",
-        "政策 / 地緣政治"
-      ],
-      "companies": [
-        "Google",
-        "NVIDIA",
-        "AMD",
-        "KLA",
-        "ASE"
-      ],
-      "importance": 5,
-      "summary_zh": "Many of the most challenging and valuable problems in the world are related to optimization. Now, AI is now making these problems tractable. If you've ever tried to design a microchip, plan a delivery network, or optimize a training architecture for a large AI",
       "investment_takeaway": "投資觀察重點在 CSP CapEx、AI 叢集擴建，以及 GPU/ASIC 需求是否轉成供應鏈訂單。"
     }
   ]
