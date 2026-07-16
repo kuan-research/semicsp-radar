@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T16:48:31+00:00",
+  "generated_at": "2026-07-16T18:06:07+00:00",
   "date": "2026-07-16",
   "market": {
     "indices": [
@@ -177,6 +177,13 @@
     ],
     "news": [
       {
+        "title": "台積電對美投資追加1000億美元 AIT處長谷立言：美台互信最佳寫照",
+        "source": "Yahoo 股市 - 台股動態",
+        "url": "https://tw.news.yahoo.com/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%B0%8D%E7%BE%8E%E6%8A%95%E8%B3%87%E8%BF%BD%E5%8A%A01000%E5%84%84%E7%BE%8E%E5%85%83-ait%E8%99%95%E9%95%B7%E8%B0%B7%E7%AB%8B%E8%A8%80-%E7%BE%8E%E5%8F%B0%E4%BA%92%E4%BF%A1%E6%9C%80%E4%BD%B3%E5%AF%AB%E7%85%A7-173407568.html",
+        "published": "Thu, 16 Jul 2026 17:34:07 GMT",
+        "summary": "台積電、白宮以及美國商務部今（16）日共同宣布，台積電將追加1,000億美元投資，使其赴美投資總額達2,650億美元。這項投資將新增4座先進半導體製造廠，使台積電在美國的先進半導體製造與封裝廠總數達到"
+      },
+      {
         "title": "快訊／台積電ADR跌3%！晶片股重挫四指慘綠 台指期狂瀉1064點",
         "source": "Yahoo 股市 - 台股動態",
         "url": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E5%8F%B0%E7%A9%8D%E9%9B%BBadr%E8%B7%8C3-%E6%99%B6%E7%89%87%E8%82%A1%E9%87%8D%E6%8C%AB%E5%9B%9B%E6%8C%87%E6%85%98%E7%B6%A0-%E5%8F%B0%E6%8C%87%E6%9C%9F%E7%8B%82%E7%80%891064%E9%BB%9E-164200808.html",
@@ -210,13 +217,6 @@
         "url": "https://tw.news.yahoo.com/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%AE%A3%E5%B8%83%E6%93%B4%E5%A4%A7%E5%B0%8D%E7%BE%8E%E6%8A%95%E8%B3%87%E5%8D%83%E5%84%84-%E6%94%BF%E9%99%A2-%E7%A2%BA%E4%BF%9D%E4%B8%89%E5%80%8B%E5%84%AA%E5%85%88%E7%B6%AD%E6%8C%81%E5%8F%B0%E7%81%A3%E9%A0%98%E5%85%88-111423750.html",
         "published": "Thu, 16 Jul 2026 14:22:59 GMT",
         "summary": "[Newtalk新聞] 針對台積電今（16）日宣布擴大對美投資1000億美元，行政院發言人李慧芝對此表示，這是我國企業因應全球市場需求、人工智慧（AI）高速擴張及供應鏈區域化趨勢所進行的自主投資規劃；"
-      },
-      {
-        "title": "台積電加碼投資美廠1千億美元 網友掀出魏哲家、郭智輝曾說一句話",
-        "source": "Yahoo 股市 - 台股動態",
-        "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%8A%A0%E7%A2%BC%E6%8A%95%E8%B3%87%E7%BE%8E%E5%BB%A01%E5%8D%83%E5%84%84%E7%BE%8E%E5%85%83-%E7%B6%B2%E5%8F%8B%E6%8E%80%E5%87%BA%E9%AD%8F%E5%93%B2%E5%AE%B6-%E9%83%AD%E6%99%BA%E8%BC%9D%E6%9B%BE%E8%AA%AA-%E5%8F%A5%E8%A9%B1-141939218.html",
-        "published": "Thu, 16 Jul 2026 14:19:39 GMT",
-        "summary": "台積電今（16）日宣布，為滿足美國客戶未來多年的強勁需求，將在美國亞利桑那州加碼投資1000億美元，預計可再興建4座晶圓廠或先進封裝廠。同時，將持續加碼投資台灣，預計興建13座先進製程與先進封裝廠。不"
       },
       {
         "title": "最後一隻白老鼠？ 26萬散戶昨FOMO進場淪住套房 分析師：健康換手",
@@ -270,6 +270,55 @@
     "errors": []
   },
   "items": [
+    {
+      "id": "0aece07611683838e229",
+      "title": "Securing AI at Enterprise Scale: The Google Kubernetes Engine Blueprint",
+      "title_zh": "國際觀察：Google、NVIDIA的CSP / 雲端需求相關動態",
+      "source": "Google Cloud Blog",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/securing-ai-at-enterprise-scale-the-google-kubernetes-engine-blueprint/",
+      "published": "Thu, 16 Jul 2026 11:28:00 +0000",
+      "region": "international",
+      "segments": [
+        "CSP / 雲端需求",
+        "晶片設計",
+        "晶圓代工 / 製程",
+        "記憶體 / HBM",
+        "先進封裝 / 測試",
+        "設備 / 材料",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "Google",
+        "NVIDIA",
+        "Intel",
+        "ASE"
+      ],
+      "importance": 5,
+      "summary_zh": "Artificial intelligence is moving from prototype to production faster than traditional security paradigms can adapt. For CISOs and platform engineering teams, the challenge is clear: you need to protect proprietary model weights, defend against novel applicati",
+      "investment_takeaway": "投資觀察重點在 CSP CapEx、AI 叢集擴建，以及 GPU/ASIC 需求是否轉成供應鏈訂單。"
+    },
+    {
+      "id": "cea1f411720a395de9f1",
+      "title": "Nvidia: The TSMC Earnings Release Was A Warning Shot (NASDAQ:NVDA) - Seeking Alpha",
+      "title_zh": "台灣觀察：NVIDIA、TSMC的晶片設計相關動態",
+      "source": "TSMC / CoWoS / Advanced Packaging - Google News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVmszaGJSY3NiV2trd012c0dLM3V1bnJLZVljNjdBc1BTRmVvRktiVWw1T1lMU2Y5SEVOVDc5N3RtLV9KR01MVEI4RC1TeTlHTGRHU1BLT09BU0NSYmItaWFkb1Nyal84Z1JnTFc1dmpCTkk3anFWb1dKREpHeFJYbEhZMFc3bmx0NmRybHdiOF9oNnIzN0Nv?oc=5",
+      "published": "Thu, 16 Jul 2026 14:11:50 GMT",
+      "region": "taiwan",
+      "segments": [
+        "晶片設計",
+        "晶圓代工 / 製程",
+        "先進封裝 / 測試"
+      ],
+      "companies": [
+        "NVIDIA",
+        "TSMC",
+        "ASE"
+      ],
+      "importance": 5,
+      "summary_zh": "Nvidia: The TSMC Earnings Release Was A Warning Shot (NASDAQ:NVDA) Seeking Alpha",
+      "investment_takeaway": "投資觀察重點在 CoWoS/先進封裝產能、載板與測試稼動率，這通常是 AI 加速器供給瓶頸。"
+    },
     {
       "id": "db83ba0883a41c40f9b0",
       "title": "Marvell Drops 8% as AI Capex Slowdown Fears Weigh on Chips; Broadcom, AMD, and Intel Slide - 24/7 Wall St.",
@@ -739,12 +788,31 @@
       "investment_takeaway": "投資觀察重點在台灣供應鏈是否取得 AI 伺服器、封裝、測試或零組件增量訂單。"
     },
     {
+      "id": "f4c61306d1679d32657a",
+      "title": "Chipmaker TSMC to invest another $100bn in US production - Financial Times",
+      "title_zh": "台灣觀察：TSMC的晶圓代工 / 製程相關動態",
+      "source": "TSMC / CoWoS / Advanced Packaging - Google News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTFQ5ZnZOX0lDUnNlalY1TXg0TjdTMHg2eUdyVXRHMVJGajY5OEp0aWR4bjFPQ2tZOXVHVU5WWFgtM1V5RGZiWllKMmJEU3dlU3UzMXhxV2NNdVUyTnB5VFN3c280UGdUVDgzZllSMjRaUnhBRXVRQS0wcEtoVkpQNm1vV1Q?oc=5",
+      "published": "Thu, 16 Jul 2026 06:17:48 GMT",
+      "region": "taiwan",
+      "segments": [
+        "晶圓代工 / 製程",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "TSMC"
+      ],
+      "importance": 4,
+      "summary_zh": "Chipmaker TSMC to invest another $100bn in US production Financial Times",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+    },
+    {
       "id": "d21441c91aae4d6486c1",
       "title": "Taiwan computer chipmaker TSMC pledges another $100 billion to expand US chipmaking capacity - AP News",
       "title_zh": "台灣觀察：TSMC的晶圓代工 / 製程相關動態",
       "source": "TSMC / CoWoS / Advanced Packaging - Google News",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT2MzZG5oUVN6dDFLX0dtWk5GNXdoakNILXBqRmZsUlQ5NzdEbk1aZTlxcU9xWl9lS1NBLWNwb0JfbWctbUwxeFBKMlNMeVN6UEZmbF95NlRIRVFZbDN2SW9VZjFzUHpTYTljR21GU2xrM1JtRU9ETTFBMnhFeHBQcHRKQzRIV202RWdYZXFmektSalBDckxITVRFeDJNZw?oc=5",
-      "published": "Thu, 16 Jul 2026 08:28:00 GMT",
+      "published": "Thu, 16 Jul 2026 16:46:00 GMT",
       "region": "taiwan",
       "segments": [
         "晶圓代工 / 製程",
@@ -774,25 +842,6 @@
       ],
       "importance": 4,
       "summary_zh": "Taiwan chipmaker TSMC reports record quarterly profit Yahoo Finance",
-      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
-      "id": "f4c61306d1679d32657a",
-      "title": "Chipmaker TSMC to invest another $100bn in US production - Financial Times",
-      "title_zh": "台灣觀察：TSMC的晶圓代工 / 製程相關動態",
-      "source": "TSMC / CoWoS / Advanced Packaging - Google News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTFQ5ZnZOX0lDUnNlalY1TXg0TjdTMHg2eUdyVXRHMVJGajY5OEp0aWR4bjFPQ2tZOXVHVU5WWFgtM1V5RGZiWllKMmJEU3dlU3UzMXhxV2NNdVUyTnB5VFN3c280UGdUVDgzZllSMjRaUnhBRXVRQS0wcEtoVkpQNm1vV1Q?oc=5",
-      "published": "Thu, 16 Jul 2026 06:17:48 GMT",
-      "region": "taiwan",
-      "segments": [
-        "晶圓代工 / 製程",
-        "政策 / 地緣政治"
-      ],
-      "companies": [
-        "TSMC"
-      ],
-      "importance": 4,
-      "summary_zh": "Chipmaker TSMC to invest another $100bn in US production Financial Times",
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     },
     {
@@ -1020,7 +1069,7 @@
         "NVIDIA"
       ],
       "importance": 5,
-      "summary_zh": "NVIDIA today announced it is working with Noetra Corp. to launch an NVIDIA Vera Rubin AI factory with 13,750 NVIDIA Vera CPUs and 27,500 NVIDIA Rubin GPUs for national physical AI...",
+      "summary_zh": "NVIDIA today announced it is working with Noetra Corp. to launch an NVIDIA Vera Rubin AI factory with 13,750 NVIDIA Vera CPUs and 27,500 NVIDIA Rubin GPUs for national physical AI.",
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     },
     {
@@ -1062,25 +1111,6 @@
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     },
     {
-      "id": "c91c272b12c8b9030d16",
-      "title": "TSMC to Spend $265 Billion on US Buildout in Key Trump Deal - Bloomberg.com",
-      "title_zh": "台灣觀察：TSMC的晶圓代工 / 製程相關動態",
-      "source": "TSMC / CoWoS / Advanced Packaging - Google News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX1A0d2FuZ011aDNqdjI4QkFlTi1ZQ0ZqQnZyamNVS2gwRXFyalpYWTJTWjhRUzZXc0JVQWFIQURYQTJZRUdEUTBkU3I3ME5JMGU2ckJEQ3BsY0tWd0ZNYzl1eWVXel8xdGdrbldmWGZwZVVNU1pOVndrUkdsR1RNMmp6Z3gyamU4TmhoQ1RobUdIZEU5V1FrQVNkOWN2OEh6eGU1a1NkdUpFWVg3S1E?oc=5",
-      "published": "Thu, 16 Jul 2026 06:00:00 GMT",
-      "region": "taiwan",
-      "segments": [
-        "晶圓代工 / 製程",
-        "政策 / 地緣政治"
-      ],
-      "companies": [
-        "TSMC"
-      ],
-      "importance": 4,
-      "summary_zh": "TSMC to Spend $265 Billion on US Buildout in Key Trump Deal Bloomberg.com",
-      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
       "id": "4b4f2221198baf410d92",
       "title": "Taiwan chipmaker TSMC to invest another $100bn in Arizona fabs - Yahoo Finance",
       "title_zh": "台灣觀察：TSMC的晶圓代工 / 製程相關動態",
@@ -1097,6 +1127,25 @@
       ],
       "importance": 4,
       "summary_zh": "Taiwan chipmaker TSMC to invest another $100bn in Arizona fabs Yahoo Finance",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+    },
+    {
+      "id": "c91c272b12c8b9030d16",
+      "title": "TSMC to Spend $265 Billion on US Buildout in Key Trump Deal - Bloomberg.com",
+      "title_zh": "台灣觀察：TSMC的晶圓代工 / 製程相關動態",
+      "source": "TSMC / CoWoS / Advanced Packaging - Google News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX1A0d2FuZ011aDNqdjI4QkFlTi1ZQ0ZqQnZyamNVS2gwRXFyalpYWTJTWjhRUzZXc0JVQWFIQURYQTJZRUdEUTBkU3I3ME5JMGU2ckJEQ3BsY0tWd0ZNYzl1eWVXel8xdGdrbldmWGZwZVVNU1pOVndrUkdsR1RNMmp6Z3gyamU4TmhoQ1RobUdIZEU5V1FrQVNkOWN2OEh6eGU1a1NkdUpFWVg3S1E?oc=5",
+      "published": "Thu, 16 Jul 2026 06:00:00 GMT",
+      "region": "taiwan",
+      "segments": [
+        "晶圓代工 / 製程",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "TSMC"
+      ],
+      "importance": 4,
+      "summary_zh": "TSMC to Spend $265 Billion on US Buildout in Key Trump Deal Bloomberg.com",
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     },
     {
@@ -1207,24 +1256,6 @@
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     },
     {
-      "id": "3c9349fcd0908a9f067c",
-      "title": "TSMC to Invest a Further $100 Billion in U.S. After AI Fuels Surge in Earnings - WSJ",
-      "title_zh": "台灣觀察：TSMC的晶圓代工 / 製程相關動態",
-      "source": "TSMC / CoWoS / Advanced Packaging - Google News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR2F6a01DSDV3TC10TENhU0VkUXppaXNkTGswdHFnb0tSOS1PM2pTajEzY3JmNEtCU2ktSUlEZWpDUWMxMHdtSmFYNVBLcF9rQlF6ZTkxanRkYXdYWmh3cV9aT0lqOF94amZ0OUhWQWdKUnBoRi1Tb0pxNi1BYnhJZGJtalAwN19INnp6bE1R?oc=5",
-      "published": "Thu, 16 Jul 2026 10:28:00 GMT",
-      "region": "taiwan",
-      "segments": [
-        "晶圓代工 / 製程"
-      ],
-      "companies": [
-        "TSMC"
-      ],
-      "importance": 4,
-      "summary_zh": "TSMC to Invest a Further $100 Billion in U.S. After AI Fuels Surge in Earnings WSJ",
-      "investment_takeaway": "投資觀察重點在台灣供應鏈是否取得 AI 伺服器、封裝、測試或零組件增量訂單。"
-    },
-    {
       "id": "7dfcb099542075da835b",
       "title": "Foxconn shows Model A and Model B EVs in Japan through CDMS push - digitimes",
       "title_zh": "台灣觀察：Foxconn的AI 伺服器 / 資料中心供應鏈相關動態",
@@ -1242,6 +1273,24 @@
       "importance": 4,
       "summary_zh": "Foxconn shows Model A and Model B EVs in Japan through CDMS push digitimes",
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+    },
+    {
+      "id": "3c9349fcd0908a9f067c",
+      "title": "TSMC to Invest a Further $100 Billion in U.S. After AI Fuels Surge in Earnings - WSJ",
+      "title_zh": "台灣觀察：TSMC的晶圓代工 / 製程相關動態",
+      "source": "TSMC / CoWoS / Advanced Packaging - Google News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR2F6a01DSDV3TC10TENhU0VkUXppaXNkTGswdHFnb0tSOS1PM2pTajEzY3JmNEtCU2ktSUlEZWpDUWMxMHdtSmFYNVBLcF9rQlF6ZTkxanRkYXdYWmh3cV9aT0lqOF94amZ0OUhWQWdKUnBoRi1Tb0pxNi1BYnhJZGJtalAwN19INnp6bE1R?oc=5",
+      "published": "Thu, 16 Jul 2026 10:28:00 GMT",
+      "region": "taiwan",
+      "segments": [
+        "晶圓代工 / 製程"
+      ],
+      "companies": [
+        "TSMC"
+      ],
+      "importance": 4,
+      "summary_zh": "TSMC to Invest a Further $100 Billion in U.S. After AI Fuels Surge in Earnings WSJ",
+      "investment_takeaway": "投資觀察重點在台灣供應鏈是否取得 AI 伺服器、封裝、測試或零組件增量訂單。"
     },
     {
       "id": "2b05882c9908d901fe67",
@@ -1303,7 +1352,7 @@
       "title_zh": "台灣觀察：TSMC的晶圓代工 / 製程相關動態",
       "source": "TSMC / CoWoS / Advanced Packaging - Google News",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNajE0SHpFdFpWYkktdHp5dkNIN2Ytb3VDWEZwTUs1NU5pSEZHN0RxWGwwUTNnNnNjbXVsRS1wdXNmV0hvSWp6RFA4V1RnNk5Ra09ZZUdvX0QxZlRSeXNOcVo4bTFmWUpuelo2QTBGUHd6Q2Z5bjM5S3VtZ1RWU0theWQySVFPZW5ydzVPTHRQa2hJZw?oc=5",
-      "published": "Thu, 16 Jul 2026 05:36:02 GMT",
+      "published": "Thu, 16 Jul 2026 05:36:00 GMT",
       "region": "taiwan",
       "segments": [
         "晶圓代工 / 製程"
@@ -2095,25 +2144,6 @@
       "investment_takeaway": "投資觀察重點在台灣供應鏈是否取得 AI 伺服器、封裝、測試或零組件增量訂單。"
     },
     {
-      "id": "f419895e08906548b034",
-      "title": "Foxconn shows Model A and Model B EVs in Japan through CDMS push - digitimes",
-      "title_zh": "台灣觀察：Foxconn的AI 伺服器 / 資料中心供應鏈相關動態",
-      "source": "Taiwan AI Server Supply Chain - Google News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOS2VYc2xwaFNfYno3UFFFRG5tQzVncThENjQtbmFIUkFaam5YTVdhUUtaRGdRcUJMRnQ4OTE3dzZfYkt6Szl4emlKcnUwMmo5UWIxR0tKTGVBck1rOTlNVTRyZDU4SmdUOUNGN2dzdjRQSXB3RDFiMTV0MWQ2LVQtUV9MU0F4VkFObTVwN0lkMzg?oc=5",
-      "published": "Thu, 16 Jul 2026 01:16:50 GMT",
-      "region": "taiwan",
-      "segments": [
-        "AI 伺服器 / 資料中心供應鏈",
-        "政策 / 地緣政治"
-      ],
-      "companies": [
-        "Foxconn"
-      ],
-      "importance": 4,
-      "summary_zh": "Foxconn shows Model A and Model B EVs in Japan through CDMS push digitimes",
-      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
       "id": "2deed52e675918d1b80d",
       "title": "Intel's EMIB packaging gains traction as chip designers look to skirt TSMC's CoWoS constraints — Google's reported decision for 9th-gen TPUs highlights Intel's attractive alternative - Tom's Hardware",
       "title_zh": "台灣觀察：Google、Intel的晶片設計相關動態",
@@ -2175,6 +2205,25 @@
       "importance": 4,
       "summary_zh": "Intel becomes the first company to ship high-volume logic chips made with ASML's High NA EUV — select Panther Lake layers on 18A are now dual-qualified for 0.55 NA scanners Tom's Hardware",
       "investment_takeaway": "投資觀察重點在此消息是否影響需求能見度、產能瓶頸、價格或供應鏈議價能力。"
+    },
+    {
+      "id": "f419895e08906548b034",
+      "title": "Foxconn shows Model A and Model B EVs in Japan through CDMS push - digitimes",
+      "title_zh": "台灣觀察：Foxconn的AI 伺服器 / 資料中心供應鏈相關動態",
+      "source": "Taiwan AI Server Supply Chain - Google News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOS2VYc2xwaFNfYno3UFFFRG5tQzVncThENjQtbmFIUkFaam5YTVdhUUtaRGdRcUJMRnQ4OTE3dzZfYkt6Szl4emlKcnUwMmo5UWIxR0tKTGVBck1rOTlNVTRyZDU4SmdUOUNGN2dzdjRQSXB3RDFiMTV0MWQ2LVQtUV9MU0F4VkFObTVwN0lkMzg?oc=5",
+      "published": "Thu, 16 Jul 2026 01:16:50 GMT",
+      "region": "taiwan",
+      "segments": [
+        "AI 伺服器 / 資料中心供應鏈",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "Foxconn"
+      ],
+      "importance": 4,
+      "summary_zh": "Foxconn shows Model A and Model B EVs in Japan through CDMS push digitimes",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     },
     {
       "id": "888e1be474b2dab43827",
@@ -2426,7 +2475,7 @@
       "title_zh": "台灣觀察：Intel、TSMC的晶片設計相關動態",
       "source": "TSMC / CoWoS / Advanced Packaging - Google News",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GTmt4d2xkaWZta21vTENaWXp2akozT0s1VFU0NlNiTm0zajg4VUhkSlJIX19VMEJHa2ZPVS1pbVBHNGg0VzRnUUotaGNvSlRpcFJFNHMxT3pvdjFqbEVaRTlpbnIzSmI2Zjl3RVE5V2ZxT3ZtTUE?oc=5",
-      "published": "Thu, 16 Jul 2026 13:55:00 GMT",
+      "published": "Thu, 16 Jul 2026 16:48:00 GMT",
       "region": "taiwan",
       "segments": [
         "晶片設計",
@@ -2499,41 +2548,6 @@
       "importance": 5,
       "summary_zh": "Why AI apps fail in production (and how Google solved it) We are living in the golden age of the weekend AI side project. Thanks to agentic engineering and LLMs, the time to go from a blank IDE to a functional local application has dropped from quarters to hou",
       "investment_takeaway": "投資觀察重點在 CSP CapEx、AI 叢集擴建，以及 GPU/ASIC 需求是否轉成供應鏈訂單。"
-    },
-    {
-      "id": "f03a69a4be90f0490a5e",
-      "title": "Two AI Server Bets, Two Outcomes: Dell Technologies vs Super Micro Computer - AOL.com",
-      "title_zh": "台灣觀察：AI 伺服器 / 資料中心供應鏈的AI 伺服器 / 資料中心供應鏈相關動態",
-      "source": "Taiwan AI Server Supply Chain - Google News",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9URC1qOWl3YVRlWWlweHFWclpBQk4zaWJtWk9xNTdRQklCN09FV0pxSHQtNF9NT3A0a3VQcUhDUVJJbWZiYld3d3hIdkdhR2VuaVBSNlNPdFVGUkdBWnRERFhQQmNJVXRIMWhxYUV6ZVpiY3pR?oc=5",
-      "published": "Wed, 15 Jul 2026 17:08:44 GMT",
-      "region": "taiwan",
-      "segments": [
-        "AI 伺服器 / 資料中心供應鏈"
-      ],
-      "companies": [],
-      "importance": 4,
-      "summary_zh": "Two AI Server Bets, Two Outcomes: Dell Technologies vs Super Micro Computer AOL.com",
-      "investment_takeaway": "投資觀察重點在台灣供應鏈是否取得 AI 伺服器、封裝、測試或零組件增量訂單。"
-    },
-    {
-      "id": "5972b649be09ec009b94",
-      "title": "AI memory, chip stocks fall again after brief recovery despite strong ASML results - Seeking Alpha",
-      "title_zh": "國際觀察：ASML的記憶體 / HBM相關動態",
-      "source": "Intel Foundry / AI Chips - Google News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR3lHUGNsWmpmTWNFM2FieFNGVUl6ZW9yUF9FZWtHZ2tNZl9COHJaT2hFOHVFMklnUkk3dmVGVFB2dWdXdEZVNHc4S2xFOHdhQTRyVTk1NWJTZWtGeENicEtFSENKNEk4YXB2YUFDTXpSbHEwWjFTaGNScXBBMW9EQ3E0UTFPMU5MM1NmTzRpQTUwLVk1cEpoV2JwR2JmRmZkUDI5VUZBdVpUT2E2amlYRm12Vlg2RkEtNEZ3?oc=5",
-      "published": "Wed, 15 Jul 2026 15:38:01 GMT",
-      "region": "international",
-      "segments": [
-        "記憶體 / HBM",
-        "設備 / 材料"
-      ],
-      "companies": [
-        "ASML"
-      ],
-      "importance": 3,
-      "summary_zh": "AI memory, chip stocks fall again after brief recovery despite strong ASML results Seeking Alpha",
-      "investment_takeaway": "投資觀察重點在 HBM 價格、良率、客戶認證與供應合約年限。"
     }
   ]
 }
