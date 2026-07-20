@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T15:10:59+00:00",
+  "generated_at": "2026-07-20T16:55:04+00:00",
   "date": "2026-07-20",
   "market": {
     "indices": [
@@ -271,6 +271,109 @@
   },
   "items": [
     {
+      "id": "ff016fbfbc8c22a35fee",
+      "title": "AWS Weekly Roundup: One-click Lambda setup prompt, OpenAI GPT-5.6 models on Bedrock, and more (July 20, 2026)",
+      "title_zh": "國際觀察：OpenAI的CSP / 雲端需求相關動態",
+      "source": "Amazon AWS News Blog",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-one-click-lambda-setup-prompt-openai-gpt-5-6-models-on-bedrock-and-more-july-20-2026/",
+      "published": "Mon, 20 Jul 2026 16:37:34 +0000",
+      "region": "international",
+      "segments": [
+        "CSP / 雲端需求",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "importance": 5,
+      "summary_zh": "Last week, my team visited Seoul to meet AWS Korea User Group (AWSKRUG) leaders. AWSKRUG is the largest cloud developer community in Korea, with 20 meetup groups organized by topic and area that collectively host over 100 events each year, primarily in Seoul. ",
+      "investment_takeaway": "投資觀察重點在 CSP CapEx、AI 叢集擴建，以及 GPU/ASIC 需求是否轉成供應鏈訂單。"
+    },
+    {
+      "id": "2229f7c761ee29767d2e",
+      "title": "Accelerating automotive innovation with C4A-metal and Panasonic Automotive vSkipGen",
+      "title_zh": "國際觀察：Google、Meta的CSP / 雲端需求相關動態",
+      "source": "Google Cloud Blog",
+      "url": "https://cloud.google.com/blog/topics/partners/panasonic-automotive-vskipgen-runs-on-axion-based-c4a-metal/",
+      "published": "Mon, 20 Jul 2026 16:00:00 +0000",
+      "region": "international",
+      "segments": [
+        "CSP / 雲端需求",
+        "晶片設計",
+        "記憶體 / HBM",
+        "先進封裝 / 測試",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "Google",
+        "Meta",
+        "ASE"
+      ],
+      "importance": 5,
+      "summary_zh": "As the automotive landscape accelerates toward software-defined vehicles, Cockpit Domain Controllers (CDCs) are becoming the core of next-generation in-cabin experiences. The ability to rapidly develop, test, and validate CDC software in a flexible, hardware-i",
+      "investment_takeaway": "投資觀察重點在 CSP CapEx、AI 叢集擴建，以及 GPU/ASIC 需求是否轉成供應鏈訂單。"
+    },
+    {
+      "id": "5d65f6ebd42135aebb8c",
+      "title": "Making highly available, multi-region Cloud Run services just got easier",
+      "title_zh": "國際觀察：Google、ASE的CSP / 雲端需求相關動態",
+      "source": "Google Cloud Blog",
+      "url": "https://cloud.google.com/blog/products/serverless/cloud-run-multi-region-services-enhanced-for-high-availability/",
+      "published": "Mon, 20 Jul 2026 16:00:00 +0000",
+      "region": "international",
+      "segments": [
+        "CSP / 雲端需求",
+        "記憶體 / HBM",
+        "先進封裝 / 測試",
+        "AI 伺服器 / 資料中心供應鏈",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "Google",
+        "ASE"
+      ],
+      "importance": 5,
+      "summary_zh": "Application downtime for mission-critical services can directly impact your reputation and bottom line. To avoid that, you need to be able to deploy regionally resilient workloads that detect and automatically recover from failures. But setting up multi-region",
+      "investment_takeaway": "投資觀察重點在 CSP CapEx、AI 叢集擴建，以及 GPU/ASIC 需求是否轉成供應鏈訂單。"
+    },
+    {
+      "id": "b4671bd9340d557ace0c",
+      "title": "Dell, Super Micro Stocks Rise Premarket After Elon Musk Denies Report Of $52B AI Server Deal With Foxconn - TradingView",
+      "title_zh": "台灣觀察：Foxconn的AI 伺服器 / 資料中心供應鏈相關動態",
+      "source": "Taiwan AI Server Supply Chain - Google News",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00WndFQXpnQkhISTl4VGJNLUFJMlhVWXF6QnlVWFU2ZUl1cXJtcUhTNEtSMU1LOHRkdGtOTG1oZVpqcU1tUlBFT0hOQmN5d2Vyb2RiUTRCb2ZvUVpSa0EzZlBLZmJhbWVfbGV3?oc=5",
+      "published": "Mon, 20 Jul 2026 08:35:46 GMT",
+      "region": "taiwan",
+      "segments": [
+        "AI 伺服器 / 資料中心供應鏈",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "Foxconn"
+      ],
+      "importance": 5,
+      "summary_zh": "Dell, Super Micro Stocks Rise Premarket After Elon Musk Denies Report Of $52B AI Server Deal With Foxconn TradingView",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+    },
+    {
+      "id": "3523f20e10f6ec02223f",
+      "title": "Intel vs ARM: two very different bets on the AI chip wave - Investing.com",
+      "title_zh": "國際觀察：Intel的晶片設計相關動態",
+      "source": "Intel Foundry / AI Chips - Google News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTGd6UVRkaUtNcE9zNGNuU2dfR2VsRk44OUVYNUEyel9QUTNwS2Vid0Yzd0NKbEQtb3NvZjZNTW9QMktCRmRyZGlxd2VNUDFpTWtobjlNZk9rcC0wMjRJVThCd1NxaFNtRG9UYW9feHVaY0QyaVBVaUdJX1R1Sm4tTTdvdzJ0UGZ2Z0JrR0ZHb3dfMlBsc3g3X3hMNlhPbkp4eGgwU0RhS3lici0weXVGdjNvNUdSbE9KTFE?oc=5",
+      "published": "Mon, 20 Jul 2026 15:25:06 GMT",
+      "region": "international",
+      "segments": [
+        "晶片設計"
+      ],
+      "companies": [
+        "Intel"
+      ],
+      "importance": 2,
+      "summary_zh": "Intel vs ARM: two very different bets on the AI chip wave Investing.com",
+      "investment_takeaway": "投資觀察重點在此消息是否影響需求能見度、產能瓶頸、價格或供應鏈議價能力。"
+    },
+    {
       "id": "35ec4e47b8bd4b6b30ae",
       "title": "Intel Foundry Yield Reportedly Rises to 85%, Secures Orders From Nvidia, OpenAI and Others - TradingKey",
       "title_zh": "國際觀察：OpenAI、NVIDIA的CSP / 雲端需求相關動態",
@@ -431,6 +534,25 @@
       "investment_takeaway": "投資觀察重點在此消息是否影響需求能見度、產能瓶頸、價格或供應鏈議價能力。"
     },
     {
+      "id": "4746f3de237b07987363",
+      "title": "Dell, Super Micro Stocks Rise Premarket After Elon Musk Denies Report Of $52B AI Server Deal With Foxconn - TradingView",
+      "title_zh": "台灣觀察：Foxconn的AI 伺服器 / 資料中心供應鏈相關動態",
+      "source": "Taiwan AI Server Supply Chain - Google News",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONWxGSm1qbjZRbHFHYTlvWUpYbE1GWjd5MlBERlJzZ0NDZTl5Q0w1RHgzSWQ5X0c1QnpGdUhMREZoaFNRZnpIalljTTVGQm05Q3psM3lnTGhRaFViam5LLUtMWVptU1RDZ19sZzNHUWpYQlBCV0R5akR2bE1vczVpaFpIVmQxcThjU1ZQcU1sSl9NNWdvejJ6SGZOb3RGRTNqd3B6Z3BiSVBFc0dhSm1QN2pnTEEzNTdzVmlJa3JMWDI1N0ozSzFJTnlzZUQ5MmY2OTcteVozTzdwU1pvaGVSSTd3R05hRWtGYnpQZ0pvMGo1c3hUeHB3?oc=5",
+      "published": "Mon, 20 Jul 2026 08:35:46 GMT",
+      "region": "taiwan",
+      "segments": [
+        "AI 伺服器 / 資料中心供應鏈",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "Foxconn"
+      ],
+      "importance": 5,
+      "summary_zh": "Dell, Super Micro Stocks Rise Premarket After Elon Musk Denies Report Of $52B AI Server Deal With Foxconn TradingView",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+    },
+    {
       "id": "f5a27ddd48d21153fc58",
       "title": "Intel Foundry Deploys High-NA EUV Tools in High-Volume Production - thelec.net",
       "title_zh": "國際觀察：Intel的晶片設計相關動態",
@@ -469,25 +591,6 @@
       ],
       "importance": 5,
       "summary_zh": "ASML's planned Low-NA EUV machine price hikes reportedly frustrate TSMC — lithography machine maker comes knocking to make bank on TSMC's profitable fabs, potentially costing the Taiwanese chipmaker billions Tom's Hardware",
-      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
-      "id": "4746f3de237b07987363",
-      "title": "Dell, Super Micro Stocks Rise Premarket After Elon Musk Denies Report Of $52B AI Server Deal With Foxconn - TradingView",
-      "title_zh": "台灣觀察：Foxconn的AI 伺服器 / 資料中心供應鏈相關動態",
-      "source": "Taiwan AI Server Supply Chain - Google News",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONWxGSm1qbjZRbHFHYTlvWUpYbE1GWjd5MlBERlJzZ0NDZTl5Q0w1RHgzSWQ5X0c1QnpGdUhMREZoaFNRZnpIalljTTVGQm05Q3psM3lnTGhRaFViam5LLUtMWVptU1RDZ19sZzNHUWpYQlBCV0R5akR2bE1vczVpaFpIVmQxcThjU1ZQcU1sSl9NNWdvejJ6SGZOb3RGRTNqd3B6Z3BiSVBFc0dhSm1QN2pnTEEzNTdzVmlJa3JMWDI1N0ozSzFJTnlzZUQ5MmY2OTcteVozTzdwU1pvaGVSSTd3R05hRWtGYnpQZ0pvMGo1c3hUeHB3?oc=5",
-      "published": "Mon, 20 Jul 2026 08:35:46 GMT",
-      "region": "taiwan",
-      "segments": [
-        "AI 伺服器 / 資料中心供應鏈",
-        "政策 / 地緣政治"
-      ],
-      "companies": [
-        "Foxconn"
-      ],
-      "importance": 5,
-      "summary_zh": "Dell, Super Micro Stocks Rise Premarket After Elon Musk Denies Report Of $52B AI Server Deal With Foxconn TradingView",
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     },
     {
@@ -2451,95 +2554,6 @@
       "importance": 3,
       "summary_zh": "Global suppliers are facing tougher competition as China's semiconductor and machine tool industries expand quickly, with implications for customers, pricing, and technology choices worldwide. Germany's Trumpf says it is responding with innovation in chips and",
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
-      "id": "ac2a891c3e5766629764",
-      "title": "Foxlink opens first US AI demonstration factory in Texas",
-      "title_zh": "台灣觀察：Intel的晶片設計相關動態",
-      "source": "DIGITIMES Asia",
-      "url": "https://www.digitimes.com/news/a20260716PD240/foxlink-texas-manufacturing-subsidiary-production.html",
-      "published": "Fri, 17 Jul 2026 09:03:40 GMT",
-      "region": "taiwan",
-      "segments": [
-        "晶片設計",
-        "政策 / 地緣政治"
-      ],
-      "companies": [
-        "Intel"
-      ],
-      "importance": 3,
-      "summary_zh": "Foxlink Texas (FTI), a subsidiary of Cheng Uei Precision Industry (Foxlink), officially opened its first artificial intelligence (AI) demonstration factory at AllianceTexas in Fort Worth, Texas, on July 14, marking the group's first such facility in the US. Th",
-      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
-      "id": "43f89fc3dd47a0eac21e",
-      "title": "Japan's ACSL eyes Taiwan drone supply chain expansion, commits to TADTE 2027",
-      "title_zh": "台灣觀察：政策 / 地緣政治的政策 / 地緣政治相關動態",
-      "source": "DIGITIMES Asia",
-      "url": "https://www.digitimes.com/news/a20260717PD218/taiwan-drone-supply-chain-industrial-2027-technology.html",
-      "published": "Fri, 17 Jul 2026 09:02:46 GMT",
-      "region": "taiwan",
-      "segments": [
-        "政策 / 地緣政治"
-      ],
-      "companies": [],
-      "importance": 3,
-      "summary_zh": "Japanese industrial drone maker ACSL is open to expanding procurement from Taiwan as it strengthens its international supply chain strategy, with the company accepting an invitation to participate in the 2027 Taipei Aerospace & Defense Technology Exhibition (T",
-      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
-      "id": "5969ffd3f1baf20ac599",
-      "title": "Oppo cuts OnePlus from North America and Europe, and Realme from China",
-      "title_zh": "台灣觀察：政策 / 地緣政治的政策 / 地緣政治相關動態",
-      "source": "DIGITIMES Asia",
-      "url": "https://www.digitimes.com/news/a20260717VL214/oneplus-oppo-realme-north-america-europe.html",
-      "published": "Fri, 17 Jul 2026 07:41:05 GMT",
-      "region": "taiwan",
-      "segments": [
-        "政策 / 地緣政治"
-      ],
-      "companies": [],
-      "importance": 3,
-      "summary_zh": "OnePlus is exiting the North American and European markets for its future product launches, while sales of new Realme products will be suspended within its home market of China. The changes to both Oppo sub-brands signal the challenges low- to mid-tier brands ",
-      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
-      "id": "6e3e0326036fb4fd2aa6",
-      "title": "China, Netherlands urge Nexperia talks as Wingtech warns of 1H loss",
-      "title_zh": "台灣觀察：政策 / 地緣政治的政策 / 地緣政治相關動態",
-      "source": "DIGITIMES Asia",
-      "url": "https://www.digitimes.com/news/a20260717VL215/nexperia-netherlands-loss-2025-luxshare.html",
-      "published": "Fri, 17 Jul 2026 07:48:24 GMT",
-      "region": "taiwan",
-      "segments": [
-        "政策 / 地緣政治"
-      ],
-      "companies": [],
-      "importance": 2,
-      "summary_zh": "China and the Netherlands agreed that their governments should create a favorable environment for companies to resolve the Nexperia dispute through consultation, China's Ministry of Commerce said July 16.",
-      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
-      "id": "48c8d699b814b4d80410",
-      "title": "Commentary: Samsung, SK Hynix in Washington's crosshairs over memory fabs",
-      "title_zh": "台灣觀察：Intel、Samsung的晶片設計相關動態",
-      "source": "DIGITIMES Asia",
-      "url": "https://www.digitimes.com/news/a20260717PD229/samsung-sk-hynix-intel-digitimes-capacity.html",
-      "published": "Sat, 18 Jul 2026 05:34:49 GMT",
-      "region": "taiwan",
-      "segments": [
-        "晶片設計",
-        "記憶體 / HBM",
-        "政策 / 地緣政治"
-      ],
-      "companies": [
-        "Intel",
-        "Samsung",
-        "SK hynix"
-      ],
-      "importance": 5,
-      "summary_zh": "On a recent podcast, DIGITIMES analyst Luke Lin reviewed two major updates in the chip industry: Intel's Ireland fab expansion and rising US scrutiny of Samsung Electronics and SK Hynix as both South Korean chipmakers expand memory capacity at home. He also as",
-      "investment_takeaway": "投資觀察重點在 HBM 價格、良率、客戶認證與供應合約年限。"
     }
   ]
 }
