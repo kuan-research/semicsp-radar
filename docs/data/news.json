@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T09:12:31+00:00",
+  "generated_at": "2026-07-21T11:22:56+00:00",
   "date": "2026-07-21",
   "market": {
     "indices": [
@@ -71,19 +71,6 @@
         "plain_read": "緯穎明顯下跌，短線風險意識升高，需留意是否為大盤或族群同步修正。"
       },
       {
-        "symbol": "3231.TW",
-        "name": "緯創",
-        "group": "AI 伺服器 ODM",
-        "price": 149.5,
-        "previous_close": 145.5,
-        "change": 4.0,
-        "change_percent": 2.7491408934707904,
-        "currency": "TWD",
-        "market_state": "",
-        "updated_at": 1784611809,
-        "plain_read": "緯創明顯上漲，代表市場今天對相關題材或資金面較樂觀。"
-      },
-      {
         "symbol": "2454.TW",
         "name": "聯發科",
         "group": "IC 設計",
@@ -149,6 +136,19 @@
         "plain_read": "創意變動不大，市場暫時沒有明確方向。"
       },
       {
+        "symbol": "3653.TW",
+        "name": "健策",
+        "group": "散熱 / 機構件",
+        "price": 3520.0,
+        "previous_close": 3280.0,
+        "change": 240.0,
+        "change_percent": 7.317073170731707,
+        "currency": "TWD",
+        "market_state": "",
+        "updated_at": 1784611807,
+        "plain_read": "健策明顯上漲，代表市場今天對相關題材或資金面較樂觀。"
+      },
+      {
         "symbol": "2308.TW",
         "name": "台達電",
         "group": "電源 / 資料中心",
@@ -164,46 +164,46 @@
     ],
     "news": [
       {
-        "title": "狂噴1783點再添台股史冊一筆！外資續提款43億 股民抖：明天割韭菜",
+        "title": "恐怖!AI假身分氾濫 假聯發科.假元大證員工詐團劇本曝光",
         "source": "Yahoo 股市 - 台股動態",
-        "url": "https://tw.stock.yahoo.com/news/%E7%8B%82%E5%99%B41783%E9%BB%9E%E5%86%8D%E6%B7%BB%E5%8F%B0%E8%82%A1%E5%8F%B2%E5%86%8A-%E7%AD%86-%E5%A4%96%E8%B3%87%E7%BA%8C%E6%8F%90%E6%AC%BE43%E5%84%84-%E8%82%A1%E6%B0%91%E6%8A%96-%E6%98%8E%E5%A4%A9%E5%89%B2%E9%9F%AD%E8%8F%9C-090000968.html",
-        "published": "Tue, 21 Jul 2026 09:00:00 GMT",
-        "summary": "[FTNN新聞網]記者邱梓欣／綜合報導台股今（21）日受美股費半指數回神帶動下開高走高，終場飆漲1783.17點，收在44,232.87點，漲幅4.20％，成交金額8356.24億元..."
+        "url": "https://tw.stock.yahoo.com/news/%E6%81%90%E6%80%96-ai%E5%81%87%E8%BA%AB%E5%88%86%E6%B0%BE%E6%BF%AB-%E5%81%87%E8%81%AF%E7%99%BC%E7%A7%91-%E5%81%87%E5%85%83%E5%A4%A7%E8%AD%89%E5%93%A1%E5%B7%A5%E8%A9%90%E5%9C%98%E5%8A%87%E6%9C%AC%E6%9B%9D%E5%85%89-105802869.html",
+        "published": "Tue, 21 Jul 2026 10:58:02 GMT",
+        "summary": "財經中心／葉為襄、莊柏驊 台北報導繼藝人邰智源遭AI冒名是台積電員工後，投資詐騙手法再升級！不法集團不只偽造聯發科工程師識別證，還假冒元大證券執行副總，謊稱離職了沒有什麼好顧慮，用高投資報酬率誘導民眾"
       },
       {
-        "title": "台股回神助攻！00991A除息首日強勢填息 年化配息率逾9%",
+        "title": "蘋果iPhone 18 Pro效能再升級 台積電A20 Pro晶片兩大技術曝光",
         "source": "Yahoo 股市 - 台股動態",
-        "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%9B%9E%E7%A5%9E%E5%8A%A9%E6%94%BB-00991a%E9%99%A4%E6%81%AF%E9%A6%96%E6%97%A5%E5%BC%B7%E5%8B%A2%E5%A1%AB%E6%81%AF-%E5%B9%B4%E5%8C%96%E9%85%8D%E6%81%AF%E7%8E%87%E9%80%BE9-082922690.html",
-        "published": "Tue, 21 Jul 2026 08:29:22 GMT",
-        "summary": "上半年的主動式台股 ETF 績效王主動復華未來 50(00991A-TW)，今 (21) 日為掛牌後首度除息，在台股強彈、主要成分股大漲帶動下，午盤前就順利完成填息，終場大漲 0.98 元、漲幅 6."
+        "url": "https://tw.news.yahoo.com/%E8%98%8B%E6%9E%9Ciphone-18-pro%E6%95%88%E8%83%BD%E5%86%8D%E5%8D%87%E7%B4%9A-%E5%8F%B0%E7%A9%8D%E9%9B%BBa20-pro%E6%99%B6%E7%89%87%E5%85%A9%E5%A4%A7%E6%8A%80%E8%A1%93%E6%9B%9D%E5%85%89-105352940.html",
+        "published": "Tue, 21 Jul 2026 10:53:52 GMT",
+        "summary": "蘋果預計於2026年秋季正式推出新款iPhone 18 Pro與iPhone Ultra，而支撐這兩款旗艦機型的核心動力將是全新的A20 Pro 晶片；儘管蘋果每年都會為新款iPhone提供處理器升級"
       },
       {
-        "title": "台股暴漲1783點是逃命波？分析師看好「這幾檔」：比台積電更有戲",
+        "title": "日媒曝台積電2027年調代工價格！ 最高漲10％ ADR盤前漲4％",
         "source": "Yahoo 股市 - 台股動態",
-        "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%9A%B4%E6%BC%B21783%E9%BB%9E%E6%98%AF%E9%80%83%E5%91%BD%E6%B3%A2-%E5%88%86%E6%9E%90%E5%B8%AB%E7%9C%8B%E5%A5%BD-%E9%80%99%E5%B9%BE%E6%AA%94-%E6%AF%94%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%9B%B4%E6%9C%89%E6%88%B2-082800861.html",
-        "published": "Tue, 21 Jul 2026 08:28:00 GMT",
-        "summary": "台北股市21日強勢噴出，加權指數終場大漲1783點，創下史上最大單日漲點紀錄，以44232點作收，漲幅4.2%，成交值達8356億元。不過，面對報復性反彈，不少投資人也開始擔心，這波究竟是新一輪攻勢，"
+        "url": "https://tw.news.yahoo.com/%E6%97%A5%E5%AA%92%E6%9B%9D%E5%8F%B0%E7%A9%8D%E9%9B%BB2027%E5%B9%B4%E8%AA%BF%E4%BB%A3%E5%B7%A5%E5%83%B9%E6%A0%BC-%E6%9C%80%E9%AB%98%E6%BC%B210-adr%E7%9B%A4%E5%89%8D%E6%BC%B24-104800058.html",
+        "published": "Tue, 21 Jul 2026 10:48:00 GMT",
+        "summary": "【緯來新聞網】根據《日經亞洲》引述多位知情人士消息，隨著原材料價格、先進設備採購以及海外擴廠成本持續"
       },
       {
-        "title": "首半導體洩密中國獲鐵證! 前台積電副理涉國安法檢求刑7年",
+        "title": "日經亞洲：台積電2027漲晶片價格 基本漲幅5%至10%",
         "source": "Yahoo 股市 - 台股動態",
-        "url": "https://tw.stock.yahoo.com/news/%E9%A6%96%E5%8D%8A%E5%B0%8E%E9%AB%94%E6%B4%A9%E5%AF%86%E4%B8%AD%E5%9C%8B%E7%8D%B2%E9%90%B5%E8%AD%89-%E5%89%8D%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%89%AF%E7%90%86%E6%B6%89%E5%9C%8B%E5%AE%89%E6%B3%95%E6%AA%A2%E6%B1%82%E5%88%917%E5%B9%B4-082047053.html",
-        "published": "Tue, 21 Jul 2026 08:20:47 GMT",
-        "summary": "財經中心／葉為襄、莊柏驊 台北報導檢方去年偵辦香港籍共諜丁小琥案，意外查出案外案！也是台灣首宗查到有鐵證、半導體洩密到中國的案子。一名前台積電陳姓副理被丁小琥吸收，去年非法重製多達21件關鍵技術，計畫"
+        "url": "https://tw.stock.yahoo.com/news/%E6%97%A5%E7%B6%93%E4%BA%9E%E6%B4%B2-%E5%8F%B0%E7%A9%8D%E9%9B%BB2027%E6%BC%B2%E6%99%B6%E7%89%87%E5%83%B9%E6%A0%BC-%E5%9F%BA%E6%9C%AC%E6%BC%B2%E5%B9%855-%E8%87%B310-104545436.html",
+        "published": "Tue, 21 Jul 2026 10:45:45 GMT",
+        "summary": "（中央社台北2026年07月21日綜合外電報導）多位消息人士向「日經亞洲」透露，台積電預計於明年調漲先進和成熟製程的晶圓代工服務價格，最高幅度達10%，以反映材料、製造設備和海外擴廠成本持續上升。「日"
       },
       {
-        "title": "邱敏寬喊台股「已脫離加護病房」 國巨翻身有望助攻這檔ETF",
+        "title": "台股創最大收盤漲點 外資連13賣調節群創逾6萬張",
         "source": "Yahoo 股市 - 台股動態",
-        "url": "https://tw.news.yahoo.com/%E5%9C%8B%E5%B7%A8%E8%83%BD%E7%BF%BB%E8%BA%AB-%E5%B8%B6-%E9%80%99%E6%AA%94etf-%E8%B5%B7%E9%A3%9B-%E9%82%B1%E6%95%8F%E5%AF%AC%E6%8F%AD%E5%8F%B0%E8%82%A1%E4%BF%AE%E6%AD%A3%E7%B5%90%E6%A7%8B-081300419.html",
-        "published": "Tue, 21 Jul 2026 08:13:00 GMT",
-        "summary": "被動元件龍頭國巨（2327）今（21）日盤中一度殺低至608元，逼近600元大關保衛戰，所幸買盤隨即回補湧入，股價由黑翻紅，終場勁揚40元、漲幅6.35%，收在670元，成交量同步放大至9萬2589張"
+        "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%89%B5%E6%9C%80%E5%A4%A7%E6%94%B6%E7%9B%A4%E6%BC%B2%E9%BB%9E-%E5%A4%96%E8%B3%87%E9%80%A313%E8%B3%A3%E8%AA%BF%E7%AF%80%E7%BE%A4%E5%89%B5%E9%80%BE6%E8%90%AC%E5%BC%B5-104543658.html",
+        "published": "Tue, 21 Jul 2026 10:45:43 GMT",
+        "summary": "（中央社記者何秀玲台北2026年07月21日電）台股今天漲1783.17點，收在44232.87點，改寫單日第2大盤中漲點及最大收盤漲點紀錄，成交值新台幣8356.24億元；外資仍站在賣方，連13日賣"
       },
       {
-        "title": "台股暴漲1783點創史上最大！ 網見三大法人買賣驚：死定了",
+        "title": "台積電傳2027年將調高晶片製造價格 日經亞洲：最多漲10%",
         "source": "Yahoo 股市 - 台股動態",
-        "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E6%9A%B4%E6%BC%B21783%E9%BB%9E%E5%89%B5%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7-%E7%B6%B2%E8%A6%8B%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E8%B2%B7%E8%B3%A3%E9%A9%9A-%E6%AD%BB%E5%AE%9A%E4%BA%86-081200835.html",
-        "published": "Tue, 21 Jul 2026 08:12:00 GMT",
-        "summary": "台股今（21）日在台積電尾盤拉抬與聯發科強攻漲停帶動下，暴漲1783點，收44232點創單日最大漲點，一舉站回季線，成交量縮至8356億元；三大法人則合計買超164.07億元。"
+        "url": "https://tw.news.yahoo.com/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%82%B32027%E5%B9%B4%E5%B0%87%E8%AA%BF%E9%AB%98%E6%99%B6%E7%89%87%E8%A3%BD%E9%80%A0%E5%83%B9%E6%A0%BC-%E6%97%A5%E7%B6%93%E4%BA%9E%E6%B4%B2-%E6%9C%80%E5%A4%9A%E6%BC%B210-103741940.html",
+        "published": "Tue, 21 Jul 2026 10:37:41 GMT",
+        "summary": "晶圓代工龍頭台積電傳出明年將再度調漲晶片製造價格，日經亞洲今天（21日）引述多名消息人士的說法報導披露，台積電預計於2027年調漲先進製程與成熟製程晶片生產服務的價格，依客戶與產品不同，基本漲幅約落在"
       },
       {
         "title": "最後一隻白老鼠？ 26萬散戶昨FOMO進場淪住套房 分析師：健康換手",
@@ -211,6 +211,27 @@
         "url": "https://tw.stock.yahoo.com/news/%E6%9C%80%E5%BE%8C%E4%B8%80%E9%9A%BB%E7%99%BD%E8%80%81%E9%BC%A0%EF%BC%9F-26%E8%90%AC%E6%95%A3%E6%88%B6%E6%98%A8fomo%E9%80%B2%E5%A0%B4%E6%B7%AA%E4%BD%8F%E5%A5%97%E6%88%BF-%E5%88%86%E6%9E%90%E5%B8%AB%EF%BC%9A%E5%81%A5%E5%BA%B7%E6%8F%9B%E6%89%8B-021046535.html",
         "published": "Thu, 26 Feb 2026 02:10:46 GMT",
         "summary": "最後一隻白老鼠？台股昨天破35521點新高紀錄，據台灣證交所資料顯示，有26萬人FOMO（錯失恐懼症）追高進場，押寶輝達Nvidia黃仁勳再開金口釋利多，不過輝達財報儘管亮眼，盤後股價先漲後跌，拖累台"
+      },
+      {
+        "title": "《美股主題週報》精準醫療檢測—TEM、GEHC、ILMN",
+        "source": "Yahoo 股市 - 研究報導",
+        "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E4%B8%BB%E9%A1%8C%E9%80%B1%E5%A0%B1-%E7%B2%BE%E6%BA%96%E9%86%AB%E7%99%82%E6%AA%A2%E6%B8%AC-tem-gehc-ilmn-083600704.html",
+        "published": "Tue, 21 Jul 2026 08:36:00 GMT",
+        "summary": "MoneyDJ新聞 2026-07-21 16:36:25 數位內容中心 發佈Tempus AI（TEM.US） 2026年7月20日，Tempus AI宣布擬以每股16.25美元收購Personal"
+      },
+      {
+        "title": "《美股主題週報》手術機器人—ISRG、SYK、MBOT",
+        "source": "Yahoo 股市 - 研究報導",
+        "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E4%B8%BB%E9%A1%8C%E9%80%B1%E5%A0%B1-%E6%89%8B%E8%A1%93%E6%A9%9F%E5%99%A8%E4%BA%BA-isrg-syk-mbot-081800789.html",
+        "published": "Tue, 21 Jul 2026 08:18:00 GMT",
+        "summary": "MoneyDJ新聞 2026-07-21 16:18:06 數位內容中心 發佈Intuitive Surgical（ISRG.US） 2026年第二季，Intuitive Surgical公布da V"
+      },
+      {
+        "title": "《美股主題週報》老化管理與長壽醫學－BIOA、LLY、BIIB",
+        "source": "Yahoo 股市 - 研究報導",
+        "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E4%B8%BB%E9%A1%8C%E9%80%B1%E5%A0%B1-%E8%80%81%E5%8C%96%E7%AE%A1%E7%90%86%E8%88%87%E9%95%B7%E5%A3%BD%E9%86%AB%E5%AD%B8-bioa-lly-biib-075900725.html",
+        "published": "Tue, 21 Jul 2026 07:59:00 GMT",
+        "summary": "MoneyDJ新聞 2026-07-21 15:59:03 數位內容中心 發佈BioAge Labs（BIOA.US） 2026年7月14日，BioAge Labs啟動BGE-102的QUELL-CV"
       },
       {
         "title": "《美股主題週報》基因編輯—BEAM、CRSP、EDIT",
@@ -225,27 +246,6 @@
         "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E4%B8%BB%E9%A1%8C%E9%80%B1%E5%A0%B1-%E6%B8%9B%E9%87%8D%E8%97%A5%E7%89%A9-nvo-lly-vktx-072800518.html",
         "published": "Tue, 21 Jul 2026 07:28:00 GMT",
         "summary": "MoneyDJ新聞 2026-07-21 15:28:46 數位內容中心 發佈Novo Nordisk（NVO.US） 7月15日，歐盟執委會核准口服Wegovy25mg用於體重管理，並同步核准Weg"
-      },
-      {
-        "title": "《美股主題週報》關鍵資源「鈾」—CCJ、UEC、UUUU",
-        "source": "Yahoo 股市 - 研究報導",
-        "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E4%B8%BB%E9%A1%8C%E9%80%B1%E5%A0%B1-%E9%97%9C%E9%8D%B5%E8%B3%87%E6%BA%90-%E9%88%BE-ccj-uec-064800937.html",
-        "published": "Tue, 21 Jul 2026 06:48:00 GMT",
-        "summary": "MoneyDJ新聞 2026-07-21 14:48:22 數位內容中心 發佈Cameco Corporation（CCJ.US） 7月中旬，Cameco確認Cigar Lake與McClean La"
-      },
-      {
-        "title": "《美股主題週報》關鍵資源「銅」—BHP、RIO、FCX",
-        "source": "Yahoo 股市 - 研究報導",
-        "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E4%B8%BB%E9%A1%8C%E9%80%B1%E5%A0%B1-%E9%97%9C%E9%8D%B5%E8%B3%87%E6%BA%90-%E9%8A%85-bhp-rio-063300558.html",
-        "published": "Tue, 21 Jul 2026 06:33:00 GMT",
-        "summary": "MoneyDJ新聞 2026-07-21 14:33:48 數位內容中心 發佈BHP Group Limited（BHP.US） 截至2026年6月30日的FY2026營運更新顯示，BHP把FY202"
-      },
-      {
-        "title": "《美股主題週報》儲能系統—TSLA、RUN、ENPH",
-        "source": "Yahoo 股市 - 研究報導",
-        "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E4%B8%BB%E9%A1%8C%E9%80%B1%E5%A0%B1-%E5%84%B2%E8%83%BD%E7%B3%BB%E7%B5%B1-tsla-run-enph-061100496.html",
-        "published": "Tue, 21 Jul 2026 06:11:00 GMT",
-        "summary": "MoneyDJ新聞 2026-07-21 14:11:51 數位內容中心 發佈Tesla（TSLA.US） 7月14日資料顯示，Tesla第二季儲能部署量達13.5GWh，高於去年同期9.6GWh；同"
       }
     ],
     "summary": {
@@ -256,12 +256,86 @@
     },
     "errors": [
       {
-        "symbol": "3653.TW",
+        "symbol": "3231.TW",
         "error": "HTTP Error 400: Bad Request"
       }
     ]
   },
   "items": [
+    {
+      "id": "9c998d52eee61dfcb963",
+      "title": "Taiwan indicts ex-TSMC manager for allegedly stealing chip secrets for China — first case of its kind links managers to Chinese semiconductor materials analysis company - Tom's Hardware",
+      "title_zh": "台灣觀察：TSMC、ASE的晶圓代工 / 製程相關動態",
+      "source": "TSMC / CoWoS / Advanced Packaging - Google News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZzNwZXV2LUYteWpMVTJaMEV0RTk0ZHpkSW1rSXhrVE9GV1ktemt6bGNmeFZpZjktZWctVlRfSGN5ZTdLVTRGcnlady1HU3hFT1Z0OVZPeWJwZldWbjdFTkZiV2tHZmFMdkF0Qmc4RVo4QmlzUFpmVVgxNkJxTXhCMlpVdm8yNndtUnBVc2tYQlQ4YVNFQ3BiMWRNbGl1bHJzMHJHWlltblZqZmQ5N0Q4RnAtQnVzc1cwTm5n?oc=5",
+      "published": "Mon, 20 Jul 2026 18:13:21 GMT",
+      "region": "taiwan",
+      "segments": [
+        "晶圓代工 / 製程",
+        "先進封裝 / 測試",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "TSMC",
+        "ASE"
+      ],
+      "importance": 5,
+      "summary_zh": "Taiwan indicts ex-TSMC manager for allegedly stealing chip secrets for China — first case of its kind links managers to Chinese semiconductor materials analysis company Tom's Hardware",
+      "investment_takeaway": "投資觀察重點在 CoWoS/先進封裝產能、載板與測試稼動率，這通常是 AI 加速器供給瓶頸。"
+    },
+    {
+      "id": "fcbe8c6e4cf79763f2df",
+      "title": "Intel cutting jobs in fast-growing data center unit - calcalistech.com",
+      "title_zh": "國際觀察：Intel的CSP / 雲端需求相關動態",
+      "source": "Intel Foundry / AI Chips - Google News",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44bGtVc2I0dW1SMjZNSHo3OXdkSEIyRmh3U2lZci0waFNPY0J6d05fTURuYW8tUEFwcW01X3pXNXNtWVBUWVVGc2VkWkx2RE1vZU9EdmhGazZ4N29nQjNXN2xTaktKdXFx?oc=5",
+      "published": "Tue, 21 Jul 2026 10:27:00 GMT",
+      "region": "international",
+      "segments": [
+        "CSP / 雲端需求",
+        "晶片設計"
+      ],
+      "companies": [
+        "Intel"
+      ],
+      "importance": 3,
+      "summary_zh": "Intel cutting jobs in fast-growing data center unit calcalistech.com",
+      "investment_takeaway": "投資觀察重點在 CSP CapEx、AI 叢集擴建，以及 GPU/ASIC 需求是否轉成供應鏈訂單。"
+    },
+    {
+      "id": "55772bacdd2e11687ea3",
+      "title": "TSMC to raise chipmaking prices by up to 10% in 2027, Nikkei Asia reports - Yahoo Finance",
+      "title_zh": "台灣觀察：TSMC的晶圓代工 / 製程相關動態",
+      "source": "TSMC / CoWoS / Advanced Packaging - Google News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYnN3SmdhMTFYUlZ2cy10MTdlVTdwVmt1OWR4cGZEVmdidGhPdlk0TllMcjBzYkUxTEU2VzJaUTFsbHpwSVU5b1M1X09nNHY0S1dqMUZVbzVYTzVfbmVXclZqemRmSktPeGxfZFU3SmdpRENMZHhJZ0s3QUFqRUR0SmZNbXJ1bFIwQl9rMlVKemlhcjFlcTFz?oc=5",
+      "published": "Tue, 21 Jul 2026 08:32:53 GMT",
+      "region": "taiwan",
+      "segments": [
+        "晶圓代工 / 製程"
+      ],
+      "companies": [
+        "TSMC"
+      ],
+      "importance": 3,
+      "summary_zh": "TSMC to raise chipmaking prices by up to 10% in 2027, Nikkei Asia reports Yahoo Finance",
+      "investment_takeaway": "投資觀察重點在台灣供應鏈是否取得 AI 伺服器、封裝、測試或零組件增量訂單。"
+    },
+    {
+      "id": "0ae0ca2f8d33129ee779",
+      "title": "Why Europe Needs Taiwan - Hungarian Conservative",
+      "title_zh": "台灣觀察：政策 / 地緣政治的政策 / 地緣政治相關動態",
+      "source": "Taiwan AI Server Supply Chain - Google News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdlNqUGVKWWhud1ZQTDl0MU9QMjVOczluaUhsb3NyUlpOTWRDQXBma2ZFek8wTXNoMlFBa3plZ1ZsR2Z6cWZTdlg1ZWdFNG00ZGxWTmVhUjFYWUEySE5IMjQ2Y2Y1RHhTY1l6dXZ6R25haF9Dc2ttSzhEVWdkTTBLX2ppSmZjd0I2ZDFuTXQyMFlNUQ?oc=5",
+      "published": "Tue, 21 Jul 2026 10:08:46 GMT",
+      "region": "taiwan",
+      "segments": [
+        "政策 / 地緣政治"
+      ],
+      "companies": [],
+      "importance": 2,
+      "summary_zh": "Why Europe Needs Taiwan Hungarian Conservative",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+    },
     {
       "id": "d7891ff522ffd2b79d70",
       "title": "Hon Hai to Deploy Humanoid Robots in Texas AI Server Production - Electronics For You BUSINESS",
@@ -333,25 +407,6 @@
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     },
     {
-      "id": "e170f0646c1d10505cf2",
-      "title": "Taiwan indicts ex-TSMC employee over alleged theft of trade secrets for intended use in China - Reuters",
-      "title_zh": "台灣觀察：TSMC的晶圓代工 / 製程相關動態",
-      "source": "TSMC / CoWoS / Advanced Packaging - Google News",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMHRWazU1OU9HOEhuRnNndU1nMkM4WVZwNlNWNGRybWdNOGM5dy1uUUxpWF9QRVo3akQ4REhCLUtfYmN3bktLZkZ1bGR0XzZhamRDVHBWS3REY0Q4U1pEaF8zUEN0Q3lPWnVkdmlYWUV5cXNGbG9lSFR0TWFfRDVyTUE0N0JQYXBDOEp5M3k5dzRiOHJoZWtNaGwtVGlwZnRrcFJnOV9sNnRWLW1qRktGOXU3bXZmVFFmaU1lZFh0U3RITWdWVkZieg?oc=5",
-      "published": "Mon, 20 Jul 2026 11:54:55 GMT",
-      "region": "taiwan",
-      "segments": [
-        "晶圓代工 / 製程",
-        "政策 / 地緣政治"
-      ],
-      "companies": [
-        "TSMC"
-      ],
-      "importance": 5,
-      "summary_zh": "Taiwan indicts ex-TSMC employee over alleged theft of trade secrets for intended use in China Reuters",
-      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
       "id": "afac5ee8775b69f52e1a",
       "title": "TSMC Is Pouring $100 Billion More Into Its Arizona Plant to Keep Up With Strong US Customer Demand - Yahoo Finance",
       "title_zh": "台灣觀察：TSMC的晶圓代工 / 製程相關動態",
@@ -368,6 +423,25 @@
       ],
       "importance": 4,
       "summary_zh": "TSMC Is Pouring $100 Billion More Into Its Arizona Plant to Keep Up With Strong US Customer Demand Yahoo Finance",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+    },
+    {
+      "id": "e170f0646c1d10505cf2",
+      "title": "Taiwan indicts ex-TSMC employee over alleged theft of trade secrets for intended use in China - Reuters",
+      "title_zh": "台灣觀察：TSMC的晶圓代工 / 製程相關動態",
+      "source": "TSMC / CoWoS / Advanced Packaging - Google News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMHRWazU1OU9HOEhuRnNndU1nMkM4WVZwNlNWNGRybWdNOGM5dy1uUUxpWF9QRVo3akQ4REhCLUtfYmN3bktLZkZ1bGR0XzZhamRDVHBWS3REY0Q4U1pEaF8zUEN0Q3lPWnVkdmlYWUV5cXNGbG9lSFR0TWFfRDVyTUE0N0JQYXBDOEp5M3k5dzRiOHJoZWtNaGwtVGlwZnRrcFJnOV9sNnRWLW1qRktGOXU3bXZmVFFmaU1lZFh0U3RITWdWVkZieg?oc=5",
+      "published": "Mon, 20 Jul 2026 11:54:55 GMT",
+      "region": "taiwan",
+      "segments": [
+        "晶圓代工 / 製程",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "TSMC"
+      ],
+      "importance": 5,
+      "summary_zh": "Taiwan indicts ex-TSMC employee over alleged theft of trade secrets for intended use in China Reuters",
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     },
     {
@@ -944,6 +1018,22 @@
       "investment_takeaway": "投資觀察重點在此消息是否影響需求能見度、產能瓶頸、價格或供應鏈議價能力。"
     },
     {
+      "id": "32c108b84ee59edf9159",
+      "title": "The Company That Builds iPhones Wanted To Bring America A Tesla Rival - Autoblog",
+      "title_zh": "台灣觀察：未分類 / 待人工確認的未分類 / 待人工確認相關動態",
+      "source": "Taiwan AI Server Supply Chain - Google News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWjhjcU9WSlh3c1NTOTU0cFA1Yld2alRBek5GVFZSTjNTcGZ6Wk96M0s3NnNwbFAyNmpvTFo2NU9YLXdNMUx3eHUtVEhRWTBQZWNxM2wzd1ExcXU3YkYxckNtb3F6WXNFQjRWZm1SUU80TmNkeDczY3gyQ2pLandvTXZMa05td0llZGpCNlBIbW1QWUdRWWFQRFJMaXMwaFNJd1Bza1Z3?oc=5",
+      "published": "Sun, 19 Jul 2026 19:43:00 GMT",
+      "region": "taiwan",
+      "segments": [
+        "未分類 / 待人工確認"
+      ],
+      "companies": [],
+      "importance": 1,
+      "summary_zh": "The Company That Builds iPhones Wanted To Bring America A Tesla Rival Autoblog",
+      "investment_takeaway": "投資觀察重點在台灣供應鏈是否取得 AI 伺服器、封裝、測試或零組件增量訂單。"
+    },
+    {
       "id": "5155b87d4fae68d19417",
       "title": "ASML's planned Low-NA EUV machine price hikes reportedly frustrate TSMC — lithography machine maker comes knocking to make bank on TSMC's profitable fabs, potentially costing the Taiwanese chipmaker billions - Tom's Hardware",
       "title_zh": "台灣觀察：TSMC、ASML的晶圓代工 / 製程相關動態",
@@ -1111,22 +1201,6 @@
       "importance": 2,
       "summary_zh": "Chip Industry Week In Review Semiconductor Engineering",
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
-      "id": "32c108b84ee59edf9159",
-      "title": "The Company That Builds iPhones Wanted To Bring America A Tesla Rival - Autoblog",
-      "title_zh": "台灣觀察：未分類 / 待人工確認的未分類 / 待人工確認相關動態",
-      "source": "Taiwan AI Server Supply Chain - Google News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWjhjcU9WSlh3c1NTOTU0cFA1Yld2alRBek5GVFZSTjNTcGZ6Wk96M0s3NnNwbFAyNmpvTFo2NU9YLXdNMUx3eHUtVEhRWTBQZWNxM2wzd1ExcXU3YkYxckNtb3F6WXNFQjRWZm1SUU80TmNkeDczY3gyQ2pLandvTXZMa05td0llZGpCNlBIbW1QWUdRWWFQRFJMaXMwaFNJd1Bza1Z3?oc=5",
-      "published": "Sun, 19 Jul 2026 19:43:00 GMT",
-      "region": "taiwan",
-      "segments": [
-        "未分類 / 待人工確認"
-      ],
-      "companies": [],
-      "importance": 1,
-      "summary_zh": "The Company That Builds iPhones Wanted To Bring America A Tesla Rival Autoblog",
-      "investment_takeaway": "投資觀察重點在台灣供應鏈是否取得 AI 伺服器、封裝、測試或零組件增量訂單。"
     },
     {
       "id": "1d740266efc6fafd814b",
@@ -2447,89 +2521,6 @@
       "importance": 1,
       "summary_zh": "Jensen Huang's Worn Jacket Sells for Almost $1 Million at Auction Briefs Finance",
       "investment_takeaway": "投資觀察重點在台灣供應鏈是否取得 AI 伺服器、封裝、測試或零組件增量訂單。"
-    },
-    {
-      "id": "f1b2904a006b59c96a61",
-      "title": "Foxconn's Vietnam arm Fulian Technology expands into EV charging equipment after capital increase - Theinvestor",
-      "title_zh": "台灣觀察：ASE、Foxconn的先進封裝 / 測試相關動態",
-      "source": "Taiwan AI Server Supply Chain - Google News",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeGh4WXItLXhHVEgxUUVSeVVCZ1c3dXo1emhMZjFncmZ5X0F3aFdiQkR5VWZUNzZ0Y2VLTXpHX3ZSNDg4ci0wWnBIaEx1eHNwYTk5MUJXZWxDVk5vNTc0MXpua1NFSUtScldEM2NXMm5EWlVhNVUtMFJYQ3E3Rm9qNDBVQWVVTlBCR1dfTEJiLUJYZmpMWlRMcktHTmNkUmZ5OVZVU3EtWkxjODFfMEhDRkJod2VEdV81VzAxbUE1UEJSMTZOUjBPWkdKNA?oc=5",
-      "published": "Sat, 18 Jul 2026 07:10:27 GMT",
-      "region": "taiwan",
-      "segments": [
-        "先進封裝 / 測試",
-        "設備 / 材料",
-        "AI 伺服器 / 資料中心供應鏈"
-      ],
-      "companies": [
-        "ASE",
-        "Foxconn"
-      ],
-      "importance": 4,
-      "summary_zh": "Foxconn's Vietnam arm Fulian Technology expands into EV charging equipment after capital increase Theinvestor",
-      "investment_takeaway": "投資觀察重點在 CoWoS/先進封裝產能、載板與測試稼動率，這通常是 AI 加速器供給瓶頸。"
-    },
-    {
-      "id": "85a86d723adef43f470e",
-      "title": "China moves to institutionalize its vision for global AI governance as Xi launches cooperation body",
-      "title_zh": "台灣觀察：Intel、ASE的晶片設計相關動態",
-      "source": "DIGITIMES Asia",
-      "url": "https://www.digitimes.com/news/a20260717VL212/china-ai-governance-shanghai-2026.html",
-      "published": "Fri, 17 Jul 2026 06:11:38 GMT",
-      "region": "taiwan",
-      "segments": [
-        "晶片設計",
-        "先進封裝 / 測試",
-        "政策 / 地緣政治"
-      ],
-      "companies": [
-        "Intel",
-        "ASE"
-      ],
-      "importance": 5,
-      "summary_zh": "China used the opening of the 2026 World Artificial Intelligence Conference (WAIC) in Shanghai to institutionalize its bid to shape global governance of artificial intelligence (AI), with President Xi Jinping unveiling a package of measures aimed at the develo",
-      "investment_takeaway": "投資觀察重點在 CoWoS/先進封裝產能、載板與測試稼動率，這通常是 AI 加速器供給瓶頸。"
-    },
-    {
-      "id": "117788e804f1122fd598",
-      "title": "Montage Technology forecasts stronger first-half profit as AI demand lifts chip sales and discloses Korean prosecutors' search",
-      "title_zh": "台灣觀察：ASE的CSP / 雲端需求相關動態",
-      "source": "DIGITIMES Asia",
-      "url": "https://www.digitimes.com/news/a20260717VL200/montage-ddr5-chips-demand-profit-sales.html",
-      "published": "Fri, 17 Jul 2026 07:14:39 GMT",
-      "region": "taiwan",
-      "segments": [
-        "CSP / 雲端需求",
-        "記憶體 / HBM",
-        "先進封裝 / 測試",
-        "政策 / 地緣政治"
-      ],
-      "companies": [
-        "ASE"
-      ],
-      "importance": 5,
-      "summary_zh": "China-based Montage Technology said its first-half results are expected to rise sharply, underscoring continued demand for AI-linked memory and interconnect chips that matter to data centers and device makers worldwide. The company also disclosed a regulatory ",
-      "investment_takeaway": "投資觀察重點在 CSP CapEx、AI 叢集擴建，以及 GPU/ASIC 需求是否轉成供應鏈訂單。"
-    },
-    {
-      "id": "e4886868d3abf2513c08",
-      "title": "WST targets AI optical boom as high-power CW laser shipments begin in 4Q26",
-      "title_zh": "台灣觀察：ASE的先進封裝 / 測試相關動態",
-      "source": "DIGITIMES Asia",
-      "url": "https://www.digitimes.com/news/a20260714PD222/shipments-laser-high-power-communications-growth.html",
-      "published": "Fri, 17 Jul 2026 07:08:21 GMT",
-      "region": "taiwan",
-      "segments": [
-        "先進封裝 / 測試",
-        "AI 伺服器 / 資料中心供應鏈",
-        "政策 / 地緣政治"
-      ],
-      "companies": [
-        "ASE"
-      ],
-      "importance": 5,
-      "summary_zh": "Buoyed by robust shipments of optical communications products, Taiwanese optical communications company WaveSplitter Technologies (WST) nearly doubled its first-quarter revenue in 2026. Chairman and President Sheau Chen said surging AI computing demand will co",
-      "investment_takeaway": "投資觀察重點在 CoWoS/先進封裝產能、載板與測試稼動率，這通常是 AI 加速器供給瓶頸。"
     }
   ]
 }
