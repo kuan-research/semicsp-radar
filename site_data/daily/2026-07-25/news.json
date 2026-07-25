@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T15:38:49+00:00",
+  "generated_at": "2026-07-25T16:56:30+00:00",
   "date": "2026-07-25",
   "market": {
     "indices": [
@@ -270,6 +270,25 @@
     "errors": []
   },
   "items": [
+    {
+      "id": "0461a6b6ee133b899028",
+      "title": "Trump administration lowers tariffs against Taiwan after TSMC announces $100 billion investment - KJZZ",
+      "title_zh": "台灣觀察：TSMC的晶圓代工 / 製程相關動態",
+      "source": "TSMC / CoWoS / Advanced Packaging - Google News",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdmR5VXdZRlhsTjUtUVAtQnBmbU9JdFA1WG1ITlIxNkFEQUlfM1QtNkVDTUNqdWFpdXlFTlpNZnk4MF9JRDBpNHlnMnplMElqd2dXVXFsRkM4RWNZWFRydWpYTUxIaFBXbUFqcGRxbHIyQVNBOGFfUmVzNTdTSWpPUWpJOE55dlVQeXpQc3FVNnIxMldRc1JvMlVvaXE2VHd5RENZMEdvZmgtdV80YzNFVHBZaDRzdzBoNjdnSHZTMFZPZ2ItU3hzMG9ndEtZbDVp?oc=5",
+      "published": "Sat, 25 Jul 2026 12:00:00 GMT",
+      "region": "taiwan",
+      "segments": [
+        "晶圓代工 / 製程",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "TSMC"
+      ],
+      "importance": 5,
+      "summary_zh": "Trump administration lowers tariffs against Taiwan after TSMC announces $100 billion investment KJZZ",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+    },
     {
       "id": "0490ab2f4b8e37361f95",
       "title": "TSMC might set up a price hike that could come straight for your next phone, laptop, or tablet - Yahoo Finance",
@@ -2364,29 +2383,6 @@
       "investment_takeaway": "投資觀察重點在台灣供應鏈是否取得 AI 伺服器、封裝、測試或零組件增量訂單。"
     },
     {
-      "id": "bb2f476bc70fd3e3fc42",
-      "title": "AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD",
-      "title_zh": "國際觀察：Microsoft、NVIDIA的CSP / 雲端需求相關動態",
-      "source": "Microsoft Azure Blog",
-      "url": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
-      "published": "Thu, 23 Jul 2026 18:30:00 +0000",
-      "region": "international",
-      "segments": [
-        "CSP / 雲端需求",
-        "晶片設計",
-        "晶圓代工 / 製程",
-        "政策 / 地緣政治"
-      ],
-      "companies": [
-        "Microsoft",
-        "NVIDIA",
-        "AMD"
-      ],
-      "importance": 5,
-      "summary_zh": "AT&T processed approximately one trillion tokens while developing OTel2.0 using Microsoft Foundry Managed Compute, open AI models, and AMD and NVIDIA GPU infrastructure. Discover how flexible model choice and scalable infrastructure are enabling production-sca",
-      "investment_takeaway": "投資觀察重點在 CSP CapEx、AI 叢集擴建，以及 GPU/ASIC 需求是否轉成供應鏈訂單。"
-    },
-    {
       "id": "fe25d7aeb27368ce96aa",
       "title": "SMIC's third-gen 7nm node shows smaller metal pitch than Intel 18A, higher transistor density than TSMC N6 without EUV — analysis of N+3 shows significant advancement for Chinese semi manufacturing - Tom's Hardware",
       "title_zh": "台灣觀察：Meta、Intel的CSP / 雲端需求相關動態",
@@ -2407,6 +2403,29 @@
       ],
       "importance": 5,
       "summary_zh": "SMIC's third-gen 7nm node shows smaller metal pitch than Intel 18A, higher transistor density than TSMC N6 without EUV — analysis of N+3 shows significant advancement for Chinese semi manufacturing Tom's Hardware",
+      "investment_takeaway": "投資觀察重點在 CSP CapEx、AI 叢集擴建，以及 GPU/ASIC 需求是否轉成供應鏈訂單。"
+    },
+    {
+      "id": "bb2f476bc70fd3e3fc42",
+      "title": "AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD",
+      "title_zh": "國際觀察：Microsoft、NVIDIA的CSP / 雲端需求相關動態",
+      "source": "Microsoft Azure Blog",
+      "url": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
+      "published": "Thu, 23 Jul 2026 18:30:00 +0000",
+      "region": "international",
+      "segments": [
+        "CSP / 雲端需求",
+        "晶片設計",
+        "晶圓代工 / 製程",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "Microsoft",
+        "NVIDIA",
+        "AMD"
+      ],
+      "importance": 5,
+      "summary_zh": "AT&T processed approximately one trillion tokens while developing OTel2.0 using Microsoft Foundry Managed Compute, open AI models, and AMD and NVIDIA GPU infrastructure. Discover how flexible model choice and scalable infrastructure are enabling production-sca",
       "investment_takeaway": "投資觀察重點在 CSP CapEx、AI 叢集擴建，以及 GPU/ASIC 需求是否轉成供應鏈訂單。"
     },
     {
@@ -2503,24 +2522,6 @@
       "importance": 3,
       "summary_zh": "Intel forecast crushes estimates as AI boom boosts chip demand; shares jump Reuters",
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
-      "id": "0911d41f8f891396ea0a",
-      "title": "Intel posts fastest growth in 15 years as AI data centres demand fuels sales - Financial Times",
-      "title_zh": "國際觀察：Intel的晶片設計相關動態",
-      "source": "Intel Foundry / AI Chips - Google News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNUp3a19vcjhVQ3p1Mi1lS0lEOW1jRWZOcmJIZzJURVFsV1c3d2h3ZW1kVlNVa1VXbEhiWmZfNEJMbFpYc3lFREFJVTlnVmhGdWNfVmpCZXZ1NkpTaVc5UkFVSVQ3UHpFOFpPWDNmZTdjU004amxkcDBTNHlnSjFHRmlrRzI?oc=5",
-      "published": "Thu, 23 Jul 2026 20:02:31 GMT",
-      "region": "international",
-      "segments": [
-        "晶片設計"
-      ],
-      "companies": [
-        "Intel"
-      ],
-      "importance": 2,
-      "summary_zh": "Intel posts fastest growth in 15 years as AI data centres demand fuels sales Financial Times",
-      "investment_takeaway": "投資觀察重點在此消息是否影響需求能見度、產能瓶頸、價格或供應鏈議價能力。"
     }
   ]
 }
