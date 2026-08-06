@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T06:29:51+00:00",
+  "generated_at": "2026-08-06T09:24:58+00:00",
   "date": "2026-08-06",
   "market": {
     "indices": [
@@ -18,6 +18,32 @@
       }
     ],
     "stocks": [
+      {
+        "symbol": "2330.TW",
+        "name": "台積電",
+        "group": "晶圓代工",
+        "price": 2365.0,
+        "previous_close": 2425.0,
+        "change": -60.0,
+        "change_percent": -2.4742268041237114,
+        "currency": "TWD",
+        "market_state": "",
+        "updated_at": 1785994205,
+        "plain_read": "台積電明顯下跌，短線風險意識升高，需留意是否為大盤或族群同步修正。"
+      },
+      {
+        "symbol": "2317.TW",
+        "name": "鴻海",
+        "group": "AI 伺服器 / 組裝",
+        "price": 264.5,
+        "previous_close": 250.5,
+        "change": 14.0,
+        "change_percent": 5.588822355289421,
+        "currency": "TWD",
+        "market_state": "",
+        "updated_at": 1785994203,
+        "plain_read": "鴻海明顯上漲，代表市場今天對相關題材或資金面較樂觀。"
+      },
       {
         "symbol": "2382.TW",
         "name": "廣達",
@@ -151,46 +177,46 @@
     ],
     "news": [
       {
-        "title": "資金轉進記憶體與中小型股，台股盤面快速輪動",
+        "title": "美女律師誆陪鴻海採購BNT！狠詐慈濟10億佣金 郭台銘具狀：沒找過仲介",
         "source": "Yahoo 股市 - 台股動態",
-        "url": "https://tw.stock.yahoo.com/news/%E8%B3%87%E9%87%91%E8%BD%89%E9%80%B2%E8%A8%98%E6%86%B6%E9%AB%94%E8%88%87%E4%B8%AD%E5%B0%8F%E5%9E%8B%E8%82%A1-%E5%8F%B0%E8%82%A1%E7%9B%A4%E9%9D%A2%E5%BF%AB%E9%80%9F%E8%BC%AA%E5%8B%95-061330421.html",
-        "published": "Thu, 06 Aug 2026 06:13:30 GMT",
-        "summary": "【財訊快報／黃冠豪】亞洲股市今（6）日受到美國科技股回檔與半導體賣壓影響，整體氣氛偏弱。截至台股收盤前後，南韓KOSPI指數跌幅約4.5%，SK海力士、三星電子等大型半導體股承壓；日經225指數則下跌"
+        "url": "https://tw.news.yahoo.com/%E7%BE%8E%E5%A5%B3%E5%BE%8B%E5%B8%AB%E8%AA%86%E9%99%AA%E9%B4%BB%E6%B5%B7%E6%8E%A1%E8%B3%BCbnt-%E7%8B%A0%E8%A9%90%E6%85%88%E6%BF%9F10%E5%84%84%E4%BD%A3%E9%87%91-%E9%83%AD%E5%8F%B0%E9%8A%98%E5%85%B7%E7%8B%80-%E6%B2%92%E6%89%BE%E9%81%8E%E4%BB%B2%E4%BB%8B-091300506.html",
+        "published": "Thu, 06 Aug 2026 09:13:00 GMT",
+        "summary": "前彰化律師公會理事長陳昱瑄與無業男子李易儒，涉嫌於2021年疫情期間，謊稱能協助慈濟購買500萬劑BNT疫苗，詐取高達3000萬美金、折合台幣約10億元的佣金。檢調深入追查，鴻海創辦人郭台銘具狀說明，"
       },
       {
-        "title": "蘋果新機發表前的荒謬危機？ 獨立記者爆料：台積電在等DRAM",
+        "title": "台股早盤一度重挫近600點 南韓股市再度觸發熔斷",
         "source": "Yahoo 股市 - 台股動態",
-        "url": "https://tw.stock.yahoo.com/news/%E8%98%8B%E6%9E%9C%E6%96%B0%E6%A9%9F%E7%99%BC%E8%A1%A8%E5%89%8D%E7%9A%84%E8%8D%92%E8%AC%AC%E5%8D%B1%E6%A9%9F-%E7%8D%A8%E7%AB%8B%E8%A8%98%E8%80%85%E7%88%86%E6%96%99-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%9C%A8%E7%AD%89dram-060900516.html",
-        "published": "Thu, 06 Aug 2026 06:09:00 GMT",
-        "summary": "獨立科技記者Tim Culpan指出，距離iPhone 18系列及折疊機iPhone Ultra發布僅剩數週，台積電N2製程良率出色且產能無虞，不料嚴重的DRAM記憶體短缺卻導致已完成的處理器晶圓被迫"
+        "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%97%A9%E7%9B%A4-%E5%BA%A6%E9%87%8D%E6%8C%AB%E8%BF%91600%E9%BB%9E-%E5%8D%97%E9%9F%93%E8%82%A1%E5%B8%82%E5%86%8D%E5%BA%A6%E8%A7%B8%E7%99%BC%E7%86%94%E6%96%B7-085940254.html",
+        "published": "Thu, 06 Aug 2026 08:59:40 GMT",
+        "summary": "受美股三大指數全面收黑，以費城半導體指數跌幅1.4%最慘烈。週四台股開低震盪，早盤下跌近600點，指數最低來到4萬4024點，台股一度面臨4萬4000點保衛戰。"
       },
       {
-        "title": "台股收盤跌214點！台積電收2365元 群聯、旺宏雙雙亮燈漲停",
+        "title": "台股首次！緯創股利二度延期今天才入帳 金管會：如有嚴重疏失或收回自辦股務資格",
         "source": "Yahoo 股市 - 台股動態",
-        "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%94%B6%E7%9B%A4%E8%B7%8C214%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%94%B62365%E5%85%83-%E7%BE%A4%E8%81%AF-%E6%97%BA%E5%AE%8F%E9%9B%99%E9%9B%99%E4%BA%AE%E7%87%88%E6%BC%B2%E5%81%9C-060513352.html",
-        "published": "Thu, 06 Aug 2026 06:05:13 GMT",
-        "summary": "台股今（6）日震盪走低，開盤下跌123.66點，以44487.94點開出，隨後賣壓湧現，早盤跌幅一度擴大至近600點，指數險些失守44K，不過在低接買盤進場下，跌勢逐步收斂。終場加權指數下跌214.9"
+        "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E9%A6%96%E6%AC%A1-%E7%B7%AF%E5%89%B5%E8%82%A1%E5%88%A9%E4%BA%8C%E5%BA%A6%E5%BB%B6%E6%9C%9F%E4%BB%8A%E5%A4%A9%E6%89%8D%E5%85%A5%E5%B8%B3-%E9%87%91%E7%AE%A1%E6%9C%83-%E5%A6%82%E6%9C%89%E5%9A%B4%E9%87%8D%E7%96%8F%E5%A4%B1%E6%88%96%E6%94%B6%E5%9B%9E%E8%87%AA%E8%BE%A6%E8%82%A1%E5%8B%99%E8%B3%87%E6%A0%BC-085147995.html",
+        "published": "Thu, 06 Aug 2026 08:51:47 GMT",
+        "summary": "AI 伺服器大廠緯創近期資金離稱，現金股利發放日期「二度順延」引發市場關注。 緯創（3231）歷經二度延後的現金股利，今（8/6）天正式撥入股東帳戶。金管會證期局表示，過去股利延期發放，主要是因碰上颱"
       },
       {
-        "title": "台積電尾盤挨刀！台股收跌214點「這2檔」記憶體逆勢收漲停",
+        "title": "台股盤中狂跌近600點 國安基金第9次出擊獲利99.32億",
         "source": "Yahoo 股市 - 台股動態",
-        "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%B0%BE%E7%9B%A4%E6%8C%A8%E5%88%80-%E5%8F%B0%E8%82%A1%E6%94%B6%E8%B7%8C214%E9%BB%9E-%E9%80%992%E6%AA%94-%E8%A8%98%E6%86%B6%E9%AB%94%E9%80%86%E5%8B%A2%E6%94%B6%E6%BC%B2%E5%81%9C-060300908.html",
-        "published": "Thu, 06 Aug 2026 06:03:00 GMT",
-        "summary": "台股今（6）日開低震盪，盤中一度下跌逾500點，後續跌幅收斂力拚翻紅，不過尾盤受台積電賣壓影響，終場收跌214點，來到44396點，跌幅0.48%，成交量量縮至9400億元；櫃買指數則翻紅成功，終場收"
+        "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E4%B8%AD%E7%8B%82%E8%B7%8C%E8%BF%91600%E9%BB%9E-%E5%9C%8B%E5%AE%89%E5%9F%BA%E9%87%91%E7%AC%AC9%E6%AC%A1%E5%87%BA%E6%93%8A%E7%8D%B2%E5%88%A999-32%E5%84%84-084958646.html",
+        "published": "Thu, 06 Aug 2026 08:49:58 GMT",
+        "summary": "財經中心/綜合報導美股科技股捎來利空！SpaceX、超微等科技巨頭財報不如預期拖累費半指數收黑，也讓週四台股一度重挫近600點，不過在市場動盪之際，財政部也正式揭曉了國安基金第九次護盤的最終戰報，這回"
       },
       {
-        "title": "8月台股期指跌257點",
+        "title": "台股又變臉！三大法人續站買方豪灑45億 股民喊：風向變了",
         "source": "Yahoo 股市 - 台股動態",
-        "url": "https://tw.news.yahoo.com/8%E6%9C%88%E5%8F%B0%E8%82%A1%E6%9C%9F%E6%8C%87%E8%B7%8C257%E9%BB%9E-060226572.html",
-        "published": "Thu, 06 Aug 2026 06:02:26 GMT",
-        "summary": "（中央社台北6日電）台北股市今天終場跌214.9點，收44396.7點。8月台指期以44280點作收，下跌257點，與現貨相較，逆價差116.7點。"
+        "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%8F%88%E8%AE%8A%E8%87%89-%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E7%BA%8C%E7%AB%99%E8%B2%B7%E6%96%B9%E8%B1%AA%E7%81%9145%E5%84%84-%E8%82%A1%E6%B0%91%E5%96%8A-%E9%A2%A8%E5%90%91%E8%AE%8A%E4%BA%86-083000139.html",
+        "published": "Thu, 06 Aug 2026 08:30:00 GMT",
+        "summary": "[FTNN新聞網]記者陳思穎／綜合報導美股四大指數周三跌多漲少，台積電ADR也下滑0.76%，拖累台股今（6）日開低下跌123.66點至44487.94點，終場收44396.70點，下..."
       },
       {
-        "title": "台股收跌214點 權值股漲跌互見、雙萬金再現",
+        "title": "台股史上第3檔「萬金股」！股后川湖公布Q2財報 股價飆至10035元",
         "source": "Yahoo 股市 - 台股動態",
-        "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%94%B6%E8%B7%8C214%E9%BB%9E-%E6%AC%8A%E5%80%BC%E8%82%A1%E6%BC%B2%E8%B7%8C%E4%BA%92%E8%A6%8B-%E9%9B%99%E8%90%AC%E9%87%91%E5%86%8D%E7%8F%BE-060022444.html",
-        "published": "Thu, 06 Aug 2026 06:00:22 GMT",
-        "summary": "（中央社記者江明晏台北6日電）台股今天開低震盪，盤中下探44000點、季線附近，隨後漲勢收斂，終場收在44396.7點，下跌214.9點。台積電跌40元，收在2365元，跌幅1.66%，台達電、鴻海漲"
+        "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E5%8F%B2%E4%B8%8A%E7%AC%AC3%E6%AA%94-%E8%90%AC%E9%87%91%E8%82%A1-%E8%82%A1%E5%90%8E%E5%B7%9D%E6%B9%96%E5%85%AC%E5%B8%83q2%E8%B2%A1%E5%A0%B1-%E8%82%A1%E5%83%B9%E9%A3%86%E8%87%B310035%E5%85%83-082345946.html",
+        "published": "Thu, 06 Aug 2026 08:23:45 GMT",
+        "summary": "伺服器導軌大廠川湖（2059）今（6）日上午11點38分股價衝上10000元，並進一步走高至10035元，再創歷史新高，成為繼信驊（5274）、穎崴（6515）之後的台股史上第3檔萬金股。"
       },
       {
         "title": "最後一隻白老鼠？ 26萬散戶昨FOMO進場淪住套房 分析師：健康換手",
@@ -200,59 +226,106 @@
         "summary": "最後一隻白老鼠？台股昨天破35521點新高紀錄，據台灣證交所資料顯示，有26萬人FOMO（錯失恐懼症）追高進場，押寶輝達Nvidia黃仁勳再開金口釋利多，不過輝達財報儘管亮眼，盤後股價先漲後跌，拖累台"
       },
       {
-        "title": "【新股抽抽熱退燒3】新股抽抽熱不再？分析師說得坦白「投資人沒錢」券商雨天收傘",
+        "title": "《美股主題週報》個人化廣告技術—SNAP、PINS、RAMP",
         "source": "Yahoo 股市 - 研究報導",
-        "url": "https://tw.stock.yahoo.com/news/%E3%80%90%E6%96%B0%E8%82%A1%E6%8A%BD%E6%8A%BD%E7%86%B1%E9%80%80%E7%87%923%E3%80%91%E6%96%B0%E8%82%A1%E6%8A%BD%E6%8A%BD%E7%86%B1%E4%B8%8D%E5%86%8D%EF%BC%9F%E5%88%86%E6%9E%90%E5%B8%AB%E8%AA%AA%E5%BE%97%E5%9D%A6%E7%99%BD%E3%80%8C%E6%8A%95%E8%B3%87%E4%BA%BA%E6%B2%92%E9%8C%A2%E3%80%8D%E5%88%B8%E5%95%86%E9%9B%A8%E5%A4%A9%E6%94%B6%E5%82%98-041132731.html",
-        "published": "Thu, 06 Aug 2026 04:11:32 GMT",
-        "summary": "今年來新上市櫃30檔近半數都「破發」賠錢，衝擊新股抽抽熱人氣大退燒，下半年只剩和運租車1檔還有破30萬人競抽，甚至近來出現5個人就抽中1人的罕見沒人氣現象現象。對此資深證券分析師呂漢威受訪表示，大白話"
+        "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E4%B8%BB%E9%A1%8C%E9%80%B1%E5%A0%B1-%E5%80%8B%E4%BA%BA%E5%8C%96%E5%BB%A3%E5%91%8A%E6%8A%80%E8%A1%93-snap-pins-ramp-080500262.html",
+        "published": "Thu, 06 Aug 2026 08:05:00 GMT",
+        "summary": "MoneyDJ新聞 2026-08-06 16:05:46 數位內容中心 發佈Snap（SNAP.US） 8月4日，Snap揭露已將潛在客戶開發廣告原生串接HubSpot，並支援雙向轉換應用程式介面（"
       },
       {
-        "title": "【Hot台股】台股摔近600點拉回平盤...網喊話「鬼月還沒到」 分析師看多：僅壓力測試",
+        "title": "《美股主題週報》空間運算/混合實境—AAPL、SNAP、META",
         "source": "Yahoo 股市 - 研究報導",
-        "url": "https://tw.stock.yahoo.com/news/%E3%80%90hot%E5%8F%B0%E8%82%A1%E3%80%91%E5%8F%B0%E8%82%A1%E6%91%94%E8%BF%91600%E9%BB%9E%E6%8B%89%E5%9B%9E%E5%B9%B3%E7%9B%A4%E7%B6%B2%E5%96%8A%E8%A9%B1%E3%80%8C%E9%AC%BC%E6%9C%88%E9%82%84%E6%B2%92%E5%88%B0%E3%80%8D-%E5%88%86%E6%9E%90%E5%B8%AB%E7%9C%8B%E5%A4%9A%EF%BC%9A%E5%83%85%E5%A3%93%E5%8A%9B%E6%B8%AC%E8%A9%A6-035236032.html",
-        "published": "Thu, 06 Aug 2026 03:52:36 GMT",
-        "summary": "「鬼月還沒到阿 怕X小44444」「VVVVVVV」「台股做空真的沒人權」「看不出來又要畫山頭了嗎？」「台股真的不會跌」"
+        "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E4%B8%BB%E9%A1%8C%E9%80%B1%E5%A0%B1-%E7%A9%BA%E9%96%93%E9%81%8B%E7%AE%97-%E6%B7%B7%E5%90%88%E5%AF%A6%E5%A2%83-aapl-snap-075300917.html",
+        "published": "Thu, 06 Aug 2026 07:53:00 GMT",
+        "summary": "MoneyDJ新聞 2026-08-06 15:53:03 數位內容中心 發佈Apple（AAPL.US） 2026/08/05，Apple向美國法院申請初步禁制令，要求禁止兩名前員工與OpenAI取"
       },
       {
-        "title": "BBU族群暴衝！順達新盛力閃紅燈...近萬張排隊等買 分析師看法出爐",
+        "title": "美分析師：記憶體類股長線敘事未變 台灣為關鍵一環",
         "source": "Yahoo 股市 - 研究報導",
-        "url": "https://tw.stock.yahoo.com/news/bbu%E6%97%8F%E7%BE%A4%E6%9A%B4%E8%A1%9D%EF%BC%81%E9%A0%86%E9%81%94%E6%96%B0%E7%9B%9B%E5%8A%9B%E9%96%83%E7%B4%85%E7%87%88%E8%BF%91%E8%90%AC%E5%BC%B5%E6%8E%92%E9%9A%8A%E7%AD%89%E8%B2%B7-%E5%88%86%E6%9E%90%E5%B8%AB%E7%9C%8B%E6%B3%95%E5%87%BA%E7%88%90-033117876.html",
-        "published": "Thu, 06 Aug 2026 03:31:17 GMT",
-        "summary": "受惠市場看好AI伺服器電源、高瓦數Power Shelf等新世代電源產品放量，BBU（高效備援電池系統）族群今（6）日飆風再起，指標股順達（3211）、新盛力（4931）盤中雙雙亮燈，分別漲停至356"
+        "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%88%86%E6%9E%90%E5%B8%AB-%E8%A8%98%E6%86%B6%E9%AB%94%E9%A1%9E%E8%82%A1%E9%95%B7%E7%B7%9A%E6%95%98%E4%BA%8B%E6%9C%AA%E8%AE%8A-%E5%8F%B0%E7%81%A3%E7%82%BA%E9%97%9C%E9%8D%B5-%E7%92%B0-075022158.html",
+        "published": "Thu, 06 Aug 2026 07:50:22 GMT",
+        "summary": "（中央社記者張欣瑜舊金山2026年8月5日專電）「記憶體與儲存技術大會」在矽谷舉行，台廠供應鏈華邦電、旺宏等廠商參展。資深產業分析師克雷默受訪指出，AI不是泡沫，記憶體與儲存已成為推動AI發展的關鍵引"
       },
       {
-        "title": "華邦電法說會下午登場！市場轉趨觀望股價終結連4紅 分析師揭最大看點",
+        "title": "《美股主題週報》生成式人工智慧—MSFT、AMZN、GOOGL",
         "source": "Yahoo 股市 - 研究報導",
-        "url": "https://tw.stock.yahoo.com/news/%E8%8F%AF%E9%82%A6%E9%9B%BB%E6%B3%95%E8%AA%AA%E6%9C%83%E4%B8%8B%E5%8D%88%E7%99%BB%E5%A0%B4%EF%BC%81%E5%B8%82%E5%A0%B4%E8%BD%89%E8%B6%A8%E8%A7%80%E6%9C%9B%E8%82%A1%E5%83%B9%E7%B5%82%E7%B5%90%E9%80%A34%E7%B4%85-%E5%88%86%E6%9E%90%E5%B8%AB%E6%8F%AD%E6%9C%80%E5%A4%A7%E7%9C%8B%E9%BB%9E-032015617.html",
-        "published": "Thu, 06 Aug 2026 03:20:15 GMT",
-        "summary": "記憶體大廠華邦電（2344）將於今（6）日下午舉行法說會，今日終結連4紅，股價震盪走弱，截至上午10時45分暫報167元，下跌逾1%，成交量約9.4萬張。分析師表示，目前市場需求仍維持供不應求，但接下"
+        "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E4%B8%BB%E9%A1%8C%E9%80%B1%E5%A0%B1-%E7%94%9F%E6%88%90%E5%BC%8F%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7-msft-amzn-googl-073700053.html",
+        "published": "Thu, 06 Aug 2026 07:37:00 GMT",
+        "summary": "MoneyDJ新聞 2026-08-06 15:37:52 數位內容中心 發佈Microsoft Corporation（MSFT.US） 最新財季，Microsoft表示Azure成長43%，下季指"
       },
       {
-        "title": "國巨又吞半根跌停...一度失守550元關 分析師：介入等一訊號",
+        "title": "《美股主題週報》智慧化農業—CNH、AGCO",
         "source": "Yahoo 股市 - 研究報導",
-        "url": "https://tw.stock.yahoo.com/news/%E5%9C%8B%E5%B7%A8%E5%8F%88%E5%90%9E%E5%8D%8A%E6%A0%B9%E8%B7%8C%E5%81%9C%E4%B8%80%E5%BA%A6%E5%A4%B1%E5%AE%88550%E5%85%83%E9%97%9C-%E5%88%86%E6%9E%90%E5%B8%AB%EF%BC%9A%E4%BB%8B%E5%85%A5%E7%AD%89%E4%B8%80%E8%A8%8A%E8%99%9F-023049818.html",
-        "published": "Thu, 06 Aug 2026 02:30:49 GMT",
-        "summary": "國巨又跌了…國內被動元件龍頭國巨（2327）今日股價再度吞下半根跌停，失守550元大關，最低來到536元位置，分析師認為國巨擁有跌深反彈的空間，目前回到10日線附近，應等量能縮減，籌碼沉澱乾淨，就是承"
+        "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E4%B8%BB%E9%A1%8C%E9%80%B1%E5%A0%B1-%E6%99%BA%E6%85%A7%E5%8C%96%E8%BE%B2%E6%A5%AD-cnh-agco-070700615.html",
+        "published": "Thu, 06 Aug 2026 07:07:00 GMT",
+        "summary": "MoneyDJ新聞 2026-08-06 15:07:05 數位內容中心 發佈CNH Industrial（CNH.US） 7月30日，CNH Industrial說明Case IH FieldOps"
       }
     ],
     "summary": {
-      "tracked": 10,
-      "gainers": 10,
-      "losers": 0,
+      "tracked": 12,
+      "gainers": 11,
+      "losers": 1,
       "plain_read": "追蹤的半導體供應鏈多數上漲，市場對族群短線風險偏好較高。"
     },
-    "errors": [
-      {
-        "symbol": "2330.TW",
-        "error": "HTTP Error 429: Too Many Requests"
-      },
-      {
-        "symbol": "2317.TW",
-        "error": "HTTP Error 429: Too Many Requests"
-      }
-    ]
+    "errors": []
   },
   "items": [
+    {
+      "id": "ee6734dfad458f4bc9ed",
+      "title": "KLA Rides on Strong Advanced Packaging Growth: More Upside Ahead? - Yahoo Finance",
+      "title_zh": "台灣觀察：KLA的先進封裝 / 測試相關動態",
+      "source": "TSMC / CoWoS / Advanced Packaging - Google News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTFNGZmVtQzNBRTB4RW1VN0UyeUtsRHgxdzVLQVZheUZ2VGtoSGN4N2RxenBwaG5NQ0RlbXpSMFc5ZDY5Y3FmT1p3Y0hDYzZ0LWdmOHFvWnV5YUlNOHlsSTZkYzRqMDRFWHo5RHVEekNFNGpqUzZtSFlXSGRzcXBxb3JCUkZwcHJmTEczTzB3OVc1MS13a19abmtacUY?oc=5",
+      "published": "Thu, 30 Jul 2026 17:57:00 GMT",
+      "region": "taiwan",
+      "segments": [
+        "先進封裝 / 測試",
+        "設備 / 材料"
+      ],
+      "companies": [
+        "KLA"
+      ],
+      "importance": 4,
+      "summary_zh": "KLA Rides on Strong Advanced Packaging Growth: More Upside Ahead? Yahoo Finance",
+      "investment_takeaway": "投資觀察重點在 CoWoS/先進封裝產能、載板與測試稼動率，這通常是 AI 加速器供給瓶頸。"
+    },
+    {
+      "id": "789dc07f9448f38666e5",
+      "title": "Intel Stock Slides As Tariffs, Chip Selloff Rattle Traders - stockstotrade.com",
+      "title_zh": "國際觀察：Intel的晶片設計相關動態",
+      "source": "Intel Foundry / AI Chips - Google News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE14Sk04VzVBal9Nb1pQam9vMGh6bkk2QjJtRzh4NENKNk5nekFZaGRLeWNsX01yckVyaVdNeDd0REgwdU4yRXlDMzJOcDIxVF9mZ240Vmc0ZEEyU2lJZV8wZGtzSGt1dERPNFNVU2J4V3RNZTNJSnpDVll3?oc=5",
+      "published": "Wed, 05 Aug 2026 11:48:00 GMT",
+      "region": "international",
+      "segments": [
+        "晶片設計",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "Intel"
+      ],
+      "importance": 3,
+      "summary_zh": "Intel Stock Slides As Tariffs, Chip Selloff Rattle Traders stockstotrade.com",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+    },
+    {
+      "id": "451b9e9dadba563b235d",
+      "title": "AI Chip Design Era Ends: TSMC Affiliate GUC Posts Record Revenue as Turnkey Surpasses 80% - Tech Times",
+      "title_zh": "台灣觀察：TSMC的晶圓代工 / 製程相關動態",
+      "source": "TSMC / CoWoS / Advanced Packaging - Google News",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeFcySllXclg1bXZXVnVuelU1UnE0aHZXd1BoRERmRXlNOFpaUkxIMF84Y202VjVTUG9xZVV5WnpDX3VXVHhWSng3MUQxRmcxQlhRWVI2WEh5b0c4cGFQNkhjU1dFNmoyTFAxX3RtRHJqOVVZMHN5ZXY2d0JQR3A3TXJzcC1IblJMemdkTHhRU1JHdG5SWkExUllFNWR6dzlaT2F5YThBWGVwVW5kbHByRjAwdEZGTVpKVGpyQWNRRU1Pd3ZnNUNONDFDekRlVHg5SnRMQXpn?oc=5",
+      "published": "Wed, 05 Aug 2026 12:54:24 GMT",
+      "region": "taiwan",
+      "segments": [
+        "晶圓代工 / 製程"
+      ],
+      "companies": [
+        "TSMC"
+      ],
+      "importance": 3,
+      "summary_zh": "AI Chip Design Era Ends: TSMC Affiliate GUC Posts Record Revenue as Turnkey Surpasses 80% Tech Times",
+      "investment_takeaway": "投資觀察重點在台灣供應鏈是否取得 AI 伺服器、封裝、測試或零組件增量訂單。"
+    },
     {
       "id": "0f1c9b3971e6a42b76aa",
       "title": "TSMC Developing AI Chip-Packaging Technology Similar to Intel's, The Information Reports - marketscreener.com",
@@ -300,7 +373,7 @@
       "title_zh": "國際觀察：Intel的晶片設計相關動態",
       "source": "Intel Foundry / AI Chips - Google News",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMjI4VEZ2ck9Qam9uWWw0OE1wTjJnVEprVmhmV1laS25BOHpwUTFiRTRYYzNqZWlJZnZiSk9vYU5uSUN0VFJBZ0JucEt5c1N4RnowWUx0eFowRjhCc3h0OGN1clJfNUJPV1JUOFhXbmg3MVhuVFhiRUY4azhySGdlenFoRGQ?oc=5",
-      "published": "Thu, 06 Aug 2026 04:01:48 GMT",
+      "published": "Thu, 06 Aug 2026 08:26:15 GMT",
       "region": "international",
       "segments": [
         "晶片設計"
@@ -432,7 +505,7 @@
     },
     {
       "id": "c1dbc236437d92431bc5",
-      "title": "Record revenue: Supplier Foxconn benefits from AI boom - Table.Briefings",
+      "title": "Record revenue: Supplier Foxconn benefits from AI boom - table.media",
       "title_zh": "台灣觀察：Foxconn的AI 伺服器 / 資料中心供應鏈相關動態",
       "source": "Taiwan AI Server Supply Chain - Google News",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaHRvZ1BRTUc3YjZia3pwNTZJeFBZMWxESHVzUTBad3VqaUNuMjNYbk9lVFdyQjJFRV95dUQxZWxVWllfZnNfR2NydGZsV2tIZ3ZPbGxjb3BNekZ4akpJV0xZeEVneERXZjV2Uko3eXhzQVNwT2pEeTVOSi1ZQllnN2VBbHpRZU5DMVlaZnBWQXU?oc=5",
@@ -445,7 +518,7 @@
         "Foxconn"
       ],
       "importance": 2,
-      "summary_zh": "Record revenue: Supplier Foxconn benefits from AI boom Table.Briefings",
+      "summary_zh": "Record revenue: Supplier Foxconn benefits from AI boom table.media",
       "investment_takeaway": "投資觀察重點在台灣供應鏈是否取得 AI 伺服器、封裝、測試或零組件增量訂單。"
     },
     {
@@ -505,24 +578,6 @@
       "investment_takeaway": "投資觀察重點在台灣供應鏈是否取得 AI 伺服器、封裝、測試或零組件增量訂單。"
     },
     {
-      "id": "f3ce74f8b0f9f1ea3842",
-      "title": "Intel Stock Jumps As Blowout Q2 Fuels AI Momentum - StocksToTrade",
-      "title_zh": "國際觀察：Intel的晶片設計相關動態",
-      "source": "Intel Foundry / AI Chips - Google News",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5uTDdTR25UeGZidkpISkgxQ2VEdGdnS0J3cnhPUG9YdExtSklvVEtCZDZNY3NuWFljNHZ1U2ZXd3pCRTlPRHkxcGtXQjhGclBUODRuX0VYa3FCeC02ZjNEcEJIb3c3Nk55Q19ua2R1RmJ3eGJ1c011QXR3?oc=5",
-      "published": "Thu, 30 Jul 2026 11:51:00 GMT",
-      "region": "international",
-      "segments": [
-        "晶片設計"
-      ],
-      "companies": [
-        "Intel"
-      ],
-      "importance": 2,
-      "summary_zh": "Intel Stock Jumps As Blowout Q2 Fuels AI Momentum StocksToTrade",
-      "investment_takeaway": "投資觀察重點在此消息是否影響需求能見度、產能瓶頸、價格或供應鏈議價能力。"
-    },
-    {
       "id": "a9ba3f06aab79f518c96",
       "title": "Advanced Micro Devices vs. Intel: Which Technology Stock Is a Better Buy in 2026? - The Globe and Mail",
       "title_zh": "國際觀察：Intel的晶片設計相關動態",
@@ -538,6 +593,24 @@
       ],
       "importance": 2,
       "summary_zh": "Advanced Micro Devices vs. Intel: Which Technology Stock Is a Better Buy in 2026? The Globe and Mail",
+      "investment_takeaway": "投資觀察重點在此消息是否影響需求能見度、產能瓶頸、價格或供應鏈議價能力。"
+    },
+    {
+      "id": "f3ce74f8b0f9f1ea3842",
+      "title": "Intel Stock Jumps As Blowout Q2 Fuels AI Momentum - stockstotrade.com",
+      "title_zh": "國際觀察：Intel的晶片設計相關動態",
+      "source": "Intel Foundry / AI Chips - Google News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5uTDdTR25UeGZidkpISkgxQ2VEdGdnS0J3cnhPUG9YdExtSklvVEtCZDZNY3NuWFljNHZ1U2ZXd3pCRTlPRHkxcGtXQjhGclBUODRuX0VYa3FCeC02ZjNEcEJIb3c3Nk55Q19ua2R1RmJ3eGJ1c011QXR3?oc=5",
+      "published": "Thu, 30 Jul 2026 11:51:00 GMT",
+      "region": "international",
+      "segments": [
+        "晶片設計"
+      ],
+      "companies": [
+        "Intel"
+      ],
+      "importance": 2,
+      "summary_zh": "Intel Stock Jumps As Blowout Q2 Fuels AI Momentum stockstotrade.com",
       "investment_takeaway": "投資觀察重點在此消息是否影響需求能見度、產能瓶頸、價格或供應鏈議價能力。"
     },
     {
@@ -1023,7 +1096,7 @@
     },
     {
       "id": "1078124bc69d189d5571",
-      "title": "TSMC trumpets another huge expansion - thefoothillsfocus.com",
+      "title": "TSMC trumpets another huge expansion - The Foothills Focus",
       "title_zh": "台灣觀察：TSMC的晶圓代工 / 製程相關動態",
       "source": "TSMC / CoWoS / Advanced Packaging - Google News",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTHdvaGl4aTdMNXZTMXNUOHY4NnhRUmtXbGhKQjktNFFyTkpERVFhVjVtUHd3LXZ3Zk9nWFdVaEd6M1BGY1hIOUxFanhPMVdJMlVvcVQwdmFISldWcWdQYjZGZ21RdGhLanlrYVZzdlFTNTlZV0FCSHFzSmJUUVJfaF9KbDdNX3U5S1VJS2ZXMHoweHRHRDVacmFuVTlxVWhoZDAzckYxWkpoQmw4X1dSRG01Y3lrdVJaOThud3ltbGNEM1poZnlQMDln?oc=5",
@@ -1037,7 +1110,7 @@
         "TSMC"
       ],
       "importance": 4,
-      "summary_zh": "TSMC trumpets another huge expansion thefoothillsfocus.com",
+      "summary_zh": "TSMC trumpets another huge expansion The Foothills Focus",
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     },
     {
@@ -1654,23 +1727,21 @@
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     },
     {
-      "id": "911c71c06bbde18bf827",
-      "title": "Global Server Shipments Expected to Rise 2.8% QoQ in Q3; Quanta and Wiwynn Gap Narrows - finance.biggo.com",
-      "title_zh": "台灣觀察：Quanta、Wiwynn的AI 伺服器 / 資料中心供應鏈相關動態",
-      "source": "Taiwan AI Server Supply Chain - Google News",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qc3dNbUlPUzVwdm5PYTVRV0pHcFB0dzZfakFxVzY2anljNnV5Njdjbm9qOEZDUGhGQ2JZMVdnazdGVVYyTEU5N19ZUXlsTWx5MnBPbUxoRkVVWWRILWo5S2I3alJzMHhiV3dSYmlNSmE1YlNyTnc?oc=5",
-      "published": "Tue, 04 Aug 2026 09:35:00 GMT",
-      "region": "taiwan",
+      "id": "d48edb9832b66d17b6eb",
+      "title": "INTC Stock Has Surged 233% This Year — HSBC Sees Another 60% Upside As Foundry Business Becomes 'Too Good to Ignore' - Stocktwits",
+      "title_zh": "國際觀察：晶圓代工 / 製程、政策 / 地緣政治的晶圓代工 / 製程相關動態",
+      "source": "Intel Foundry / AI Chips - Google News",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTXQtRnU2OTdPNURnU29RcW9ReTNLSTd2X1VfdDJYaVpidWQxSzJXRTVNc0gxVjhGQWNWcEVMeEtjQVVMcTMtSlZUYkdoMWVzVWVsVTVGdVdSclJ5Y1UwMUNzeXRKYjdBX21ZYWpJaklOdmppV05mcS1kaGJYZ3B5TFRfcm14QnM0UG1malhFcFRBcTRhY3NyOWlJQlFkNU4tTUNWdVRIS0F3N3hDSkRmc0xBa2Ixa1huTGVmSm04bktabGNxNGs5ekhCR29jZw?oc=5",
+      "published": "Tue, 04 Aug 2026 08:28:59 GMT",
+      "region": "international",
       "segments": [
-        "AI 伺服器 / 資料中心供應鏈"
+        "晶圓代工 / 製程",
+        "政策 / 地緣政治"
       ],
-      "companies": [
-        "Quanta",
-        "Wiwynn"
-      ],
-      "importance": 4,
-      "summary_zh": "Global Server Shipments Expected to Rise 2.8% QoQ in Q3; Quanta and Wiwynn Gap Narrows finance.biggo.com",
-      "investment_takeaway": "投資觀察重點在台灣供應鏈是否取得 AI 伺服器、封裝、測試或零組件增量訂單。"
+      "companies": [],
+      "importance": 3,
+      "summary_zh": "INTC Stock Has Surged 233% This Year — HSBC Sees Another 60% Upside As Foundry Business Becomes 'Too Good to Ignore' Stocktwits",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     },
     {
       "id": "df103dae637324da9a13",
@@ -1817,6 +1888,25 @@
       "investment_takeaway": "投資觀察重點在 CSP CapEx、AI 叢集擴建，以及 GPU/ASIC 需求是否轉成供應鏈訂單。"
     },
     {
+      "id": "911c71c06bbde18bf827",
+      "title": "Global Server Shipments Expected to Rise 2.8% QoQ in Q3; Quanta and Wiwynn Gap Narrows - finance.biggo.com",
+      "title_zh": "台灣觀察：Quanta、Wiwynn的AI 伺服器 / 資料中心供應鏈相關動態",
+      "source": "Taiwan AI Server Supply Chain - Google News",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qc3dNbUlPUzVwdm5PYTVRV0pHcFB0dzZfakFxVzY2anljNnV5Njdjbm9qOEZDUGhGQ2JZMVdnazdGVVYyTEU5N19ZUXlsTWx5MnBPbUxoRkVVWWRILWo5S2I3alJzMHhiV3dSYmlNSmE1YlNyTnc?oc=5",
+      "published": "Tue, 04 Aug 2026 09:35:00 GMT",
+      "region": "taiwan",
+      "segments": [
+        "AI 伺服器 / 資料中心供應鏈"
+      ],
+      "companies": [
+        "Quanta",
+        "Wiwynn"
+      ],
+      "importance": 4,
+      "summary_zh": "Global Server Shipments Expected to Rise 2.8% QoQ in Q3; Quanta and Wiwynn Gap Narrows finance.biggo.com",
+      "investment_takeaway": "投資觀察重點在台灣供應鏈是否取得 AI 伺服器、封裝、測試或零組件增量訂單。"
+    },
+    {
       "id": "1ef3c04752a8642d9af5",
       "title": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use",
       "title_zh": "國際觀察：NVIDIA的晶片設計相關動態",
@@ -1833,23 +1923,6 @@
       ],
       "importance": 3,
       "summary_zh": "For robotaxis and other autonomous vehicles (AVs), the hardest problems aren’t the everyday scenarios. They’re the rare, complex situations that are difficult to anticipate and train for. Handling these long‑tail events takes more than just object detection an",
-      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
-      "id": "d48edb9832b66d17b6eb",
-      "title": "INTC Stock Has Surged 233% This Year — HSBC Sees Another 60% Upside As Foundry Business Becomes 'Too Good to Ignore' - Stocktwits",
-      "title_zh": "國際觀察：晶圓代工 / 製程、政策 / 地緣政治的晶圓代工 / 製程相關動態",
-      "source": "Intel Foundry / AI Chips - Google News",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTXQtRnU2OTdPNURnU29RcW9ReTNLSTd2X1VfdDJYaVpidWQxSzJXRTVNc0gxVjhGQWNWcEVMeEtjQVVMcTMtSlZUYkdoMWVzVWVsVTVGdVdSclJ5Y1UwMUNzeXRKYjdBX21ZYWpJaklOdmppV05mcS1kaGJYZ3B5TFRfcm14QnM0UG1malhFcFRBcTRhY3NyOWlJQlFkNU4tTUNWdVRIS0F3N3hDSkRmc0xBa2Ixa1huTGVmSm04bktabGNxNGs5ekhCR29jZw?oc=5",
-      "published": "Tue, 04 Aug 2026 08:28:59 GMT",
-      "region": "international",
-      "segments": [
-        "晶圓代工 / 製程",
-        "政策 / 地緣政治"
-      ],
-      "companies": [],
-      "importance": 3,
-      "summary_zh": "INTC Stock Has Surged 233% This Year — HSBC Sees Another 60% Upside As Foundry Business Becomes 'Too Good to Ignore' Stocktwits",
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     },
     {
@@ -2481,61 +2554,6 @@
       "importance": 4,
       "summary_zh": "Samsung Electro-Mechanics (SEMCO) is reportedly pulling forward the start-up of its first overseas multilayer ceramic capacitor (MLCC) plant, a move that underscores how an AI-driven scramble for the tiny components is reshaping pricing and investment across t",
       "investment_takeaway": "投資觀察重點在 HBM 價格、良率、客戶認證與供應合約年限。"
-    },
-    {
-      "id": "779ad6fe5c514463c3ba",
-      "title": "China tightens chip layout design protection to strengthen domestic semiconductor innovation",
-      "title_zh": "台灣觀察：政策 / 地緣政治的政策 / 地緣政治相關動態",
-      "source": "DIGITIMES Asia",
-      "url": "https://www.digitimes.com/news/a20260804VL206/beijing-ic-design-regulation.html",
-      "published": "Tue, 4 Aug 2026 04:19:43 GMT",
-      "region": "taiwan",
-      "segments": [
-        "政策 / 地緣政治"
-      ],
-      "companies": [],
-      "importance": 3,
-      "summary_zh": "China has revised its regulations on the protection of integrated circuit (IC) layout designs, introducing stricter registration requirements, stronger enforcement measures and clearer commercialization rules as Beijing steps up efforts to strengthen its domes",
-      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
-      "id": "083b42f1d57e7a5d0051",
-      "title": "NVIDIA Stock Analysis August 2026: AI Chip Leader Market Outlook - Intellectia AI",
-      "title_zh": "國際觀察：NVIDIA、Intel的晶片設計相關動態",
-      "source": "Intel Foundry / AI Chips - Google News",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1iZGdIcXM0T055WVhJdkJCb0ZYSDdKRVZVdjRRaXRGNmpJUDlTcnFVS29hYzZyUWZJVzlpQ0xuNlpJaFAyem00bUhKc0MxRThIVjZLRW5nTmF6NWdTd3daMlQyMld3TTZQZnNN?oc=5",
-      "published": "Sat, 01 Aug 2026 12:12:38 GMT",
-      "region": "international",
-      "segments": [
-        "晶片設計",
-        "政策 / 地緣政治"
-      ],
-      "companies": [
-        "NVIDIA",
-        "Intel"
-      ],
-      "importance": 4,
-      "summary_zh": "NVIDIA Stock Analysis August 2026: AI Chip Leader Market Outlook Intellectia AI",
-      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
-      "id": "2059dbe347126a473e0d",
-      "title": "Chips, Capital, and Civil Society: The Case for a Deeper EU-Taiwan Partnership｜Industry｜2026-08-04｜web only - 天下雜誌",
-      "title_zh": "Chips, Capital, and Civil Society: The Case for a Deeper EU-Taiwan Partnership｜Industry｜2026-08-04｜web only - 天下雜誌",
-      "source": "Taiwan AI Server Supply Chain - Google News",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93UE40cUxxcHhjZk9NTm5VS3BpZHRJOW1EdGRFYVdtS0xKRk1MYjRxYWthTkJxamlMYVpfTFlzdjFVSF9HQl9XblJ1UEpJNk96a2FzTS1DX2paV3l3Wnh1MmtXQ3JJT2c?oc=5",
-      "published": "Tue, 04 Aug 2026 02:40:41 GMT",
-      "region": "taiwan",
-      "segments": [
-        "先進封裝 / 測試",
-        "政策 / 地緣政治"
-      ],
-      "companies": [
-        "ASE"
-      ],
-      "importance": 4,
-      "summary_zh": "Chips, Capital, and Civil Society: The Case for a Deeper EU-Taiwan Partnership｜Industry｜2026-08-04｜web only 天下雜誌",
-      "investment_takeaway": "投資觀察重點在 CoWoS/先進封裝產能、載板與測試稼動率，這通常是 AI 加速器供給瓶頸。"
     }
   ]
 }
