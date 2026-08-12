@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T19:39:28+00:00",
+  "generated_at": "2026-08-12T20:42:29+00:00",
   "date": "2026-08-12",
   "market": {
     "indices": [
@@ -271,23 +271,43 @@
   },
   "items": [
     {
-      "id": "8532dac5bf5399094f34",
-      "title": "Jim Cramer Just Called Intel a Major Focus Name: Here's What He Sees in Lip-Bu Tan's Intel - 24/7 Wall St.",
+      "id": "4967e782e5727a93eb59",
+      "title": "Sony-TSMC $4.7B Deal Helps Thwart Samsung, Analysts Say - EE Times",
+      "title_zh": "台灣觀察：TSMC、Samsung的晶圓代工 / 製程相關動態",
+      "source": "TSMC / CoWoS / Advanced Packaging - Google News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaFptXzBVSFJJZUJGRmkxQlFPZVpYSXQ2ZEl5djN4eVVaSGlGZFlIOTUtWG5GS0JxMUFEVzdqUEhGb1A1OFhuSE1LZ2ZSYWdGVlFpYmVwaUt3REJ3eG1xV21lSWZnNGVVMXBTRWZ6M2RjbENBMVJieC0xZjRuQ1ZNbkhGY3Q?oc=5",
+      "published": "Wed, 12 Aug 2026 10:07:32 GMT",
+      "region": "taiwan",
+      "segments": [
+        "晶圓代工 / 製程",
+        "記憶體 / HBM"
+      ],
+      "companies": [
+        "TSMC",
+        "Samsung"
+      ],
+      "importance": 4,
+      "summary_zh": "Sony-TSMC $4.7B Deal Helps Thwart Samsung, Analysts Say EE Times",
+      "investment_takeaway": "投資觀察重點在 HBM 價格、良率、客戶認證與供應合約年限。"
+    },
+    {
+      "id": "1ae102fd1c0428e68c1f",
+      "title": "Intel Prices $20 Billion Stock Offering as AI, Foundry Spending Accelerates - Channel Insider",
       "title_zh": "國際觀察：Intel的晶片設計相關動態",
       "source": "Intel Foundry / AI Chips - Google News",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYnY5Rk1HZThZRS1BWktNS0Y1SjRfNlU1M01BRF8xanlKZGZiMkJ3TXdCVlplblUtb1NqZ1hJUFB2UHZMb2RKWUt0aGpLb0w1V0FidldKRFc0MFhyUzgyUTl2ME83RG9xYXRfNnhQZTVFd2lWZy12LWxNSnYwQklPV1FySW1NTnB3WFJKdGJxRnVWdTh6OGdYa0dHVXl6ZlczdHRaVFo1VmtIVW9FWW1pQWRNU2g3Tm9rbTJJZ1lETHJYNXA2ZWg2eERlSQ?oc=5",
-      "published": "Wed, 12 Aug 2026 18:05:28 GMT",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVWdseXViY2UyM2Z0VWNSMnA2ZTVaUDZla3lxZG9hQ0xqOVc0NEZabzRQQlVBdVJnSGhxMDFjdmk3N0FtVmxQSHl2TC1XQk95SW93VHRjbERPZVpXLUpFOEFEMlFTQXlmSjF0TTNkRzJUVE1XeHFrekhWeFhIck1qVHl0QTZfd2tvVUVFa1Q1ZUhCcGx2ZllvNnVITTU?oc=5",
+      "published": "Wed, 12 Aug 2026 10:43:19 GMT",
       "region": "international",
       "segments": [
         "晶片設計",
-        "政策 / 地緣政治"
+        "晶圓代工 / 製程"
       ],
       "companies": [
         "Intel"
       ],
       "importance": 3,
-      "summary_zh": "Jim Cramer Just Called Intel a Major Focus Name: Here's What He Sees in Lip-Bu Tan's Intel 24/7 Wall St.",
-      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+      "summary_zh": "Intel Prices $20 Billion Stock Offering as AI, Foundry Spending Accelerates Channel Insider",
+      "investment_takeaway": "投資觀察重點在此消息是否影響需求能見度、產能瓶頸、價格或供應鏈議價能力。"
     },
     {
       "id": "c88e5c52bfc16f7946f5",
@@ -308,8 +328,27 @@
       "investment_takeaway": "投資觀察重點在台灣供應鏈是否取得 AI 伺服器、封裝、測試或零組件增量訂單。"
     },
     {
+      "id": "8532dac5bf5399094f34",
+      "title": "Jim Cramer Just Called Intel a Major Focus Name: Here's What He Sees in Lip-Bu Tan's Intel - 24/7 Wall St.",
+      "title_zh": "國際觀察：Intel的晶片設計相關動態",
+      "source": "Intel Foundry / AI Chips - Google News",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYnY5Rk1HZThZRS1BWktNS0Y1SjRfNlU1M01BRF8xanlKZGZiMkJ3TXdCVlplblUtb1NqZ1hJUFB2UHZMb2RKWUt0aGpLb0w1V0FidldKRFc0MFhyUzgyUTl2ME83RG9xYXRfNnhQZTVFd2lWZy12LWxNSnYwQklPV1FySW1NTnB3WFJKdGJxRnVWdTh6OGdYa0dHVXl6ZlczdHRaVFo1VmtIVW9FWW1pQWRNU2g3Tm9rbTJJZ1lETHJYNXA2ZWg2eERlSQ?oc=5",
+      "published": "Wed, 12 Aug 2026 18:05:28 GMT",
+      "region": "international",
+      "segments": [
+        "晶片設計",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "Intel"
+      ],
+      "importance": 3,
+      "summary_zh": "Jim Cramer Just Called Intel a Major Focus Name: Here's What He Sees in Lip-Bu Tan's Intel 24/7 Wall St.",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+    },
+    {
       "id": "47005fdea6ecfb4f2113",
-      "title": "Taiwan's Foxconn reports 35% rise in Q2 profit on AI demand, beats forecasts - The Lufkin Daily News",
+      "title": "Taiwan's Foxconn reports 35% rise in Q2 profit on AI demand, beats forecasts - lufkindailynews.com",
       "title_zh": "台灣觀察：Foxconn的AI 伺服器 / 資料中心供應鏈相關動態",
       "source": "Taiwan AI Server Supply Chain - Google News",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQcllzR3ZFdGhSdndlTHZGaXg5ajVCQmV0cUN0YVRDYWFXcHRiMXZqd3h3TGNqUGxUMmtVU2g1RkVPQTNyNDlpRVYxZWhUcWlzaEpKZDV5ZVhFT2R5RW9lZjRyZjlTbG16dmtxOXJGVUZrUGtUcHdKOFY0bnQxMDNDckJmTktqOE5Qa2dleEFsN3E2bHdLNEpXdnc0M0o2RVRaY3EtSFhjcHV5TnZNaHA3eXJ1TE50WHJ3YkptNzI2aE9iUWVHQzVHcEw2VEh1QlBKcWR1MG9FOERGVGl5Z1hrQnc4cGlyU3p5ZEcwZ2dWcENHMmtHSGhyVEdITFRaaHVtRXBv?oc=5",
@@ -323,7 +362,7 @@
         "Foxconn"
       ],
       "importance": 3,
-      "summary_zh": "Taiwan's Foxconn reports 35% rise in Q2 profit on AI demand, beats forecasts The Lufkin Daily News",
+      "summary_zh": "Taiwan's Foxconn reports 35% rise in Q2 profit on AI demand, beats forecasts lufkindailynews.com",
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     },
     {
@@ -386,7 +425,7 @@
     },
     {
       "id": "5f42eb17e234b852fe2f",
-      "title": "Sony Semiconductor and TSMC Establishing Joint Venture | Business | Aug 2026 - photonics.com",
+      "title": "Sony Semiconductor and TSMC Establishing Joint Venture | Business | Aug 2026 - Photonics Spectra",
       "title_zh": "台灣觀察：TSMC的晶圓代工 / 製程相關動態",
       "source": "TSMC / CoWoS / Advanced Packaging - Google News",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTWYxZFk0Z2tDQzhoTEJSN3kwd084anM5NFVpSXIyU3NnU1Q5TlJ5WnFRYzlBTHNCT2VQNklTdnNDMFMzb01UaWZFbkt5RGFzdXQyU1VoYlVGdmVPUFdwcHpUWWk1YzZRY3ZtSVdBMEd2d0FqRmM3ZFRpTEpVbW1wQTZkUHlFRWlLYXYtR1R6NnJLYnQzM1E?oc=5",
@@ -400,7 +439,7 @@
         "TSMC"
       ],
       "importance": 4,
-      "summary_zh": "Sony Semiconductor and TSMC Establishing Joint Venture | Business | Aug 2026 photonics.com",
+      "summary_zh": "Sony Semiconductor and TSMC Establishing Joint Venture | Business | Aug 2026 Photonics Spectra",
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     },
     {
@@ -616,7 +655,7 @@
     },
     {
       "id": "cdaf7285f3c9b20e6118",
-      "title": "Taiwanese tech titan: Foxconn posts quarterly profit surge on AI server demand - today.rtl.lu",
+      "title": "Taiwanese tech titan: Foxconn posts quarterly profit surge on AI server demand - RTL Today",
       "title_zh": "台灣觀察：Foxconn的AI 伺服器 / 資料中心供應鏈相關動態",
       "source": "Taiwan AI Server Supply Chain - Google News",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVVljN2MwU2ZPNUVCQXduNjhGRTZ1T21xV1p3Qng2NUVYXy1sVnZZZ2lRajZ4dGpmS1UxYkZOZDJiaFFsVzh2b1RQMzdFdTFkZUgyYzdoYmdYNjVaRDVWOW5TdFFjOTNjeTZnWjRFbFF6OHJrV29Nc0Q2QmljSUVBalplY1ZSS0tqaS01ZmR2U3FCa2w5MXVHNGxSNWd1UWVfUVdyYmJlQ1BMRlN2SkdJ?oc=5",
@@ -630,7 +669,7 @@
         "Foxconn"
       ],
       "importance": 5,
-      "summary_zh": "Taiwanese tech titan: Foxconn posts quarterly profit surge on AI server demand today.rtl.lu",
+      "summary_zh": "Taiwanese tech titan: Foxconn posts quarterly profit surge on AI server demand RTL Today",
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     },
     {
@@ -899,7 +938,7 @@
     },
     {
       "id": "fb7b37e793a96863ee31",
-      "title": "ASML Holding (ENXTAM:ASML) Gains On TSMC Demand Signal, Is The Stock Now Too Expensive? - Yahoo Finance",
+      "title": "ASML Holding (ENXTAM:ASML) Gains On TSMC Demand Signal, Is The Stock Now Too Expensive? - finance.yahoo.com",
       "title_zh": "台灣觀察：TSMC、ASML的晶圓代工 / 製程相關動態",
       "source": "TSMC / CoWoS / Advanced Packaging - Google News",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSVphMXN5VHl4cDNBNmdTZHJQOVY5eEpSWmRCdWlPeS1zZVdHR2RzS0lZQjdPSDN3RDUwYmtDb1JsT0lfZ0FFVTlvZ0ZRekstU0NaWWdNMlNWa1RQeVdDbS1ZVnRWTXVJNV9WUGhrSm04N3FOLVRKUDdsZnBTNFlSa3BEYllPa3cxY0JFemJoNGFNRVU0SWZKc3otRQ?oc=5",
@@ -914,7 +953,7 @@
         "ASML"
       ],
       "importance": 4,
-      "summary_zh": "ASML Holding (ENXTAM:ASML) Gains On TSMC Demand Signal, Is The Stock Now Too Expensive? Yahoo Finance",
+      "summary_zh": "ASML Holding (ENXTAM:ASML) Gains On TSMC Demand Signal, Is The Stock Now Too Expensive? finance.yahoo.com",
       "investment_takeaway": "投資觀察重點在台灣供應鏈是否取得 AI 伺服器、封裝、測試或零組件增量訂單。"
     },
     {
@@ -1115,8 +1154,26 @@
       "investment_takeaway": "投資觀察重點在台灣供應鏈是否取得 AI 伺服器、封裝、測試或零組件增量訂單。"
     },
     {
+      "id": "2ba961858effc8dbff0e",
+      "title": "Intel INTC Drops 4% Before the Bell, Wiping ~$20 Billion in Market Cap - 24/7 Wall St.",
+      "title_zh": "國際觀察：Intel的晶片設計相關動態",
+      "source": "Intel Foundry / AI Chips - Google News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOU2dlaGljWU9YbEtSTEktOXBLZW5OMWVhbHp0QllPaWRKUkZYT1FjdVJUa0t4OUFZUVhMQ2VFQUpUUzJmNFl5TmtndFpvRnB3N1dqUVFZaUZIMWROYi1MdE5OOEhBaDhUWmZ6ZEZjWUdObVhtbGNuM2FNbWhXZ09YNHNVWQ?oc=5",
+      "published": "Tue, 11 Aug 2026 21:33:42 GMT",
+      "region": "international",
+      "segments": [
+        "晶片設計"
+      ],
+      "companies": [
+        "Intel"
+      ],
+      "importance": 2,
+      "summary_zh": "Intel INTC Drops 4% Before the Bell, Wiping ~$20 Billion in Market Cap 24/7 Wall St.",
+      "investment_takeaway": "投資觀察重點在此消息是否影響需求能見度、產能瓶頸、價格或供應鏈議價能力。"
+    },
+    {
       "id": "7c7cf14369762b94be92",
-      "title": "Microsoft New AI Chip Could Be a Big Win for Marvell and TSMC - Yahoo Finance",
+      "title": "Microsoft New AI Chip Could Be a Big Win for Marvell and TSMC - finance.yahoo.com",
       "title_zh": "台灣觀察：Microsoft、Marvell的CSP / 雲端需求相關動態",
       "source": "TSMC / CoWoS / Advanced Packaging - Google News",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOc3lJQ2hRVnVjYkFKZGRFcmZIenNsM1FwVWI5ZGM2ZVNXSThHWlIzNHFaTjdsaTVpSXN3MWZlMTdnLWJ5U3d0dl9GYk91cVp2UzlISi1vc3FpWVRaZ1ZJTlR6bk1GMy03ekZCWWg4d0VHYXlIWW16OVRLME1neFphXzRhcjRnYlZIam11QWZlclRnS1F0YXc?oc=5",
@@ -1133,7 +1190,7 @@
         "TSMC"
       ],
       "importance": 5,
-      "summary_zh": "Microsoft New AI Chip Could Be a Big Win for Marvell and TSMC Yahoo Finance",
+      "summary_zh": "Microsoft New AI Chip Could Be a Big Win for Marvell and TSMC finance.yahoo.com",
       "investment_takeaway": "投資觀察重點在 CSP CapEx、AI 叢集擴建，以及 GPU/ASIC 需求是否轉成供應鏈訂單。"
     },
     {
@@ -1353,7 +1410,7 @@
     },
     {
       "id": "36aac7f4aaee722362fa",
-      "title": "TSMC Stock Holds Flat Despite 44.7% July Sales Surge - Yahoo Finance",
+      "title": "TSMC Stock Holds Flat Despite 44.7% July Sales Surge - finance.yahoo.com",
       "title_zh": "台灣觀察：TSMC的晶圓代工 / 製程相關動態",
       "source": "TSMC / CoWoS / Advanced Packaging - Google News",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcFBuQnNacDNyUjBwNjlqVUFYbWl3SUVlLXBXLWw1RVhUdmVRMTFBSC1mQ3c4d1pISTRtNTVRUlBEWl9yalVTdGk2ekRHVDNGcXdoZEs0Y2RtV0FSQU1uN0xBWlpLYmozM0t4WEJSY3BTN1RqSkNYSmk5U01kd0tPZEYwNm1JOVVVaUd6REpyVVh0WnRHUmhFdTBB?oc=5",
@@ -1366,7 +1423,7 @@
         "TSMC"
       ],
       "importance": 3,
-      "summary_zh": "TSMC Stock Holds Flat Despite 44.7% July Sales Surge Yahoo Finance",
+      "summary_zh": "TSMC Stock Holds Flat Despite 44.7% July Sales Surge finance.yahoo.com",
       "investment_takeaway": "投資觀察重點在台灣供應鏈是否取得 AI 伺服器、封裝、測試或零組件增量訂單。"
     },
     {
@@ -1541,24 +1598,6 @@
       "importance": 3,
       "summary_zh": "Taiwan's Foxconn reports 35% rise in Q2 profit, beats forecasts The Star",
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
-      "id": "2ba961858effc8dbff0e",
-      "title": "Intel INTC Drops 4% Before the Bell, Wiping ~$20 Billion in Market Cap - 24/7 Wall St.",
-      "title_zh": "國際觀察：Intel的晶片設計相關動態",
-      "source": "Intel Foundry / AI Chips - Google News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOU2dlaGljWU9YbEtSTEktOXBLZW5OMWVhbHp0QllPaWRKUkZYT1FjdVJUa0t4OUFZUVhMQ2VFQUpUUzJmNFl5TmtndFpvRnB3N1dqUVFZaUZIMWROYi1MdE5OOEhBaDhUWmZ6ZEZjWUdObVhtbGNuM2FNbWhXZ09YNHNVWQ?oc=5",
-      "published": "Tue, 11 Aug 2026 21:33:42 GMT",
-      "region": "international",
-      "segments": [
-        "晶片設計"
-      ],
-      "companies": [
-        "Intel"
-      ],
-      "importance": 2,
-      "summary_zh": "Intel INTC Drops 4% Before the Bell, Wiping ~$20 Billion in Market Cap 24/7 Wall St.",
-      "investment_takeaway": "投資觀察重點在此消息是否影響需求能見度、產能瓶頸、價格或供應鏈議價能力。"
     },
     {
       "id": "57aac3c2ebecfa89bfbe",
@@ -2103,7 +2142,7 @@
     },
     {
       "id": "3a0a82945783ca2d0837",
-      "title": "Intel Stock Nearly Tripled on AI Hopes, Now Intel Is Raising $15 Billion - memeburn.com",
+      "title": "Intel Stock Nearly Tripled on AI Hopes, Now Intel Is Raising $15 Billion - Memeburn",
       "title_zh": "國際觀察：Intel的晶片設計相關動態",
       "source": "Intel Foundry / AI Chips - Google News",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdFFlemFHdFRuSUhxRW5TNXduNWw5MXpPN1hKYmM2T3pGdTN4YzREeEllMmJSY1hEdm1pSWdsWXJGbzd5dmNOZzNjOFlISlFWTXFHdGJZNHJwa2EzSVZ1cGF6dFdNcUl2bVcxOC1uU1VXU05zYVNTd05uSzl1dXN1eU5kTGxtQ2pZRGRuQmVVbWM2ZkpvejdR?oc=5",
@@ -2116,7 +2155,7 @@
         "Intel"
       ],
       "importance": 2,
-      "summary_zh": "Intel Stock Nearly Tripled on AI Hopes, Now Intel Is Raising $15 Billion memeburn.com",
+      "summary_zh": "Intel Stock Nearly Tripled on AI Hopes, Now Intel Is Raising $15 Billion Memeburn",
       "investment_takeaway": "投資觀察重點在此消息是否影響需求能見度、產能瓶頸、價格或供應鏈議價能力。"
     },
     {
@@ -2501,44 +2540,6 @@
       "importance": 4,
       "summary_zh": "Tsang Yow said its semiconductor equipment components business had become a major growth driver in July, as the Taiwan transmission-system maker reported stronger profitability in the second quarter and the first seven months of 2026. The improvement came alon",
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
-      "id": "bd1d1bd1fdce09b4fbac",
-      "title": "Hyundai Motor Group's robot push could reshape South Korea's industrial competition",
-      "title_zh": "台灣觀察：ASE的先進封裝 / 測試相關動態",
-      "source": "DIGITIMES Asia",
-      "url": "https://www.digitimes.com/news/a20260811PD215/hyundai-robot-competition-production-manufacturing.html",
-      "published": "Tue, 11 Aug 2026 23:59:06 GMT",
-      "region": "taiwan",
-      "segments": [
-        "先進封裝 / 測試",
-        "政策 / 地緣政治"
-      ],
-      "companies": [
-        "ASE"
-      ],
-      "importance": 4,
-      "summary_zh": "Hyundai Motor Group is accelerating its \"Physical AI+\" robot strategy, with Saemangeum in North Jeolla Province set to become its main manufacturing base. The plan also includes robot training and learning centers in South Korea, the US, and China, as the grou",
-      "investment_takeaway": "投資觀察重點在 CoWoS/先進封裝產能、載板與測試稼動率，這通常是 AI 加速器供給瓶頸。"
-    },
-    {
-      "id": "e68682ae0b7170f724a7",
-      "title": "Laster Tech narrows second quarter loss as LED headlamp orders improve",
-      "title_zh": "台灣觀察：ASE的先進封裝 / 測試相關動態",
-      "source": "DIGITIMES Asia",
-      "url": "https://www.digitimes.com/news/a20260810PD208/laster-loss-revenue-2026-production.html",
-      "published": "Wed, 12 Aug 2026 00:05:54 GMT",
-      "region": "taiwan",
-      "segments": [
-        "先進封裝 / 測試",
-        "政策 / 地緣政治"
-      ],
-      "companies": [
-        "ASE"
-      ],
-      "importance": 3,
-      "summary_zh": "Laster Tech, a maker of LED headlamp modules, narrowed its loss in the second quarter of 2026 as order visibility improved and new vehicle programs moved into mass production. The Taiwan-based supplier said first-half revenue reached NT$3.614 billion, with a n",
-      "investment_takeaway": "投資觀察重點在 CoWoS/先進封裝產能、載板與測試稼動率，這通常是 AI 加速器供給瓶頸。"
     }
   ]
 }
