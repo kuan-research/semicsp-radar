@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T22:49:12+00:00",
+  "generated_at": "2026-08-14T23:20:26+00:00",
   "date": "2026-08-14",
   "market": {
     "indices": [
@@ -271,6 +271,364 @@
   },
   "items": [
     {
+      "id": "24e940fa6d0b26038e6b",
+      "title": "NVIDIA Secures TSMC A16 Node for Next-Generation \"Feynman\" GPUs - TechPowerUp",
+      "title_zh": "台灣觀察：NVIDIA、TSMC的晶片設計相關動態",
+      "source": "TSMC / CoWoS / Advanced Packaging - Google News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbWVUWVhwUENVRHYyQkdkY05mRXc4REdPNi1tSWVWYWo4WGcxcWotMnVCcmhBS0lZZzlNQmo0b0x2YUt6dTNhVUNDMnFGb1JXbG1QNkUtZVJ4UUVTRkxDUWRyNnllZXpKaGZPaVJIR29DU0x1bjVoamFFbWxfZlA3NUZiR1pVdXd5VlZRaVRJaDN1ZmNkbEcxRUFiVVDSAaIBQVVfeXFMT1IwdThUc0tMUXFneXg1LW9QOHBMdFJqbW90bGRpazE5VnZGU2lva2ZWcDNKXzN5WUxSS2xGSUlnUDAzWlIxNUdkb1I1NWRHTVNCdDllcTg1bWx1RjJEVVVGVWt4M3k5NC0zODF2QzZNcTBRS1ZrZlF6eEU4Y2pGLS1tZm9ORElmTzN4N01QYWNCMTlKbWp0Y1BxLWs1RU9fcDNB?oc=5",
+      "published": "Fri, 14 Aug 2026 09:56:44 GMT",
+      "region": "taiwan",
+      "segments": [
+        "晶片設計",
+        "晶圓代工 / 製程",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "NVIDIA",
+        "TSMC"
+      ],
+      "importance": 5,
+      "summary_zh": "NVIDIA Secures TSMC A16 Node for Next-Generation \"Feynman\" GPUs TechPowerUp",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+    },
+    {
+      "id": "5047693d6bc925ef8387",
+      "title": "Gelsinger calls HBM 'lousy', SK Hynix says it's not memory's final answer",
+      "title_zh": "台灣觀察：Intel、SK hynix的晶片設計相關動態",
+      "source": "DIGITIMES Asia",
+      "url": "https://www.digitimes.com/news/a20260814PD227/hbm-sk-hynix-pat-gelsinger-component-semiconductors.html",
+      "published": "Fri, 14 Aug 2026 22:53:33 GMT",
+      "region": "taiwan",
+      "segments": [
+        "晶片設計",
+        "記憶體 / HBM",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "Intel",
+        "SK hynix"
+      ],
+      "importance": 5,
+      "summary_zh": "High-bandwidth memory (HBM), a core component in AI semiconductors, has drawn fresh scrutiny after former Intel CEO Pat Gelsinger called it \"lousy\" at a recent AI summit in Paris. SK Hynix, the market leader in this type of memory, also said it is not the fina",
+      "investment_takeaway": "投資觀察重點在 HBM 價格、良率、客戶認證與供應合約年限。"
+    },
+    {
+      "id": "a5ba44f0bd318c6ec61c",
+      "title": "Asia Vital Components sees stronger AI server demand and faster liquid cooling adoption",
+      "title_zh": "台灣觀察：NVIDIA的CSP / 雲端需求相關動態",
+      "source": "DIGITIMES Asia",
+      "url": "https://www.digitimes.com/news/a20260813PD220/avc-ai-server-liquid-cooling-demand-adoption.html",
+      "published": "Fri, 14 Aug 2026 22:53:01 GMT",
+      "region": "taiwan",
+      "segments": [
+        "CSP / 雲端需求",
+        "晶片設計",
+        "AI 伺服器 / 資料中心供應鏈"
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "importance": 5,
+      "summary_zh": "Asia Vital Components expects global AI server demand to strengthen in the second half, with liquid cooling adoption becoming more common — a shift carrying implications for data center operators and suppliers worldwide. The company sees higher shipments of AS",
+      "investment_takeaway": "投資觀察重點在 CSP CapEx、AI 叢集擴建，以及 GPU/ASIC 需求是否轉成供應鏈訂單。"
+    },
+    {
+      "id": "5b51ceb40a05cc4222c4",
+      "title": "Tripod posts record second-quarter margins on strong server and memory demand",
+      "title_zh": "台灣觀察：ASE的記憶體 / HBM相關動態",
+      "source": "DIGITIMES Asia",
+      "url": "https://www.digitimes.com/news/a20260813PD251/revenue-profit-tripod-demand-2026.html?chid=10",
+      "published": "Fri, 14 Aug 2026 22:45:32 GMT",
+      "region": "taiwan",
+      "segments": [
+        "記憶體 / HBM",
+        "先進封裝 / 測試",
+        "AI 伺服器 / 資料中心供應鏈",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "ASE"
+      ],
+      "importance": 5,
+      "summary_zh": "Tripod Technology said revenue and profit both hit record highs in the second quarter of 2026, driven by strong shipments of server and memory products and the continued effect of price increases implemented to pass on higher raw material costs. The PCB maker ",
+      "investment_takeaway": "投資觀察重點在 CoWoS/先進封裝產能、載板與測試稼動率，這通常是 AI 加速器供給瓶頸。"
+    },
+    {
+      "id": "0c0c59f4499c5c705882",
+      "title": "How TSMC’s Phoenix Expansion Is Creating a New Industrial Growth Engine - CommercialSearch",
+      "title_zh": "台灣觀察：TSMC的晶圓代工 / 製程相關動態",
+      "source": "TSMC / CoWoS / Advanced Packaging - Google News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSHFJdHhTME1TSnJsT2ZRLUhnNmcxQ3owZmJ3RVBQdE5IR21DOVBtQ1BWRVBud1lPbnpCVWR4bW1QM1N6emNkOUF3NnRRb01YY0o2OUJIb2txSDRDbC1aWGFZYnEtS1hvandrV21fNjI2aUcwd1hpQ3E1Q0VXWF9xakNrR0szMFVTdHhIb2VJc2tiWlBsb1dYTTVpVkY4Y3hmUC1ESTZ4a3RoNW9tYUE?oc=5",
+      "published": "Tue, 11 Aug 2026 09:58:12 GMT",
+      "region": "taiwan",
+      "segments": [
+        "晶圓代工 / 製程",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "TSMC"
+      ],
+      "importance": 4,
+      "summary_zh": "How TSMC’s Phoenix Expansion Is Creating a New Industrial Growth Engine CommercialSearch",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+    },
+    {
+      "id": "7e5af0b3b7dcb5e0917d",
+      "title": "TSMC Can Sidestep $1 Billion Apple Chip Glut by Rerouting Production Lines to AI, Taiwan Analyst Argues - Wccftech",
+      "title_zh": "台灣觀察：TSMC的晶圓代工 / 製程相關動態",
+      "source": "TSMC / CoWoS / Advanced Packaging - Google News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMmt6NGhvbkhvTG50aEx6UTdDUGYya1pmZ1hyVDZIX051Q0JKdFlIa0F1UGN5SDFWQlIwZTVUVkFSeDlnNWVNekZnUkpiVTlzMTFpQ0w2TjNLU0xqWE9OVWxJY3EzbnpVSVdJdmNDM2Ewdk1leTU4RktoM0xvTzh6dzE3MjlJVlZoT2pyUnhpdG5zWlU4SkpFRFEydl9Wcm83aDl5UVhHclZEeW8xV05WWWlQZ9IBuAFBVV95cUxOQVRkb0xhOHFkZU9jZVRWRjJQUzZrTld2R1RhQkxZeE5rbG5NM3dLVEtXMDEwRC0ydWo3dWVoSXNrWWhOMVJ4TUVadzVDLUxmeXdtUXk1OHplemxRQXRUS2RnTm5EUmZYTy1Yclp3bkd6OTI4VUdtRm9WM3Y1U2Q4dUtOMnJmVmcyNmQzWWlKMl9VeTlTYnUwdDJINFZ3WlFWZGkwUVlRcVNTTUpzbG50ZXBTYVlBSlVa?oc=5",
+      "published": "Mon, 10 Aug 2026 16:57:31 GMT",
+      "region": "taiwan",
+      "segments": [
+        "晶圓代工 / 製程",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "TSMC"
+      ],
+      "importance": 4,
+      "summary_zh": "TSMC Can Sidestep $1 Billion Apple Chip Glut by Rerouting Production Lines to AI, Taiwan Analyst Argues Wccftech",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+    },
+    {
+      "id": "478ec5319a1abd55c72c",
+      "title": "TSMC outlook: how NVIDIA’s $500B AI financing deal reshapes semiconductor demand - Investing.com",
+      "title_zh": "台灣觀察：NVIDIA、TSMC的晶片設計相關動態",
+      "source": "TSMC / CoWoS / Advanced Packaging - Google News",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ2RCNVRqd0c0WUpXMC0ydjVoMjJDcG9EMDFOSDhwY0gyMVBkV212MTJtay1fdDU1TmZJcUpTdGs4Q0RwR3MyeW4wbkY3aW9rNC1VT19jdUNfT2dHR0V1VFVzOC1vWk5FT2Zjd2xnczVjdjVsbllBYmt2OWxhVWlSaEVHaG11bzVmUkZTVVo2d29NcWdWR3E5M2J1YlFjYW91bHNFWGI0U1BuaXBKUUpfemVEMVE3eFY5VHBSeTc4QU90TW9zZlJzc0hqTVZOWE5UazNlTnFB?oc=5",
+      "published": "Tue, 11 Aug 2026 15:54:57 GMT",
+      "region": "taiwan",
+      "segments": [
+        "晶片設計",
+        "晶圓代工 / 製程"
+      ],
+      "companies": [
+        "NVIDIA",
+        "TSMC"
+      ],
+      "importance": 4,
+      "summary_zh": "TSMC outlook: how NVIDIA’s $500B AI financing deal reshapes semiconductor demand Investing.com",
+      "investment_takeaway": "投資觀察重點在台灣供應鏈是否取得 AI 伺服器、封裝、測試或零組件增量訂單。"
+    },
+    {
+      "id": "fba6b09f4e72c9f3ffcf",
+      "title": "News | Developers target TSMC's suppliers for planned Phoenix industrial park - CoStar",
+      "title_zh": "台灣觀察：TSMC的晶圓代工 / 製程相關動態",
+      "source": "TSMC / CoWoS / Advanced Packaging - Google News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSDJuOUxxdk85VEJrdVcwWE1oMEdhTlJqd2dvdnZoZFVqSE5ycXU3YlNMeUoxVFdEbDRjcXNlOGxmVzVuODNnODhKQjBuSWY4V2tQQWR4cmoyeTZfTVBLMjJFckxNS2J0YS1JYkhGY1dtVWgzM3gtUDQxbF9TbXRNWllnMUd6Sm5EVVBhaktLbTdJMm5aRXlWTl9zZExHM2d1alhOZjlUeG9LWm5vUi11WUEyTl9SZw?oc=5",
+      "published": "Wed, 12 Aug 2026 15:18:16 GMT",
+      "region": "taiwan",
+      "segments": [
+        "晶圓代工 / 製程",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "TSMC"
+      ],
+      "importance": 4,
+      "summary_zh": "News | Developers target TSMC's suppliers for planned Phoenix industrial park CoStar",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+    },
+    {
+      "id": "92dfc422f380f265fc0e",
+      "title": "Sony Semiconductor, TSMC to invest ¥747 billion in next-gen sensors - Japan Today",
+      "title_zh": "台灣觀察：TSMC的晶圓代工 / 製程相關動態",
+      "source": "TSMC / CoWoS / Advanced Packaging - Google News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNendFQkFNYXc2blY0eDRZd1F6d2JVdFJ0eDFWUUs1dTc3dWxlYVBJWUdaejR5T1hQN1M3QlV5R2R1VEhpeG1MU0hCanRONXBGYzAzVV91aW5PNXRvSlBqSmI0NS03UlphVHpSZ29ZbDRKalRiS1hoTmpEOTRCNU9Nd1p3S3NjOGNtZUdZemlQVHJiR2VPTzg5RzZHU3pyQzVJSnlDS3p2WkFLUTZKb0tyN1c1ZlM?oc=5",
+      "published": "Tue, 11 Aug 2026 20:00:00 GMT",
+      "region": "taiwan",
+      "segments": [
+        "晶圓代工 / 製程",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "TSMC"
+      ],
+      "importance": 4,
+      "summary_zh": "Sony Semiconductor, TSMC to invest ¥747 billion in next-gen sensors Japan Today",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+    },
+    {
+      "id": "c36207cce8826ed38cc9",
+      "title": "Research Insight: Unitree IPO reveals humanoid robot commercialization still in early innings",
+      "title_zh": "台灣觀察：Intel、ASE的晶片設計相關動態",
+      "source": "DIGITIMES Asia",
+      "url": "https://www.digitimes.com/news/a20260814PD218/robot-ipo-industrial-2025-manufacturing.html",
+      "published": "Fri, 14 Aug 2026 22:50:18 GMT",
+      "region": "taiwan",
+      "segments": [
+        "晶片設計",
+        "先進封裝 / 測試",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "Intel",
+        "ASE"
+      ],
+      "importance": 4,
+      "summary_zh": "Chinese humanoid robot maker Unitree Robotics has drawn significant market attention with its IPO. Based on DIGITIMES' review of the company's three-hour IPO roadshow and Q&A session on August 7, chairman Xingxing Wang and the management team provided further ",
+      "investment_takeaway": "投資觀察重點在 CoWoS/先進封裝產能、載板與測試稼動率，這通常是 AI 加速器供給瓶頸。"
+    },
+    {
+      "id": "4277e84b93407c546cfa",
+      "title": "J&V Energy lifts 1H revenue on storage and green power trading",
+      "title_zh": "台灣觀察：ASE的先進封裝 / 測試相關動態",
+      "source": "DIGITIMES Asia",
+      "url": "https://www.digitimes.com/news/a20260813PD244/revenue-2026-sales-market-profit.html",
+      "published": "Fri, 14 Aug 2026 22:49:45 GMT",
+      "region": "taiwan",
+      "segments": [
+        "先進封裝 / 測試",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "ASE"
+      ],
+      "importance": 4,
+      "summary_zh": "J&V Energy Technology said its first-half 2026 results were lifted by growing energy storage projects and green power trading, with consolidated revenue reaching NT$3.498 billion (US$108.74 million). The Taiwan-based renewable energy group said gross profit ro",
+      "investment_takeaway": "投資觀察重點在 CoWoS/先進封裝產能、載板與測試稼動率，這通常是 AI 加速器供給瓶頸。"
+    },
+    {
+      "id": "4c88d3ba091076eecef8",
+      "title": "Lotes sees tight supply, says demand remains intact",
+      "title_zh": "台灣觀察：AI 伺服器 / 資料中心供應鏈、政策 / 地緣政治的AI 伺服器 / 資料中心供應鏈相關動態",
+      "source": "DIGITIMES Asia",
+      "url": "https://www.digitimes.com/news/a20260813PD248/demand-production-business-2026-2027.html",
+      "published": "Fri, 14 Aug 2026 22:48:58 GMT",
+      "region": "taiwan",
+      "segments": [
+        "AI 伺服器 / 資料中心供應鏈",
+        "政策 / 地緣政治"
+      ],
+      "companies": [],
+      "importance": 4,
+      "summary_zh": "Connector maker Lotes is deepening its server business, with its server quick disconnect (QD) line set to enter mass production in July, and expansion is expected to accelerate at the same time. A new-generation server platform is expected to begin small-volum",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+    },
+    {
+      "id": "a682d7532005caf42689",
+      "title": "MicroIP sees second-half revenue lift as board approves cash raise",
+      "title_zh": "台灣觀察：ASE的晶片設計相關動態",
+      "source": "DIGITIMES Asia",
+      "url": "https://www.digitimes.com/news/a20260813PD252/design-revenue-asic-2026-software.html",
+      "published": "Fri, 14 Aug 2026 22:45:18 GMT",
+      "region": "taiwan",
+      "segments": [
+        "晶片設計",
+        "先進封裝 / 測試",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "ASE"
+      ],
+      "importance": 4,
+      "summary_zh": "MICROIP, which focuses on AI software design services and ASIC design services, said its first-half 2026 financial report showed continued investment in core technologies and key IP. The company also disclosed that its board approved a cash capital increase to",
+      "investment_takeaway": "投資觀察重點在 CoWoS/先進封裝產能、載板與測試稼動率，這通常是 AI 加速器供給瓶頸。"
+    },
+    {
+      "id": "2f6cdcb622f991f436d5",
+      "title": "Taiwan offshore wind lifts marine engineering and ocean industry output",
+      "title_zh": "台灣觀察：晶片設計、政策 / 地緣政治的晶片設計相關動態",
+      "source": "DIGITIMES Asia",
+      "url": "https://www.digitimes.com/news/a20260813PD254/taiwan-offshore-wind-2024-2018.html",
+      "published": "Fri, 14 Aug 2026 22:43:52 GMT",
+      "region": "taiwan",
+      "segments": [
+        "晶片設計",
+        "政策 / 地緣政治"
+      ],
+      "companies": [],
+      "importance": 4,
+      "summary_zh": "Taiwan's ocean-related industries generated NT$1.5108 trillion in 2024, according to reports presented to the Cabinet on the 13th by the National Science and Technology Council and the Ocean Affairs Council. The latest figures showed how offshore wind and mari",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+    },
+    {
+      "id": "8aad70b88a515c5277cc",
+      "title": "TSMC (TSM) Stock Looks Fully Priced Despite Strong AI Demand - simplywall.st",
+      "title_zh": "台灣觀察：TSMC的晶圓代工 / 製程相關動態",
+      "source": "TSMC / CoWoS / Advanced Packaging - Google News",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMHZESm8xNlhUay1oRW1jek9yTUE0M0luUUlvNDFoMHdJaVlhM2FFaFp3M1VSOXk1WTFQMVJqZVN4bWtZMUdFWHdITlhpR2tyeXprdUpQZHh5cVViVXVMVGw3RTlnU2I0d1ZYaDkyeWk0TlBPTHFwTy01dXRJTW5WZDR0Y2RDTk5LaDNIc0ZpWm9YaVpjMklGSlVLc0lkUndwNW15blNwUm9feF84RmU3elFzS3J2THdvYmRtS0lwMTFCOTFYNEp2NnFpWGd5STZYa3d0QjUyN0o3SFRwMW9xSlR3UUtxRElXbHfSAe8BQVVfeXFMT0RUajA0MWs5ZE9VZk9LcEU3ZDJRdTUzejkxdV9rREhyMVc1b2VGSGhWQlF2TURqc3cxX1hWUHBpajY5UlZMS0NjdzdSRUhQcUVCbnU2aHY0MjVWQWJfbWwxenJrMHlqNkVpTlZuTTVZNHNxWFJOTktKellLeXJmY2FyekNtMUZmSjhfcXl5Y1llRmF5NTBIZjNMb1JGWDlVaEhEdk9WSlF2bV9QZjJWR3p4N2N1eTFBUVdlU2ZqdXlvSnBrODYtYXU2dGZ6VGRCZDI4Rjd2X0NxSEhmWWotYVhoUkVfRHo5dHRhXzFPeEU?oc=5",
+      "published": "Fri, 14 Aug 2026 09:45:26 GMT",
+      "region": "taiwan",
+      "segments": [
+        "晶圓代工 / 製程"
+      ],
+      "companies": [
+        "TSMC"
+      ],
+      "importance": 3,
+      "summary_zh": "TSMC (TSM) Stock Looks Fully Priced Despite Strong AI Demand simplywall.st",
+      "investment_takeaway": "投資觀察重點在台灣供應鏈是否取得 AI 伺服器、封裝、測試或零組件增量訂單。"
+    },
+    {
+      "id": "ba4b09a4168511d97160",
+      "title": "Camtek: Advanced Packaging Revenue Expected To Grow 70% From Q1 To Q4 As Orders Top $600 Million - Pulse 2.0",
+      "title_zh": "台灣觀察：先進封裝 / 測試的先進封裝 / 測試相關動態",
+      "source": "TSMC / CoWoS / Advanced Packaging - Google News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUU93NkdjUW54S0VSWm44RHNXbDhPSUpTQkFGaUpFOWliUWdfVUNDanZDdl9jb1pUa2RxeVFOMUFWd2x2MGZGUk5hUDB4Rk9TYmd2YlZ6MEZTdnFFajh0LWFLOTdIOTlJTFVYdHVTdVdGeVp1cGZkcW5VSF84Y09OMC1KbnZXb0JLd2FKUmdtMEVaS2xCMlpnNW5kRkNrWDNSV1NfSThqb0tPNjRHQmJ6bm04MNIBuAFBVV95cUxOZ19wMmE3b19ITVJUY1VfbHU4WnBLR1V1dUlqS1JBcWZWOFVzcjMwZGtFLVhoNTdqQm1JdEkyQ1FFQTNOcUpBeFdhQmRxdEk3VUtOcy0yUlg3cTd5bmJCSUo5YkpDMXhxSFQ3VllWOEFlN1pPRURONDFNMzJEa1IwZm9yVTUwX0RseVRrR0p4cUUteHRKY3RBT1p0QlRtb2dQdGZoSTl1RjNwT2sxamlrVnM2c2lYMGZo?oc=5",
+      "published": "Tue, 11 Aug 2026 13:26:06 GMT",
+      "region": "taiwan",
+      "segments": [
+        "先進封裝 / 測試"
+      ],
+      "companies": [],
+      "importance": 3,
+      "summary_zh": "Camtek: Advanced Packaging Revenue Expected To Grow 70% From Q1 To Q4 As Orders Top $600 Million Pulse 2.0",
+      "investment_takeaway": "投資觀察重點在 CoWoS/先進封裝產能、載板與測試稼動率，這通常是 AI 加速器供給瓶頸。"
+    },
+    {
+      "id": "522469a2a98a339a0ab1",
+      "title": "Taiwan Gold Card approvals for finance professionals top 1,000",
+      "title_zh": "台灣觀察：政策 / 地緣政治的政策 / 地緣政治相關動態",
+      "source": "DIGITIMES Asia",
+      "url": "https://www.digitimes.com/news/a20260814PD231/taiwan-finance-talent-national-development-council-management.html",
+      "published": "Fri, 14 Aug 2026 22:52:41 GMT",
+      "region": "taiwan",
+      "segments": [
+        "政策 / 地緣政治"
+      ],
+      "companies": [],
+      "importance": 3,
+      "summary_zh": "Taiwan has approved more than 1,000 Employment Gold Cards for finance professionals as the government broadens its push to attract overseas talent and develop Taiwan into an Asian asset-management center.",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+    },
+    {
+      "id": "9dcdc8ccbca36ceee8a6",
+      "title": "Century Group pivots beyond offshore wind with four-pronged energy strategy",
+      "title_zh": "台灣觀察：ASE的先進封裝 / 測試相關動態",
+      "source": "DIGITIMES Asia",
+      "url": "https://www.digitimes.com/news/a20260813PD249/offshore-wind-2026-cis-revenue-taiwan.html",
+      "published": "Fri, 14 Aug 2026 22:48:29 GMT",
+      "region": "taiwan",
+      "segments": [
+        "先進封裝 / 測試",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "ASE"
+      ],
+      "importance": 3,
+      "summary_zh": "Century Iron and Steel Industrial (CIS) and Century Wind Power (CWP) held a joint investor conference on August 13. Driven by a significant increase in the revenue contribution from offshore wind foundation engineering, procurement and construction (EPC) proje",
+      "investment_takeaway": "投資觀察重點在 CoWoS/先進封裝產能、載板與測試稼動率，這通常是 AI 加速器供給瓶頸。"
+    },
+    {
+      "id": "f4319e939c2cc9446403",
+      "title": "Taiwan approves NT$8 billion ocean tech program for security and industry",
+      "title_zh": "台灣觀察：政策 / 地緣政治的政策 / 地緣政治相關動態",
+      "source": "DIGITIMES Asia",
+      "url": "https://www.digitimes.com/news/a20260813PD255/taiwan-security-government-technology-maritime.html",
+      "published": "Fri, 14 Aug 2026 22:41:19 GMT",
+      "region": "taiwan",
+      "segments": [
+        "政策 / 地緣政治"
+      ],
+      "companies": [],
+      "importance": 3,
+      "summary_zh": "Taiwan's government approved a four-year ocean technology and industry development program for 2027-2030 and will seek more than NT$8 billion in funding. The plan was designed to strengthen maritime security, expand scientific research, and improve industrial ",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+    },
+    {
       "id": "c5486c1532591ffb9186",
       "title": "Mexico moves past Taiwan as the top AI server exporter to the United States - Mexico News Daily",
       "title_zh": "台灣觀察：AI 伺服器 / 資料中心供應鏈、政策 / 地緣政治的AI 伺服器 / 資料中心供應鏈相關動態",
@@ -345,7 +703,7 @@
     },
     {
       "id": "4d7c5872817bd6bccbc8",
-      "title": "Halo Vista Developers In Phoenix Reveal Plans To Attract TSMC Suppliers - bisnow.com",
+      "title": "Halo Vista Developers In Phoenix Reveal Plans To Attract TSMC Suppliers - Bisnow",
       "title_zh": "台灣觀察：TSMC的晶圓代工 / 製程相關動態",
       "source": "TSMC / CoWoS / Advanced Packaging - Google News",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZFdkQ3dTc0VjOE5vLUlwNDNsSE9QZVNfZmNMd0FMMDZuNzFMOTlyN0JMdHdmMkNJdmY4bGpUUk8zUE00dXRnRUhEQ2xndk9sQmd6ZllGS3BScDNrclVoVlJudVIzOVRfdkFvb3I3YTZ4RnZCU3JuNE52UFJlc0JsdktzMEx0ZnhzODM0VnpFbnpDeHgwSFJtc1pzNlQxNFR6SFlra0h0N28zemJPU2hzSF8zN1otUWtpYjZaVk4yenlmTDZWVElRRg?oc=5",
@@ -358,7 +716,7 @@
         "TSMC"
       ],
       "importance": 3,
-      "summary_zh": "Halo Vista Developers In Phoenix Reveal Plans To Attract TSMC Suppliers bisnow.com",
+      "summary_zh": "Halo Vista Developers In Phoenix Reveal Plans To Attract TSMC Suppliers Bisnow",
       "investment_takeaway": "投資觀察重點在台灣供應鏈是否取得 AI 伺服器、封裝、測試或零組件增量訂單。"
     },
     {
@@ -431,6 +789,41 @@
       "companies": [],
       "importance": 4,
       "summary_zh": "Driven by sustained momentum in AI and semiconductor demand, Taiwan's machinery exports continued their upward trajectory in July, with electronic equipment leading the expansion. Machine tool exports, however, posted only modest growth, as exchange-rate headw",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+    },
+    {
+      "id": "10de6b12029314a224e6",
+      "title": "IBM and OpenAI partner to accelerate secure enterprise AI deployment",
+      "title_zh": "台灣觀察：OpenAI的CSP / 雲端需求相關動態",
+      "source": "DIGITIMES Asia",
+      "url": "https://www.digitimes.com/news/a20260814PR202/ibm-openai-partnership-cybersecurity-design.html",
+      "published": "Fri, 14 Aug 2026 03:35:44 GMT",
+      "region": "taiwan",
+      "segments": [
+        "CSP / 雲端需求",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "importance": 3,
+      "summary_zh": "IBM announced on August 13 a strategic partnership with OpenAI to help global enterprises integrate frontier AI models into core operations, application modernization, and cybersecurity frameworks. By combining OpenAI's advanced technologies, including GPT-5.6",
+      "investment_takeaway": "投資觀察重點在 CSP CapEx、AI 叢集擴建，以及 GPU/ASIC 需求是否轉成供應鏈訂單。"
+    },
+    {
+      "id": "4fefc49aeb4f4093b731",
+      "title": "Apple opens advanced manufacturing center in Houston to expand US smart skills",
+      "title_zh": "台灣觀察：政策 / 地緣政治的政策 / 地緣政治相關動態",
+      "source": "DIGITIMES Asia",
+      "url": "https://www.digitimes.com/news/a20260814PR200/apple-manufacturing-production-smart-manufacturing-texas.html",
+      "published": "Fri, 14 Aug 2026 03:31:40 GMT",
+      "region": "taiwan",
+      "segments": [
+        "政策 / 地緣政治"
+      ],
+      "companies": [],
+      "importance": 2,
+      "summary_zh": "Apple opened of its new 20,000-square-foot Advanced Manufacturing Center (AMC) today in Houston, Texas. Designed to bolster American smart manufacturing, the facility functions as an educational hub where local businesses, workers, and students can gain firsth",
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     },
     {
@@ -518,25 +911,6 @@
       "investment_takeaway": "投資觀察重點在 HBM 價格、良率、客戶認證與供應合約年限。"
     },
     {
-      "id": "10de6b12029314a224e6",
-      "title": "IBM and OpenAI partner to accelerate secure enterprise AI deployment",
-      "title_zh": "台灣觀察：OpenAI的CSP / 雲端需求相關動態",
-      "source": "DIGITIMES Asia",
-      "url": "https://www.digitimes.com/news/a20260814PR202/ibm-openai-partnership-cybersecurity-design.html",
-      "published": "Fri, 14 Aug 2026 03:35:44 GMT",
-      "region": "taiwan",
-      "segments": [
-        "CSP / 雲端需求",
-        "政策 / 地緣政治"
-      ],
-      "companies": [
-        "OpenAI"
-      ],
-      "importance": 3,
-      "summary_zh": "IBM announced on August 13 a strategic partnership with OpenAI to help global enterprises integrate frontier AI models into core operations, application modernization, and cybersecurity frameworks. By combining OpenAI's advanced technologies, including GPT-5.6",
-      "investment_takeaway": "投資觀察重點在 CSP CapEx、AI 叢集擴建，以及 GPU/ASIC 需求是否轉成供應鏈訂單。"
-    },
-    {
       "id": "b8d5f9c2267932a3c4d7",
       "title": "AI infrastructure enters multi-architecture fabric competition; Optical-copper interconnects and supply-chain coordination determine system performance",
       "title_zh": "台灣觀察：AI 伺服器 / 資料中心供應鏈的AI 伺服器 / 資料中心供應鏈相關動態",
@@ -551,22 +925,6 @@
       "importance": 2,
       "summary_zh": "AI infrastructure enters multi-architecture fabric competition; Optical-copper interconnects and supply-chain coordination determine system performance",
       "investment_takeaway": "投資觀察重點在台灣供應鏈是否取得 AI 伺服器、封裝、測試或零組件增量訂單。"
-    },
-    {
-      "id": "4fefc49aeb4f4093b731",
-      "title": "Apple opens advanced manufacturing center in Houston to expand US smart skills",
-      "title_zh": "台灣觀察：政策 / 地緣政治的政策 / 地緣政治相關動態",
-      "source": "DIGITIMES Asia",
-      "url": "https://www.digitimes.com/news/a20260814PR200/apple-manufacturing-production-smart-manufacturing-texas.html",
-      "published": "Fri, 14 Aug 2026 03:31:40 GMT",
-      "region": "taiwan",
-      "segments": [
-        "政策 / 地緣政治"
-      ],
-      "companies": [],
-      "importance": 2,
-      "summary_zh": "Apple opened of its new 20,000-square-foot Advanced Manufacturing Center (AMC) today in Houston, Texas. Designed to bolster American smart manufacturing, the facility functions as an educational hub where local businesses, workers, and students can gain firsth",
-      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     },
     {
       "id": "80e8cbd86944dfb70109",
@@ -861,6 +1219,22 @@
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     },
     {
+      "id": "fa5f83deaf62308eaa3e",
+      "title": "US report puts China-linked tariff evasion through Asia under the spotlight",
+      "title_zh": "台灣觀察：政策 / 地緣政治的政策 / 地緣政治相關動態",
+      "source": "DIGITIMES Asia",
+      "url": "https://www.digitimes.com/news/a20260814VL215/asia-revenue-manufacturing.html",
+      "published": "Fri, 14 Aug 2026 04:16:05 GMT",
+      "region": "taiwan",
+      "segments": [
+        "政策 / 地緣政治"
+      ],
+      "companies": [],
+      "importance": 3,
+      "summary_zh": "A new US government-linked report says American tariff revenue is being drained by tens of billions of dollars a year through illegal transshipment, with exporters routing China-origin goods through more than 40 third countries — many of them in Asia — to dodg",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+    },
+    {
       "id": "77ec1a5e0e8c0ca6d0a2",
       "title": "AMD reportedly to issue up to US$5B in bonds amid tech debt sale wave",
       "title_zh": "台灣觀察：NVIDIA、AMD的CSP / 雲端需求相關動態",
@@ -955,22 +1329,6 @@
       ],
       "importance": 4,
       "summary_zh": "China's hottest AI chip stock is now one of the world's most valuable chipmakers — rivaling Intel Business Insider",
-      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
-      "id": "fa5f83deaf62308eaa3e",
-      "title": "US report puts China-linked tariff evasion through Asia under the spotlight",
-      "title_zh": "台灣觀察：政策 / 地緣政治的政策 / 地緣政治相關動態",
-      "source": "DIGITIMES Asia",
-      "url": "https://www.digitimes.com/news/a20260814VL215/asia-revenue-manufacturing.html",
-      "published": "Fri, 14 Aug 2026 04:16:05 GMT",
-      "region": "taiwan",
-      "segments": [
-        "政策 / 地緣政治"
-      ],
-      "companies": [],
-      "importance": 3,
-      "summary_zh": "A new US government-linked report says American tariff revenue is being drained by tens of billions of dollars a year through illegal transshipment, with exporters routing China-origin goods through more than 40 third countries — many of them in Asia — to dodg",
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     },
     {
@@ -1340,25 +1698,6 @@
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     },
     {
-      "id": "6eaa5e412cec01791a73",
-      "title": "Intel vs. Qualcomm: Which Chip Stock is the Better Buy Now? - Yahoo Finance",
-      "title_zh": "國際觀察：Intel、Qualcomm的晶片設計相關動態",
-      "source": "Intel Foundry / AI Chips - Google News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOHlUN0RaLU5fZTk2RVpGX3hVQXBDN2E3aUd2eHhuWjJHWkE4QnNXWXFHQmRyR1hkWkgteFZBNFhFekxHMld1Umdyd0ZRV3Vnb2F5anlRT3R2VlEtU3h5SFc1aGs4RnA4a1JUYS02MlhzNUJUXzNKcm5CNkYzcWJ0QmpIdE5KVE9CMUpINHpIbzVTbzA?oc=5",
-      "published": "Wed, 12 Aug 2026 13:05:00 GMT",
-      "region": "international",
-      "segments": [
-        "晶片設計"
-      ],
-      "companies": [
-        "Intel",
-        "Qualcomm"
-      ],
-      "importance": 3,
-      "summary_zh": "Intel vs. Qualcomm: Which Chip Stock is the Better Buy Now? Yahoo Finance",
-      "investment_takeaway": "投資觀察重點在此消息是否影響需求能見度、產能瓶頸、價格或供應鏈議價能力。"
-    },
-    {
       "id": "77f559c80f2b2daa198d",
       "title": "Seoul Semiconductor wins permanent India injunction, completing a three-region patent sweep",
       "title_zh": "台灣觀察：政策 / 地緣政治的政策 / 地緣政治相關動態",
@@ -1440,6 +1779,25 @@
       "importance": 2,
       "summary_zh": "Silicon Motion Technology has completed a US$1.15 billion convertible bond sale, giving it fresh capital to support growth and debt repayment. For global investors and chip buyers, the financing signals confidence in storage, automotive, and physical AI demand",
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+    },
+    {
+      "id": "6eaa5e412cec01791a73",
+      "title": "Intel vs. Qualcomm: Which Chip Stock is the Better Buy Now? - Yahoo Finance",
+      "title_zh": "國際觀察：Intel、Qualcomm的晶片設計相關動態",
+      "source": "Intel Foundry / AI Chips - Google News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOHlUN0RaLU5fZTk2RVpGX3hVQXBDN2E3aUd2eHhuWjJHWkE4QnNXWXFHQmRyR1hkWkgteFZBNFhFekxHMld1Umdyd0ZRV3Vnb2F5anlRT3R2VlEtU3h5SFc1aGs4RnA4a1JUYS02MlhzNUJUXzNKcm5CNkYzcWJ0QmpIdE5KVE9CMUpINHpIbzVTbzA?oc=5",
+      "published": "Wed, 12 Aug 2026 13:05:00 GMT",
+      "region": "international",
+      "segments": [
+        "晶片設計"
+      ],
+      "companies": [
+        "Intel",
+        "Qualcomm"
+      ],
+      "importance": 3,
+      "summary_zh": "Intel vs. Qualcomm: Which Chip Stock is the Better Buy Now? Yahoo Finance",
+      "investment_takeaway": "投資觀察重點在此消息是否影響需求能見度、產能瓶頸、價格或供應鏈議價能力。"
     },
     {
       "id": "f5271cab652ee15e4ba3",
@@ -2118,366 +2476,6 @@
       "importance": 4,
       "summary_zh": "Intel Foundry secures Fortinet as its first named corporate client under new CEO Crypto Briefing",
       "investment_takeaway": "投資觀察重點在此消息是否影響需求能見度、產能瓶頸、價格或供應鏈議價能力。"
-    },
-    {
-      "id": "c2f16cb244bc80a520c7",
-      "title": "Taiwan's Foxconn reports 35% rise in Q2 profit on AI demand, beats forecasts - ET Manufacturing",
-      "title_zh": "台灣觀察：Foxconn的AI 伺服器 / 資料中心供應鏈相關動態",
-      "source": "Taiwan AI Server Supply Chain - Google News",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNM1JKRVRYZ1B2TVdta2FGU1NVMWJRbFVNQWE1Ukc4OHBIc0hOazBoZ2FmVXEzQnM4eVE4T0dFdmVCcWxJTy1wU0w0U1EteGlvYXFQa191WXNXN2pNZ3dwVldGUkZaemEycFdRNkIyQzk1Ykp6ZzNTeHVNeHZrOFlMV20zQ1JobnR0blh0RURfVU90MlNvM1JHS2RUSVAwblRtMG8tY1FqcGhiWE5yeWFOZDAxTlhkWGMxd1llUmEyZkFXYzByUE1YXzNJUm02Z1pPQWdDekJSd1NuY05GT1dXVjJsd0M2d9IB5gFBVV95cUxNM1JKRVRYZ1B2TVdta2FGU1NVMWJRbFVNQWE1Ukc4OHBIc0hOazBoZ2FmVXEzQnM4eVE4T0dFdmVCcWxJTy1wU0w0U1EteGlvYXFQa191WXNXN2pNZ3dwVldGUkZaemEycFdRNkIyQzk1Ykp6ZzNTeHVNeHZrOFlMV20zQ1JobnR0blh0RURfVU90MlNvM1JHS2RUSVAwblRtMG8tY1FqcGhiWE5yeWFOZDAxTlhkWGMxd1llUmEyZkFXYzByUE1YXzNJUm02Z1pPQWdDekJSd1NuY05GT1dXVjJsd0M2dw?oc=5",
-      "published": "Thu, 13 Aug 2026 09:56:48 GMT",
-      "region": "taiwan",
-      "segments": [
-        "AI 伺服器 / 資料中心供應鏈",
-        "政策 / 地緣政治"
-      ],
-      "companies": [
-        "Foxconn"
-      ],
-      "importance": 3,
-      "summary_zh": "Taiwan's Foxconn reports 35% rise in Q2 profit on AI demand, beats forecasts ET Manufacturing",
-      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
-      "id": "3453238b690a4bc84903",
-      "title": "Microsoft's Maia 300 Could Be a Win for Marvell and TSMC - Yahoo Finance",
-      "title_zh": "台灣觀察：Microsoft、Marvell的CSP / 雲端需求相關動態",
-      "source": "TSMC / CoWoS / Advanced Packaging - Google News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVTh4ZTBmZDlOdjlaNHNVNHNpTTR2a3FqT2oxUzdfUV9RV3JKbU5KaVJTV1dEcVp5akNhekhHZGtRdXdBWXZFZG1NcGhrWi1rcVJpbmZIN2JGM3hrNHg0U3o4dERBdDdXUnh6N0MyWlo4M1RsTVlOcWFPYkl3dVpEbEU3UmhtNFJkSW9iNU5uVUgxU1hRckZSTQ?oc=5",
-      "published": "Tue, 11 Aug 2026 15:10:04 GMT",
-      "region": "taiwan",
-      "segments": [
-        "CSP / 雲端需求",
-        "晶片設計",
-        "晶圓代工 / 製程"
-      ],
-      "companies": [
-        "Microsoft",
-        "Marvell",
-        "TSMC"
-      ],
-      "importance": 5,
-      "summary_zh": "Microsoft's Maia 300 Could Be a Win for Marvell and TSMC Yahoo Finance",
-      "investment_takeaway": "投資觀察重點在 CSP CapEx、AI 叢集擴建，以及 GPU/ASIC 需求是否轉成供應鏈訂單。"
-    },
-    {
-      "id": "eaf99241731b26b58cb6",
-      "title": "Sony and TSMC establish $4.69B image sensor JV in Japan - Light Reading",
-      "title_zh": "台灣觀察：TSMC的晶圓代工 / 製程相關動態",
-      "source": "TSMC / CoWoS / Advanced Packaging - Google News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ2JDVFBNeWtFYTBWVkVhdHZDc08zcmN2WjVNbUdqOG9WeU9jTHlhZG11RHczMTdvRnFHSmxtR0VsMnR6dGR1VEJTdVowM081bkFvaDRFbmlWdGczLVQ5SUdXQ0NoeVNPTzhvMG1vSmpmMW1QRnFod3kybHBHenA1cE1QWTE4Smk1ZXdUZVJLY0FqM2JFTzJSRUdSc0NoUm8?oc=5",
-      "published": "Wed, 12 Aug 2026 12:56:30 GMT",
-      "region": "taiwan",
-      "segments": [
-        "晶圓代工 / 製程",
-        "政策 / 地緣政治"
-      ],
-      "companies": [
-        "TSMC"
-      ],
-      "importance": 4,
-      "summary_zh": "Sony and TSMC establish $4.69B image sensor JV in Japan Light Reading",
-      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
-      "id": "57077a078bea401a1816",
-      "title": "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More",
-      "title_zh": "國際觀察：CSP / 雲端需求、政策 / 地緣政治的CSP / 雲端需求相關動態",
-      "source": "NVIDIA Newsroom",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/",
-      "published": "Thu, 13 Aug 2026 13:00:33 GMT",
-      "region": "international",
-      "segments": [
-        "CSP / 雲端需求",
-        "政策 / 地緣政治"
-      ],
-      "companies": [],
-      "importance": 3,
-      "summary_zh": "GeForce NOW is giving cloud gaming an extra-credit upgrade just in time for back-to-school season. The native Linux app for GeForce NOW is officially out of beta. GeForce NOW is also delivering new cloud optimizations that make Frame Generation feel even more ",
-      "investment_takeaway": "投資觀察重點在 CSP CapEx、AI 叢集擴建，以及 GPU/ASIC 需求是否轉成供應鏈訂單。"
-    },
-    {
-      "id": "be5feb6a6d154e37faf8",
-      "title": "Ledlink swings to profit in 2Q26",
-      "title_zh": "台灣觀察：政策 / 地緣政治的政策 / 地緣政治相關動態",
-      "source": "DIGITIMES Asia",
-      "url": "https://www.digitimes.com/news/a20260812PD225/ledlink-optics-revenue-profit-automotive-lighting.html",
-      "published": "Thu, 13 Aug 2026 06:55:00 GMT",
-      "region": "taiwan",
-      "segments": [
-        "政策 / 地緣政治"
-      ],
-      "companies": [],
-      "importance": 3,
-      "summary_zh": "Ledlink Optics Inc. posted consolidated revenue of NT$353 million (US$10.97 million) in the second quarter of 2026, up 16% quarter-over-quarter and 7% year-on-year, marking its second-highest result for the same period in 11 years. A ramp-up in shipments for n",
-      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
-      "id": "2470ae4280194640123b",
-      "title": "Quanta raises 2026 capex to NT$40B as AI visibility runs to 2028",
-      "title_zh": "台灣觀察：Quanta的CSP / 雲端需求相關動態",
-      "source": "DIGITIMES Asia",
-      "url": "https://www.digitimes.com/news/a20260813PD256/quanta-2028-2026-capex-capacity.html",
-      "published": "Thu, 13 Aug 2026 10:25:55 GMT",
-      "region": "taiwan",
-      "segments": [
-        "CSP / 雲端需求",
-        "AI 伺服器 / 資料中心供應鏈",
-        "政策 / 地緣政治"
-      ],
-      "companies": [
-        "Quanta"
-      ],
-      "importance": 5,
-      "summary_zh": "Quanta Computer told investors at its August 13 earnings call that customer AI product roadmaps and order visibility now extend into 2028, prompting the company to accelerate capacity expansion and raise its full-year 2026 capital expenditure target to NT$40 b",
-      "investment_takeaway": "投資觀察重點在 CSP CapEx、AI 叢集擴建，以及 GPU/ASIC 需求是否轉成供應鏈訂單。"
-    },
-    {
-      "id": "893fe3ad570304f7895e",
-      "title": "Oracle's transformation from enterprise software to AI powerhouse",
-      "title_zh": "台灣觀察：Oracle的CSP / 雲端需求相關動態",
-      "source": "DIGITIMES Asia",
-      "url": "https://www.digitimes.com/news/a20260813VL214/oracle-quantum-computing-partnership-infrastructure-hardware.html",
-      "published": "Thu, 13 Aug 2026 09:40:50 GMT",
-      "region": "taiwan",
-      "segments": [
-        "CSP / 雲端需求",
-        "晶片設計",
-        "政策 / 地緣政治"
-      ],
-      "companies": [
-        "Oracle"
-      ],
-      "importance": 5,
-      "summary_zh": "Oracle and quantum computing leader Quantinuum have entered a multi-year strategic partnership to bring Quantinuum's next-generation quantum computer, Helios, directly into Oracle Cloud Infrastructure (OCI). The collaboration aims to create a unified computing",
-      "investment_takeaway": "投資觀察重點在 CSP CapEx、AI 叢集擴建，以及 GPU/ASIC 需求是否轉成供應鏈訂單。"
-    },
-    {
-      "id": "3f57ad47ff7be6041b3d",
-      "title": "TSMC, Sony to invest $4.7 billion in joint venture for image sensors - Reuters",
-      "title_zh": "台灣觀察：TSMC的晶圓代工 / 製程相關動態",
-      "source": "TSMC / CoWoS / Advanced Packaging - Google News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMWNudC1ydGpBSzktb0lvYUFlbTZOVTRpaEtnb21RUG9iemFzYmRHSTM5bW1ISGNZY2VDNVhvU0dsNU5EN2FYOTg1T2tobWdOS1YwTm9PWVZ1RjJGRmd5SVlRTlU2NXRhLUVhbFlsb2hYNlJnZUVxcjJ3QUtFazVkUkJFQ3lUN3hsQmF4T1JMZWl3YjNNM2kxRnByaGdDckEtdjVXbnpTQXI4N09PUk84?oc=5",
-      "published": "Tue, 11 Aug 2026 10:53:38 GMT",
-      "region": "taiwan",
-      "segments": [
-        "晶圓代工 / 製程"
-      ],
-      "companies": [
-        "TSMC"
-      ],
-      "importance": 3,
-      "summary_zh": "TSMC, Sony to invest $4.7 billion in joint venture for image sensors Reuters",
-      "investment_takeaway": "投資觀察重點在台灣供應鏈是否取得 AI 伺服器、封裝、測試或零組件增量訂單。"
-    },
-    {
-      "id": "ad4155529e875fb2814f",
-      "title": "Cisco leans further into AI networking as hyperscaler orders near US$9.3 billion for the year",
-      "title_zh": "台灣觀察：政策 / 地緣政治的政策 / 地緣政治相關動態",
-      "source": "DIGITIMES Asia",
-      "url": "https://www.digitimes.com/news/a20260813VL205/cisco-2026-revenue-infrastructure-2027.html",
-      "published": "Thu, 13 Aug 2026 07:00:15 GMT",
-      "region": "taiwan",
-      "segments": [
-        "政策 / 地緣政治"
-      ],
-      "companies": [],
-      "importance": 3,
-      "summary_zh": "Cisco Systems closed fiscal 2026 with record results and told investors that the AI-driven \"networking supercycle\" it has described is still in its early stages. The company backed that view with a fiscal 2027 revenue target for AI infrastructure from hypersca",
-      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
-      "id": "83f2b6f390bedf0f382d",
-      "title": "Honor's Robot Phone launch signals a bigger bet: turning smartphones into AI hardware",
-      "title_zh": "台灣觀察：政策 / 地緣政治的政策 / 地緣政治相關動態",
-      "source": "DIGITIMES Asia",
-      "url": "https://www.digitimes.com/news/a20260813VL206/honor-launch-hardware-2026-robot.html",
-      "published": "Thu, 13 Aug 2026 07:00:05 GMT",
-      "region": "taiwan",
-      "segments": [
-        "政策 / 地緣政治"
-      ],
-      "companies": [],
-      "importance": 2,
-      "summary_zh": "Honor unveiled the Robot Phone on August 12, 2026, calling it the world's first \"robot phone\" and positioning it as the clearest hardware expression yet of the company's push to become an AI device maker rather than just a smartphone brand. Preorders opened th",
-      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
-      "id": "c38d787587d4fe046310",
-      "title": "Pegatron stocks AI server parts early as shortages spread through supply chain",
-      "title_zh": "台灣觀察：ASE的先進封裝 / 測試相關動態",
-      "source": "DIGITIMES Asia",
-      "url": "https://www.digitimes.com/news/a20260813PD201/pegatron-ai-server-supply-chain-demand-2026.html",
-      "published": "Thu, 13 Aug 2026 07:05:09 GMT",
-      "region": "taiwan",
-      "segments": [
-        "先進封裝 / 測試",
-        "AI 伺服器 / 資料中心供應鏈",
-        "政策 / 地緣政治"
-      ],
-      "companies": [
-        "ASE"
-      ],
-      "importance": 5,
-      "summary_zh": "Pegatron Corp. said in its second-quarter 2026 results that its server business posted strong gains and that it had already begun preparing for demand in the second half of 2026 while building inventory for the first half of 2027. The Taiwan-based electronics ",
-      "investment_takeaway": "投資觀察重點在 CoWoS/先進封裝產能、載板與測試稼動率，這通常是 AI 加速器供給瓶頸。"
-    },
-    {
-      "id": "f991747d6a0183099d05",
-      "title": "Pegatron profit surges on AI server shipments and stronger product mix",
-      "title_zh": "台灣觀察：ASE的先進封裝 / 測試相關動態",
-      "source": "DIGITIMES Asia",
-      "url": "https://www.digitimes.com/news/a20260813PD207/pegatron-shipments-profit-ai-server-2026.html",
-      "published": "Thu, 13 Aug 2026 07:04:59 GMT",
-      "region": "taiwan",
-      "segments": [
-        "先進封裝 / 測試",
-        "AI 伺服器 / 資料中心供應鏈",
-        "政策 / 地緣政治"
-      ],
-      "companies": [
-        "ASE"
-      ],
-      "importance": 5,
-      "summary_zh": "Pegatron reported its second-quarter 2026 results on the 12th, saying net profit attributable to the parent company rose more than 14-fold year-on-year as shipments of information products and consumer electronics strengthened. The Taiwan-based electronics man",
-      "investment_takeaway": "投資觀察重點在 CoWoS/先進封裝產能、載板與測試稼動率，這通常是 AI 加速器供給瓶頸。"
-    },
-    {
-      "id": "53326b49976e7f4080b2",
-      "title": "Samsung delays High-NA EUV adoption until 1nm production in 2030",
-      "title_zh": "台灣觀察：Samsung的晶圓代工 / 製程相關動態",
-      "source": "DIGITIMES Asia",
-      "url": "https://www.digitimes.com/news/a20260813PD213/samsung-high-na-euv-production-1nm-2030.html",
-      "published": "Thu, 13 Aug 2026 07:04:51 GMT",
-      "region": "taiwan",
-      "segments": [
-        "晶圓代工 / 製程",
-        "記憶體 / HBM",
-        "設備 / 材料",
-        "政策 / 地緣政治"
-      ],
-      "companies": [
-        "Samsung"
-      ],
-      "importance": 5,
-      "summary_zh": "Samsung Electronics plans to introduce high-numerical-aperture extreme ultraviolet (High-NA EUV) lithography into mass production at its 1nm node around 2030, according to South Korean media reports. The move signals that the foundry giant is continuing work t",
-      "investment_takeaway": "投資觀察重點在 HBM 價格、良率、客戶認證與供應合約年限。"
-    },
-    {
-      "id": "844e75946d742e6fc419",
-      "title": "LandMark Optoelectronics posts surge in profit on silicon photonics demand",
-      "title_zh": "台灣觀察：晶圓代工 / 製程、AI 伺服器 / 資料中心供應鏈的晶圓代工 / 製程相關動態",
-      "source": "DIGITIMES Asia",
-      "url": "https://www.digitimes.com/news/a20260813PD205/profit-silicon-revenue-photonics-2026.html",
-      "published": "Thu, 13 Aug 2026 07:04:32 GMT",
-      "region": "taiwan",
-      "segments": [
-        "晶圓代工 / 製程",
-        "AI 伺服器 / 資料中心供應鏈"
-      ],
-      "companies": [],
-      "importance": 5,
-      "summary_zh": "LandMark Optoelectronics Corp. reported a sharp jump in revenue, margins, and profit in the second quarter of 2026, driven by strong demand for silicon photonics products and higher shipment volumes. The optical communications epitaxial wafer maker also said t",
-      "investment_takeaway": "投資觀察重點在台灣供應鏈是否取得 AI 伺服器、封裝、測試或零組件增量訂單。"
-    },
-    {
-      "id": "dd5132776e9f8a148905",
-      "title": "Asus raises server outlook as AI demand lifts record second quarter results",
-      "title_zh": "台灣觀察：ASE的CSP / 雲端需求相關動態",
-      "source": "DIGITIMES Asia",
-      "url": "https://www.digitimes.com/news/a20260813PD204/asus-demand-growth-revenue-2026.html?chid=10",
-      "published": "Thu, 13 Aug 2026 07:04:21 GMT",
-      "region": "taiwan",
-      "segments": [
-        "CSP / 雲端需求",
-        "先進封裝 / 測試",
-        "AI 伺服器 / 資料中心供應鏈",
-        "政策 / 地緣政治"
-      ],
-      "companies": [
-        "ASE"
-      ],
-      "importance": 5,
-      "summary_zh": "Asus reported record second-quarter 2026 results driven by servers and PCs, while management pointed to strong demand for AI computing and cloud infrastructure. The Taiwan-based PC and hardware vendor said server order visibility remained high and lifted its f",
-      "investment_takeaway": "投資觀察重點在 CSP CapEx、AI 叢集擴建，以及 GPU/ASIC 需求是否轉成供應鏈訂單。"
-    },
-    {
-      "id": "6fd39cc40b396f9e213c",
-      "title": "Asus projects up to 150% server growth as AI demand lifts results",
-      "title_zh": "台灣觀察：ASE的先進封裝 / 測試相關動態",
-      "source": "DIGITIMES Asia",
-      "url": "https://www.digitimes.com/news/a20260813PD206/asus-growth-revenue-pc-ai-server.html",
-      "published": "Thu, 13 Aug 2026 07:04:08 GMT",
-      "region": "taiwan",
-      "segments": [
-        "先進封裝 / 測試",
-        "AI 伺服器 / 資料中心供應鏈",
-        "政策 / 地緣政治"
-      ],
-      "companies": [
-        "ASE"
-      ],
-      "importance": 5,
-      "summary_zh": "Asustek Computer said growth in its AI server and PC businesses pushed revenue, operating profit, and net profit to record highs in the second quarter of 2026. The Taiwan-based hardware maker also projected continued third-quarter growth across its main busine",
-      "investment_takeaway": "投資觀察重點在 CoWoS/先進封裝產能、載板與測試稼動率，這通常是 AI 加速器供給瓶頸。"
-    },
-    {
-      "id": "b1662eb315965ce21193",
-      "title": "SK Hynix expands EUV roadmap with High-NA tools and PSM adoption",
-      "title_zh": "台灣觀察：SK hynix、ASE的記憶體 / HBM相關動態",
-      "source": "DIGITIMES Asia",
-      "url": "https://www.digitimes.com/news/a20260813PD214/euv-sk-hynix-high-na-high-na-euv-dram.html",
-      "published": "Thu, 13 Aug 2026 07:03:56 GMT",
-      "region": "taiwan",
-      "segments": [
-        "記憶體 / HBM",
-        "先進封裝 / 測試",
-        "設備 / 材料",
-        "政策 / 地緣政治"
-      ],
-      "companies": [
-        "SK hynix",
-        "ASE"
-      ],
-      "importance": 5,
-      "summary_zh": "SK hynix said it is advancing its use of extreme ultraviolet (EUV) lithography for the mass production of next-generation DRAM, with high-numerical-aperture (High-NA) EUV equipment introduced in the second half of 2025 and related research and development begi",
-      "investment_takeaway": "投資觀察重點在 CoWoS/先進封裝產能、載板與測試稼動率，這通常是 AI 加速器供給瓶頸。"
-    },
-    {
-      "id": "045bbaea0a8847c3bd23",
-      "title": "Zhen Ding targets 50% revenue share from AI servers, optical modules, IC substrates by 2030",
-      "title_zh": "台灣觀察：先進封裝 / 測試、AI 伺服器 / 資料中心供應鏈的先進封裝 / 測試相關動態",
-      "source": "DIGITIMES Asia",
-      "url": "https://www.digitimes.com/news/a20260812PD239/zhen-ding-revenue-ic-pcb-2026.html",
-      "published": "Thu, 13 Aug 2026 07:03:00 GMT",
-      "region": "taiwan",
-      "segments": [
-        "先進封裝 / 測試",
-        "AI 伺服器 / 資料中心供應鏈",
-        "政策 / 地緣政治"
-      ],
-      "companies": [],
-      "importance": 5,
-      "summary_zh": "Zhen Ding Tech (ZDT), a major PCB supplier, said at its second-quarter 2026 earnings conference on August 11 that rising investment in AI computing infrastructure is ushering in a new expansion cycle for high-end PCB demand. Chairman Charles Shen said the comp",
-      "investment_takeaway": "投資觀察重點在 CoWoS/先進封裝產能、載板與測試稼動率，這通常是 AI 加速器供給瓶頸。"
-    },
-    {
-      "id": "745c98678eb91cc79d01",
-      "title": "ChipMOS lifts capex for 2026-2027 on memory and AI ASIC growth",
-      "title_zh": "台灣觀察：CSP / 雲端需求、晶片設計的CSP / 雲端需求相關動態",
-      "source": "DIGITIMES Asia",
-      "url": "https://www.digitimes.com/news/a20260812PD242/chipmos-growth-capex-demand-ai-asic.html",
-      "published": "Thu, 13 Aug 2026 07:02:50 GMT",
-      "region": "taiwan",
-      "segments": [
-        "CSP / 雲端需求",
-        "晶片設計",
-        "記憶體 / HBM"
-      ],
-      "companies": [],
-      "importance": 5,
-      "summary_zh": "ChipMOS said strong demand for automotive panels and memory products drove revenue and profit to record highs in the second quarter of 2026. Chairman Shih-Jye Cheng said the company will raise capital expenditure (capex) for two consecutive years, in 2026 and ",
-      "investment_takeaway": "投資觀察重點在 CSP CapEx、AI 叢集擴建，以及 GPU/ASIC 需求是否轉成供應鏈訂單。"
     }
   ]
 }
