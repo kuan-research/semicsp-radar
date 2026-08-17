@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T15:50:06+00:00",
+  "generated_at": "2026-08-17T16:25:49+00:00",
   "date": "2026-08-17",
   "market": {
     "indices": [
@@ -271,24 +271,79 @@
   },
   "items": [
     {
-      "id": "870bbcb7b7aae0d781d8",
-      "title": "INTC, WDC, SNDK, AMD: Red-Hot AI Chip Stocks Lose Sheen In Samsung-Triggered Selloff - Stocktwits",
-      "title_zh": "國際觀察：AMD、Samsung的晶片設計相關動態",
+      "id": "f1d4d22e0ae3bde34375",
+      "title": "AWS Weekly Roundup: EC2 application status checks, IAM role manager, OpenAI Daybreak on Bedrock, and more (August 17, 2026)",
+      "title_zh": "國際觀察：OpenAI的CSP / 雲端需求相關動態",
+      "source": "Amazon AWS News Blog",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ec2-application-status-checks-iam-role-manager-openai-daybreak-on-bedrock-and-more-august-17-2026/",
+      "published": "Mon, 17 Aug 2026 16:02:36 +0000",
+      "region": "international",
+      "segments": [
+        "CSP / 雲端需求",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "importance": 5,
+      "summary_zh": "Last week, the OpenSearch and Valkey teams visited Seoul to meet open source developers and contributors in the Open Source Summit Korea 2026 and MCP DevSummit Seoul 2026. At the four-day event, community leaders and users of open source projects and emerging ",
+      "investment_takeaway": "投資觀察重點在 CSP CapEx、AI 叢集擴建，以及 GPU/ASIC 需求是否轉成供應鏈訂單。"
+    },
+    {
+      "id": "8a29cff32fbe2f5ccf0d",
+      "title": "Sony, TSMC deal brings overseas investment in Japan chipmaking to $37bn - Nikkei Asia",
+      "title_zh": "台灣觀察：TSMC的晶圓代工 / 製程相關動態",
+      "source": "TSMC / CoWoS / Advanced Packaging - Google News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnAxdlVDWkZEUmQ1ZzhlbUhlM0x1VnVyMzBXUkk5Y3I3WE9vTU0tUUJIVW5sRFY0RnFOOEMySnBVTFRiM25RdXFIdUphX3R1QmcxTThuNzEtTlRiTjBMbmVhU3dldU8yaFVwVzZZY3JjUHJrWDZVZmt2X2k4d3p2N1V2RzlMMkVTVktkNDlUeWhJdDdmdWZhRno3LW04STFYbW5veGxHUkdwQ3FCQlE5dzVqM1hIQ3cyZXZXbF9Rcw?oc=5",
+      "published": "Wed, 12 Aug 2026 21:52:00 GMT",
+      "region": "taiwan",
+      "segments": [
+        "晶圓代工 / 製程",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "TSMC"
+      ],
+      "importance": 4,
+      "summary_zh": "Sony, TSMC deal brings overseas investment in Japan chipmaking to $37bn Nikkei Asia",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+    },
+    {
+      "id": "650dd16703ba92a3da20",
+      "title": "Intel secures $20 billion to fund foundry growth amid AI demand - indiagazette.com",
+      "title_zh": "國際觀察：Intel的晶片設計相關動態",
       "source": "Intel Foundry / AI Chips - Google News",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNT0V5ZzlUY3hqbDVITDVUdEQ1STRvcnB1eXk1X3o1NDl0QWFxeFA5WnJIdWFRanREazZOSDFEc2wwQlMwdXliam9mQmRwN1RUdzJiS2RjOU94U05qWFg1TE51UXAzM3lXYmhJai1faVlkaWNCd3dyQUdiNDk4UUJCZWI5Wm1xMlJsaFlPZXBLWTZLamJGazk3Zk5MMzk0am16WGVQUVloNWMxUFhUc1hYR2ZvMmVBNXhfd0gwOURScWZ4ODVJUGluOVY0aFcxSFQ2X3d4RHlXcFhVQzNH?oc=5",
-      "published": "Sat, 15 Aug 2026 07:55:04 GMT",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbDVRY192WWlYN0dNal85cmtRRkNFc21LbHhyVk9UZjZLSjBxWnl3c1pwQUI0T1B2aWtneUR1UmwtYzJ5dDVjcnBNbjJWaG5MX014Ti1NUlR0MGw5Vi1rQVB5RHdFdl9rejNJWVpKUVIyVC1xUU54WVRvOG53U0FHYWZHaHZuYU5wWDNqODM5LU50Yk9sSmZxT1pzLTdzSmcxY05VM2R4ZTRtOHp0Mmc?oc=5",
+      "published": "Wed, 12 Aug 2026 15:17:00 GMT",
       "region": "international",
       "segments": [
         "晶片設計",
-        "記憶體 / HBM"
+        "晶圓代工 / 製程"
       ],
       "companies": [
-        "AMD",
-        "Samsung"
+        "Intel"
       ],
       "importance": 3,
-      "summary_zh": "INTC, WDC, SNDK, AMD: Red-Hot AI Chip Stocks Lose Sheen In Samsung-Triggered Selloff Stocktwits",
-      "investment_takeaway": "投資觀察重點在 HBM 價格、良率、客戶認證與供應合約年限。"
+      "summary_zh": "Intel secures $20 billion to fund foundry growth amid AI demand indiagazette.com",
+      "investment_takeaway": "投資觀察重點在此消息是否影響需求能見度、產能瓶頸、價格或供應鏈議價能力。"
+    },
+    {
+      "id": "d4cf4e79568e11e5a499",
+      "title": "Intel upsizes stock sale to $20B with spending plans still fuzzy - The Register",
+      "title_zh": "國際觀察：Intel的晶片設計相關動態",
+      "source": "Intel Foundry / AI Chips - Google News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeGh6dVBhcWo5dFpEQTdjUl8xNGVTN2VsRGJCc0twWDgtQUhaMWEyWk5XclJtSWNqQkpoelQ0VWNNa0VwWG43Y3Vod3NoQm1iblF0X1NkVHRsSE55RXRsZGRKSVc1ZE1nMmVObVNlU1htajZpSlpFSW1aanA0U2RIeFh2bmxPYWpUSjZWSnZLN0RPS0djNEI1c1Bja3lrQ0pfSGxBWURsWTd4REpVNE1KbkFCc3F2UkZLQmc?oc=5",
+      "published": "Tue, 11 Aug 2026 16:01:00 GMT",
+      "region": "international",
+      "segments": [
+        "晶片設計"
+      ],
+      "companies": [
+        "Intel"
+      ],
+      "importance": 2,
+      "summary_zh": "Intel upsizes stock sale to $20B with spending plans still fuzzy The Register",
+      "investment_takeaway": "投資觀察重點在此消息是否影響需求能見度、產能瓶頸、價格或供應鏈議價能力。"
     },
     {
       "id": "5965f443714c31b135e9",
@@ -310,6 +365,26 @@
       "importance": 4,
       "summary_zh": "#FrontPageLIVE 🔴 Netflix’s reported move into AI, Intel’s $20 billion stock offering, and Anthropic’s massive $9.1 billion computing deal with Riot Platforms, Inc. are putting AI, infrastructure, and creative industries under the spotlight. Here is what we are",
       "investment_takeaway": "投資觀察重點在 CSP CapEx、AI 叢集擴建，以及 GPU/ASIC 需求是否轉成供應鏈訂單。"
+    },
+    {
+      "id": "870bbcb7b7aae0d781d8",
+      "title": "INTC, WDC, SNDK, AMD: Red-Hot AI Chip Stocks Lose Sheen In Samsung-Triggered Selloff - Stocktwits",
+      "title_zh": "國際觀察：AMD、Samsung的晶片設計相關動態",
+      "source": "Intel Foundry / AI Chips - Google News",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNT0V5ZzlUY3hqbDVITDVUdEQ1STRvcnB1eXk1X3o1NDl0QWFxeFA5WnJIdWFRanREazZOSDFEc2wwQlMwdXliam9mQmRwN1RUdzJiS2RjOU94U05qWFg1TE51UXAzM3lXYmhJai1faVlkaWNCd3dyQUdiNDk4UUJCZWI5Wm1xMlJsaFlPZXBLWTZLamJGazk3Zk5MMzk0am16WGVQUVloNWMxUFhUc1hYR2ZvMmVBNXhfd0gwOURScWZ4ODVJUGluOVY0aFcxSFQ2X3d4RHlXcFhVQzNH?oc=5",
+      "published": "Sat, 15 Aug 2026 07:55:04 GMT",
+      "region": "international",
+      "segments": [
+        "晶片設計",
+        "記憶體 / HBM"
+      ],
+      "companies": [
+        "AMD",
+        "Samsung"
+      ],
+      "importance": 3,
+      "summary_zh": "INTC, WDC, SNDK, AMD: Red-Hot AI Chip Stocks Lose Sheen In Samsung-Triggered Selloff Stocktwits",
+      "investment_takeaway": "投資觀察重點在 HBM 價格、良率、客戶認證與供應合約年限。"
     },
     {
       "id": "3120f1c45f10f3ed718b",
@@ -1209,7 +1284,7 @@
     },
     {
       "id": "1660810d698cb2a9a997",
-      "title": "AI server tracker: Demand drives July revenue gains across Taiwan infrastructure suppliers - digitimes",
+      "title": "AI server tracker: Demand drives July revenue gains across Taiwan infrastructure suppliers - digitimes.com",
       "title_zh": "台灣觀察：AI 伺服器 / 資料中心供應鏈、政策 / 地緣政治的AI 伺服器 / 資料中心供應鏈相關動態",
       "source": "Taiwan AI Server Supply Chain - Google News",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ0R5YVlESmthOVhpZDBVS2x2cjZZMUNWMnJOdG9NQkNZWlVnaVNHS1QtT1hVZUh6VVdyWm9FaXh5UXpDaHZPNUVTd0dTNkZrZGdCSUpBeGxacFpkbEl1WnhhSWphVmp0NG5mc1RrdXR6T1RBVFpQaXQzT2tKdmppV2kwSThFdXBSblU1MzdBWjFiTUEzUHBPSVBGS3pidw?oc=5",
@@ -1221,12 +1296,12 @@
       ],
       "companies": [],
       "importance": 5,
-      "summary_zh": "AI server tracker: Demand drives July revenue gains across Taiwan infrastructure suppliers digitimes",
+      "summary_zh": "AI server tracker: Demand drives July revenue gains across Taiwan infrastructure suppliers digitimes.com",
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     },
     {
       "id": "b2f64c0d7145753c4cab",
-      "title": "AI server growth is lifting Taiwan ODM revenue, but margins now face the harder test - digitimes",
+      "title": "AI server growth is lifting Taiwan ODM revenue, but margins now face the harder test - digitimes.com",
       "title_zh": "台灣觀察：AI 伺服器 / 資料中心供應鏈、政策 / 地緣政治的AI 伺服器 / 資料中心供應鏈相關動態",
       "source": "Taiwan AI Server Supply Chain - Google News",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaDhEbmVwMDVaN3RZM1FoQ20ydG5mb2hoeWdCS2w0NDFCbVlNV01YaWRYUkdyTXFvdWNLVjRfYm9WYi1pYkI0c1pTMXFuTmJwRTZsaTJiTjNKNTRicDRiZ2xpNFNVTkRHS3VPUXJFb3hmeDNBM3dMYlRTN0ZlZUtEU3JiMjYzMHptVnQ5aXVCSnUxanM?oc=5",
@@ -1238,7 +1313,7 @@
       ],
       "companies": [],
       "importance": 5,
-      "summary_zh": "AI server growth is lifting Taiwan ODM revenue, but margins now face the harder test digitimes",
+      "summary_zh": "AI server growth is lifting Taiwan ODM revenue, but margins now face the harder test digitimes.com",
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     },
     {
@@ -1647,7 +1722,7 @@
     },
     {
       "id": "e0c2ac5e693545855794",
-      "title": "AI server tracker: Demand drives strong growth across Taiwan's CCL, design services, substrate, and testing supply chains - digitimes",
+      "title": "AI server tracker: Demand drives strong growth across Taiwan's CCL, design services, substrate, and testing supply chains - digitimes.com",
       "title_zh": "台灣觀察：先進封裝 / 測試、AI 伺服器 / 資料中心供應鏈的先進封裝 / 測試相關動態",
       "source": "Taiwan AI Server Supply Chain - Google News",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYVl0V1kyY0RlUjFnSnFtdFo0MDd3ZUR5c0JtVV9pUUpDVVpZTHR1QmlPY1Jtb1RCWVpIVGFpQVBZUWJ4UE5Fejk5YXpSREhxdXQwdzVWMXp1b3F0d0xpYTBUN210cE1XWEJLOHVHaVZndHowN3o3dUViN2V3OEcwdGdRbDdwMmhPaHdHVXdVSXk3T1pDTFZHSFBWSGpmYVZtSWVUbg?oc=5",
@@ -1660,7 +1735,7 @@
       ],
       "companies": [],
       "importance": 5,
-      "summary_zh": "AI server tracker: Demand drives strong growth across Taiwan's CCL, design services, substrate, and testing supply chains digitimes",
+      "summary_zh": "AI server tracker: Demand drives strong growth across Taiwan's CCL, design services, substrate, and testing supply chains digitimes.com",
       "investment_takeaway": "投資觀察重點在 CoWoS/先進封裝產能、載板與測試稼動率，這通常是 AI 加速器供給瓶頸。"
     },
     {
@@ -2160,7 +2235,7 @@
     },
     {
       "id": "b0d499ec3b1bbee563ae",
-      "title": "Phase 1 of massive industrial project planned near TSMC campus in North Phoenix - KTAR News 92.3 FM",
+      "title": "Phase 1 of massive industrial project planned near TSMC campus in North Phoenix - ktar.com",
       "title_zh": "台灣觀察：TSMC、ASE的晶圓代工 / 製程相關動態",
       "source": "TSMC / CoWoS / Advanced Packaging - Google News",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYXZhY2tEaUZ3LXBwMUUzSnl4OWNoRkMwbjUzOG1CWnpUVTVwSHdtM0swR3VBVW8xcm83eWxkRzdPTTN5ZUZPTC14aU13REhlMTRDV2c0M0dESUhLWXBxQ2VtR1FaUGRxdkdJWkZCcGZaTGFoeVpmOFlQR0M3S3NUWklPQ1V0a0RLNkhJekFneVBHd05KeXhqLWU1eVhEdWdDMHNHVi1rYlV3QmxManRWMmZpSQ?oc=5",
@@ -2176,7 +2251,7 @@
         "ASE"
       ],
       "importance": 5,
-      "summary_zh": "Phase 1 of massive industrial project planned near TSMC campus in North Phoenix KTAR News 92.3 FM",
+      "summary_zh": "Phase 1 of massive industrial project planned near TSMC campus in North Phoenix ktar.com",
       "investment_takeaway": "投資觀察重點在 CoWoS/先進封裝產能、載板與測試稼動率，這通常是 AI 加速器供給瓶頸。"
     },
     {
@@ -2429,83 +2504,6 @@
       "importance": 4,
       "summary_zh": "TSMC & Sony Establish JV in Japan to Develop Smartphone Image Sensors Yahoo Finance",
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
-      "id": "4e403b0d15b152af95b9",
-      "title": "NVIDIA and AMD’s China Market Share to Drop to 10% by 2026 as Domestic Chips Seize 90%, Says Report - Wccftech",
-      "title_zh": "國際觀察：NVIDIA、AMD的晶片設計相關動態",
-      "source": "Intel Foundry / AI Chips - Google News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNXVsOUdsMG1zWGtlOVRVb2hSQWQ5U083RUwwSmZnMXlhNWljdGc5RDhiTEo1N3lKM05WUTRpd1JFVDN3eXcySjhiUlFReE5ZTE5KMDY0VTFWVkttb0d4aU96VFVnYkMzS08yZGcySTRLMmEwbFJJRUhhdTg5NFRHNUNBMzBqZDl3ckFDTWlqbEk2aEpZdEI5Y0NGbm9MTjRhZ0hqUTlGVkdmOEdkWUlHYnlsUjNLNGxW0gG-AUFVX3lxTE5BX1RkMTViRV9lZkpxVzlSdExodXZzZlc3REh2ZExyb1A0VFJKcHNsWlQxQ0s2ZURVQ1Jwd0FXRWxDTUI3d3RNSjFuY0ZpOU5rZkczcXMyeEozSEhsbFR2aklncXNkOENIQzh0WFR5alFEOEtEMDVyY0JXRVpURkx5YncwVzZlMk9tM0ltNURXTmJRYU9wbjhsWFdnWjJKZXVoQ0NDY21XRExlTlRzNEhhaTM3VVBzaFNIZVhCOWc?oc=5",
-      "published": "Mon, 10 Aug 2026 09:08:52 GMT",
-      "region": "international",
-      "segments": [
-        "晶片設計",
-        "政策 / 地緣政治"
-      ],
-      "companies": [
-        "NVIDIA",
-        "AMD"
-      ],
-      "importance": 4,
-      "summary_zh": "NVIDIA and AMD’s China Market Share to Drop to 10% by 2026 as Domestic Chips Seize 90%, Says Report Wccftech",
-      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
-      "id": "55f9a4c5cce4b398118e",
-      "title": "Intel's Foundry Grew 31% Last Quarter and Lost $2.1 Billion Doing It. - The Globe and Mail",
-      "title_zh": "國際觀察：Intel的晶片設計相關動態",
-      "source": "Intel Foundry / AI Chips - Google News",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQWIyWHB3ZUE0NXZfOXMwczQzWFEwT2EweElwN1RHZW5JNlBVWmdMTllMX0REVjNzZmQwWVVBNmlveUl4X2ZlM0VFSUJtTFpBTWRrdVRpaG9tTDByMm5pWUI5a1I3blM0eFh3TTk0RVpEdWY4MzdGdnAtWUFBbzMtX2tUc3dpaGxhLVNjU2pNYTNWLUdsc3ZHQ0ZPSEEyQ1FPd0Y2cjJuSndNZ2RBdTFoeS1sMWNoSDZxNDl1UXA1U0JLbWNqRWJUTTVjMzZ3MDhSMmZmd1NsYzZKRldjTlRyY1doYw?oc=5",
-      "published": "Tue, 11 Aug 2026 07:35:30 GMT",
-      "region": "international",
-      "segments": [
-        "晶片設計",
-        "晶圓代工 / 製程"
-      ],
-      "companies": [
-        "Intel"
-      ],
-      "importance": 3,
-      "summary_zh": "Intel's Foundry Grew 31% Last Quarter and Lost $2.1 Billion Doing It. The Globe and Mail",
-      "investment_takeaway": "投資觀察重點在此消息是否影響需求能見度、產能瓶頸、價格或供應鏈議價能力。"
-    },
-    {
-      "id": "fc6a0e1e4659d2dd6a56",
-      "title": "Synopsys (SNPS) Is Up 5.0% After AI Chip-Design Deals And Outlook Hike - Has The Bull Case Changed? - simplywall.st",
-      "title_zh": "國際觀察：ASE的先進封裝 / 測試相關動態",
-      "source": "Intel Foundry / AI Chips - Google News",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZTh2bTFtYVlBT3BIaWpXalVPTkg0ZEZEd0ctRlA2QXNRMTJsZ0pUS2dPQjVuR1pYZTNhOFcyTWp2TDBITXNMTW1TNE1aNzNfXzdLM05kNUJLUzRtUVNvV0RCOUFzRjRHX0NGQnpvSVpRR1d3UVdENkRVcGRlMk93dHBzNzhSNUQ5Z3ZUdjY4UmUteHZSRUw3RlZHc1dkaUxoNnhqQzJRWkRpb3h4STJtZEoyZ1NVeGhaUjNsSWtvYk92TWdsMHfSAcsBQVVfeXFMTmdWOXZMSklqQXdxWnZCZ2FlSjRrZWZOd3dwSDQ1WnhkRVN1UlZKaEZ0VElOdkZ0NUE3NVI3aWF2NjZCLWdJeXAwdGt1S0ZYMmp1ZFBDeC1MZG9uYXRCZTVuMTdKN0xnSVRNR0toUEtxMThPdEhWemcxVUJNZ3pIaVFpSXNoRmowMUh0MXRnTTdoOF9EVnJ5QkxnZWpaZGxUMGtZTFQ0dERDV1ZyY2pGVTVsRDF3NVdKSEdJUm5ZcmEwOEVMandkTlFuZWs?oc=5",
-      "published": "Tue, 11 Aug 2026 17:37:20 GMT",
-      "region": "international",
-      "segments": [
-        "先進封裝 / 測試"
-      ],
-      "companies": [
-        "ASE"
-      ],
-      "importance": 2,
-      "summary_zh": "Synopsys (SNPS) Is Up 5.0% After AI Chip-Design Deals And Outlook Hike - Has The Bull Case Changed? simplywall.st",
-      "investment_takeaway": "投資觀察重點在 CoWoS/先進封裝產能、載板與測試稼動率，這通常是 AI 加速器供給瓶頸。"
-    },
-    {
-      "id": "25253b55e57d7d7aaa57",
-      "title": "Intel (INTC) Is Up 12.7% After Terafab AI Chip JV With SpaceX, Tesla – Has The Bull Case Changed? - simplywall.st",
-      "title_zh": "國際觀察：Intel、ASE的晶片設計相關動態",
-      "source": "Intel Foundry / AI Chips - Google News",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYlBZdl9pRVlDRWFINDVTLUJ6eUxZSFh0bHV2Y1Y0akh5SlBpQ2RFQVBVbW92ZVdWMnkyclg0Z2N0RDU0bzhyQzdReFJ1Y0lWaGZUekFfSXhIdFlmSk5sVUlubjJlZ2x4MWtFTjhIbWk3aVBaczNoNzJfTzNnbEgyc0ZBeklJYnBJTjBHUGxUVE9XbC00WEZWbHo5VF9xWVliaGQxV2RsWDRna3N6VjZmQmU0Q2pxSGtHTlp3SVFKWGdWSVlUQ1lFXzJ30gHPAUFVX3lxTE1zTW44VHc5Z18wLVhOZ1NyY1k0VzFTbTJseV9QNjRobTJ2MXNhMEsxTkVGa3M2Q3I5VGh6ZW1OWmlyclZ4UFl2UkxKeEk3ZWY5QlBfcC1ieVRSTG03ZVJVVm4tTWVpRTdDR1ZTQ29BTVpOSGxJRldzWHJkYlV2UEpyQm02aE1fd3h5WkwzcWhMcEMzUW5RT052QVU1alAxSDlra0V6UlEwTjlCZ3pYTTl0RjhPcmw4S1UwZkl4QVNUQnlVUHRYd2pYRnZZcUp4cw?oc=5",
-      "published": "Sat, 08 Aug 2026 07:38:14 GMT",
-      "region": "international",
-      "segments": [
-        "晶片設計",
-        "先進封裝 / 測試"
-      ],
-      "companies": [
-        "Intel",
-        "ASE"
-      ],
-      "importance": 3,
-      "summary_zh": "Intel (INTC) Is Up 12.7% After Terafab AI Chip JV With SpaceX, Tesla – Has The Bull Case Changed? simplywall.st",
-      "investment_takeaway": "投資觀察重點在 CoWoS/先進封裝產能、載板與測試稼動率，這通常是 AI 加速器供給瓶頸。"
     }
   ]
 }
