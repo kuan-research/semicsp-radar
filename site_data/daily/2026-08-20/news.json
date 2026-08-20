@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T17:27:51+00:00",
+  "generated_at": "2026-08-20T17:57:38+00:00",
   "date": "2026-08-20",
   "market": {
     "indices": [
@@ -177,6 +177,13 @@
     ],
     "news": [
       {
+        "title": "台股震盪 反1、高息ETF避險利器",
+        "source": "Yahoo 股市 - 台股動態",
+        "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E9%9C%87%E7%9B%AA-%E5%8F%8D1-%E9%AB%98%E6%81%AFetf%E9%81%BF%E9%9A%AA%E5%88%A9%E5%99%A8-173714057.html",
+        "published": "Thu, 20 Aug 2026 17:37:14 GMT",
+        "summary": "【記者柯安聰台北報導】台股19日大跌，使得台股ETF也一片慘綠，不過還是有18檔逆勢收紅，除了包括群益臺灣加權反1（00686R）在內的4檔反1外，其他14檔原型台股ETF逆勢收紅的分別是群益科技高息"
+      },
+      {
         "title": "台股量縮創低！陳嘉偉警告「凌遲處死」陷入真空頭 點名台積電、國巨壓力大",
         "source": "Yahoo 股市 - 台股動態",
         "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%87%8F%E7%B8%AE%E5%89%B5%E4%BD%8E-%E9%99%B3%E5%98%89%E5%81%89%E8%AD%A6%E5%91%8A-%E5%87%8C%E9%81%B2%E8%99%95%E6%AD%BB-%E9%99%B7%E5%85%A5%E7%9C%9F%E7%A9%BA%E9%A0%AD-%E9%BB%9E%E5%90%8D%E5%8F%B0%E7%A9%8D%E9%9B%BB-164000738.html",
@@ -210,13 +217,6 @@
         "url": "https://tw.news.yahoo.com/%E7%B6%B2%E5%8F%8B%E7%86%B1%E8%AD%B0%E8%87%AA%E7%B5%84%E6%9C%88%E6%9C%88%E9%85%8D%E4%B8%8D%E5%A6%82%E8%B2%B7-%E5%AE%83-%E7%B6%B2%E5%8F%8B%E5%AF%A6%E6%B8%AC%E7%9C%81%E4%B8%8B21%E8%90%AC%E8%A3%9C%E5%85%85%E4%BF%9D%E8%B2%BB%E5%8F%B0%E8%82%A1%E6%9A%B4%E8%B7%8C%E6%97%A5%E7%AB%9F%E9%80%86%E5%8B%A2%E6%94%B6%E7%B4%85-131152193.html",
         "published": "Thu, 20 Aug 2026 13:11:52 GMT",
         "summary": "近期Threads 瘋傳一則台股ETF討論貼文，原PO指出，到底想照網路熱門的「0056+00878+0091 […]"
-      },
-      {
-        "title": "台股暴跌郭哲榮逆勢買「這1檔」 ！給散戶4大忠告全說了",
-        "source": "Yahoo 股市 - 台股動態",
-        "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E6%9A%B4%E8%B7%8C%E9%83%AD%E5%93%B2%E6%A6%AE%E9%80%86%E5%8B%A2%E8%B2%B7%E3%80%8C%E9%80%991%E6%AA%94%E3%80%8D-%EF%BC%81%E7%B5%A6%E6%95%A3%E6%88%B64%E5%A4%A7%E5%BF%A0%E5%91%8A%E5%85%A8%E8%AA%AA%E4%BA%86-130553147.html",
-        "published": "Thu, 20 Aug 2026 13:05:53 GMT",
-        "summary": "財經中心／周孟漢報導台股昨（19）日呈現劇烈震盪，加權指數終場大跌 589.33 點，收在 4 萬 4719.35 點，跌破 4 萬 5000 點大關，連季線防線也告失守。然而，在市場一片恐慌之際，曾"
       },
       {
         "title": "最後一隻白老鼠？ 26萬散戶昨FOMO進場淪住套房 分析師：健康換手",
@@ -270,6 +270,50 @@
     "errors": []
   },
   "items": [
+    {
+      "id": "82424abddc6b65abe488",
+      "title": "Expanding Google Antigravity for enterprise customers",
+      "title_zh": "國際觀察：Google、Meta的CSP / 雲端需求相關動態",
+      "source": "Google Cloud Blog",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/expanding-google-antigravity-for-enterprise-customers/",
+      "published": "Thu, 20 Aug 2026 17:30:00 +0000",
+      "region": "international",
+      "segments": [
+        "CSP / 雲端需求",
+        "先進封裝 / 測試",
+        "AI 伺服器 / 資料中心供應鏈",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "Google",
+        "Meta",
+        "ASE"
+      ],
+      "importance": 5,
+      "summary_zh": "Since announcing Google Antigravity in Gemini Enterprise Agent Platform at I/O in May, we’ve heard helpful feedback from our customers. Your developers want easy access to coding agents across surfaces. Your enterprise governance team wants security controls a",
+      "investment_takeaway": "投資觀察重點在 CSP CapEx、AI 叢集擴建，以及 GPU/ASIC 需求是否轉成供應鏈訂單。"
+    },
+    {
+      "id": "08dbc7b8f8cb590bab70",
+      "title": "Billionaire Stanley Druckenmiller Dumped Micron, Intel, and Broadcom: Here Are the AI Infrastructure Stocks He Bought Instead - 24/7 Wall St.",
+      "title_zh": "國際觀察：Broadcom、Intel的晶片設計相關動態",
+      "source": "Intel Foundry / AI Chips - Google News",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTWlZS3JGTEo0V2dZa3duMkpnZ0JLV2tVWDNZREs3eTFCUWFzamNKQXpONmpNaVF6WGp1eHZYaC1tbUktTnpGd1JRNWRidm90NUptcHM1N2NfTlkwOTV3eEd0M1AtZWlIMXAxYjNCa2VVSkEwdlZzSFZGelhnZndhRWdmdHhMTU9SOUxJYVp5a0VxV1pDQ2VROTRxVGJudWx1eXdiRDA5cjljdExiZVhqcHNmeXRHZmJVTnFQQUFac2Q1LUd6djNNR3kzMWwzMHJkQnF2RTR2dkdqRENwRjlDTW9NbXVORmRTVFZUQkhBdkI4Q1I2aTFSRUF3?oc=5",
+      "published": "Thu, 20 Aug 2026 17:46:17 GMT",
+      "region": "international",
+      "segments": [
+        "晶片設計",
+        "記憶體 / HBM"
+      ],
+      "companies": [
+        "Broadcom",
+        "Intel",
+        "Micron"
+      ],
+      "importance": 4,
+      "summary_zh": "Billionaire Stanley Druckenmiller Dumped Micron, Intel, and Broadcom: Here Are the AI Infrastructure Stocks He Bought Instead 24/7 Wall St.",
+      "investment_takeaway": "投資觀察重點在 HBM 價格、良率、客戶認證與供應合約年限。"
+    },
     {
       "id": "1c001fff4c1d07e12e76",
       "title": "TSMC vs. GlobalFoundries: Which Foundry Stock Is the Better Buy? - TradingView",
@@ -2476,38 +2520,6 @@
       "importance": 5,
       "summary_zh": "Taiwan-based firms acquire land at Mack Innovation Park amid TSMC buildout The Business Journals",
       "investment_takeaway": "投資觀察重點在 CoWoS/先進封裝產能、載板與測試稼動率，這通常是 AI 加速器供給瓶頸。"
-    },
-    {
-      "id": "4c392f6c6068405d26c2",
-      "title": "MSCI raises Taiwan's weighting in 3 key indexes - Focus Taiwan",
-      "title_zh": "台灣觀察：政策 / 地緣政治的政策 / 地緣政治相關動態",
-      "source": "Taiwan AI Server Supply Chain - Google News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CU0ZZNndFMHFIbnBwYkNYZW1JNW9UdmFuVTNxbmVNYnBGVnJGd3BTOTFnZk5XSnVZN2JPcVpHcTZXNE9rMUg5MTZwNUZhaF84NzF5c3Vmbw?oc=5",
-      "published": "Fri, 14 Aug 2026 06:45:00 GMT",
-      "region": "taiwan",
-      "segments": [
-        "政策 / 地緣政治"
-      ],
-      "companies": [],
-      "importance": 3,
-      "summary_zh": "MSCI raises Taiwan's weighting in 3 key indexes Focus Taiwan",
-      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
-      "id": "9efdc8ed6846b4a65cd3",
-      "title": "AI server supply chain ramps up capital, talent, and capacity - digitimes",
-      "title_zh": "台灣觀察：AI 伺服器 / 資料中心供應鏈的AI 伺服器 / 資料中心供應鏈相關動態",
-      "source": "Taiwan AI Server Supply Chain - Google News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRXg5WDJ3UUc0d01VTjVfbC1XYjNGcEh1aXVWdzltX0ZQT1hmZ0tpVmZDZmQ2VTdXQzdvSUIySkdITHY4TjRpT1pfR0xuVDNOUDBsWFBydUVReFlQcUFrc3dBODl4TERkd2J1S3hzLXl2NFNDTWJLOXR2aE5tcmY0RmcxZWFScExPSHlkekI3V2xCa0ltNDl5SQ?oc=5",
-      "published": "Tue, 18 Aug 2026 02:19:01 GMT",
-      "region": "taiwan",
-      "segments": [
-        "AI 伺服器 / 資料中心供應鏈"
-      ],
-      "companies": [],
-      "importance": 5,
-      "summary_zh": "AI server supply chain ramps up capital, talent, and capacity digitimes",
-      "investment_takeaway": "投資觀察重點在台灣供應鏈是否取得 AI 伺服器、封裝、測試或零組件增量訂單。"
     }
   ]
 }
