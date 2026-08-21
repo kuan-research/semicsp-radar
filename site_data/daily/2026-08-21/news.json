@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T15:31:58+00:00",
+  "generated_at": "2026-08-21T16:32:48+00:00",
   "date": "2026-08-21",
   "market": {
     "indices": [
@@ -177,6 +177,13 @@
     ],
     "news": [
       {
+        "title": "台股還有黑馬？專家點名這檔「低調拉漲停」：法人提前埋伏",
+        "source": "Yahoo 股市 - 台股動態",
+        "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E9%82%84%E6%9C%89%E9%BB%91%E9%A6%AC-%E5%B0%88%E5%AE%B6%E9%BB%9E%E5%90%8D%E9%80%99%E6%AA%94-%E4%BD%8E%E8%AA%BF%E6%8B%89%E6%BC%B2%E5%81%9C-%E6%B3%95%E4%BA%BA%E6%8F%90%E5%89%8D%E5%9F%8B%E4%BC%8F-161800425.html",
+        "published": "Fri, 21 Aug 2026 16:18:00 GMT",
+        "summary": "台股21日終場以45,224.29點作收，成功站穩45,200點關卡。資深分析師周代運提醒，雖然大盤翻紅，但反彈力度虛弱且缺乏量價齊揚，指標股如欣興、友達等集體熄火，顯示短線市場情緒偏保守，操作不宜激"
+      },
+      {
         "title": "美股又殺費半！台積電ADR小漲、台指期夜盤45K保衛戰 比特幣暴力拉升衝77000美元",
         "source": "Yahoo 股市 - 台股動態",
         "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E5%8F%88%E6%AE%BA%E8%B2%BB%E5%8D%8A-%E5%8F%B0%E7%A9%8D%E9%9B%BBadr%E5%B0%8F%E6%BC%B2-%E5%8F%B0%E6%8C%87%E6%9C%9F%E5%A4%9C%E7%9B%A445k%E4%BF%9D%E8%A1%9B%E6%88%B0-%E6%AF%94%E7%89%B9%E5%B9%A3%E6%9A%B4%E5%8A%9B%E6%8B%89%E5%8D%87%E8%A1%9D77000%E7%BE%8E%E5%85%83-150000267.html",
@@ -210,13 +217,6 @@
         "url": "https://tw.news.yahoo.com/%E6%88%BF%E8%B2%B8%E5%8F%88%E4%BF%A1%E8%B2%B8-%E5%A4%A7%E6%93%8D%E6%A7%93%E6%A1%BF%E8%B2%B7%E5%8F%B0%E8%82%A1-%E5%85%A8%E5%8F%B0%E9%9B%99%E8%B2%B8%E6%97%8F42-3%E8%90%AC%E4%BA%BA%E5%89%B5%E6%96%B0%E9%AB%98-132600620.html",
         "published": "Fri, 21 Aug 2026 13:26:00 GMT",
         "summary": "台灣房市熱潮下，雙貸族數量持續攀升！聯徵中心最新統計顯示，2026年4月同時背負房貸與信貸的雙貸族人數達42.3萬人，創歷史新高，佔比近19%。信義房屋專家曾敬德分析，此趨勢與股市榮景密切相關，許多民"
-      },
-      {
-        "title": "凱基投顧上修台股未來2年盈餘預估",
-        "source": "Yahoo 股市 - 台股動態",
-        "url": "https://tw.news.yahoo.com/%E5%87%B1%E5%9F%BA%E6%8A%95%E9%A1%A7%E4%B8%8A%E4%BF%AE%E5%8F%B0%E8%82%A1%E6%9C%AA%E4%BE%862%E5%B9%B4%E7%9B%88%E9%A4%98%E9%A0%90%E4%BC%B0-123529790.html",
-        "published": "Fri, 21 Aug 2026 12:35:29 GMT",
-        "summary": "【記者柯安聰台北報導】隨著全球AI投資持續擴大，台股企業獲利表現明顯優於市場預期。凱基投顧表示，受惠於AI伺服器、先進製程及記憶體需求強勁，加上2026年第2季上市公司獲利大幅成長，不僅帶動今年盈餘展"
       },
       {
         "title": "最後一隻白老鼠？ 26萬散戶昨FOMO進場淪住套房 分析師：健康換手",
@@ -270,6 +270,128 @@
     "errors": []
   },
   "items": [
+    {
+      "id": "2a338a7bbcbf8372b2c4",
+      "title": "Cloud CISO Perspectives: Sticking to security fundamentals in the AI era",
+      "title_zh": "國際觀察：Google、Meta的CSP / 雲端需求相關動態",
+      "source": "Google Cloud Blog",
+      "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-sticking-to-security-fundamentals-in-the-ai-era/",
+      "published": "Fri, 21 Aug 2026 16:00:00 +0000",
+      "region": "international",
+      "segments": [
+        "CSP / 雲端需求",
+        "晶片設計",
+        "先進封裝 / 測試",
+        "AI 伺服器 / 資料中心供應鏈",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "Google",
+        "Meta",
+        "Intel",
+        "ASE"
+      ],
+      "importance": 5,
+      "summary_zh": "Welcome to the first Cloud CISO Perspectives for August 2026. Today, Chris Betz explains why the AI era makes it more important than ever to lean into security fundamentals. As with all Cloud CISO Perspectives, the contents of this newsletter are posted to the",
+      "investment_takeaway": "投資觀察重點在 CSP CapEx、AI 叢集擴建，以及 GPU/ASIC 需求是否轉成供應鏈訂單。"
+    },
+    {
+      "id": "44ba6777d073b02a0b26",
+      "title": "How agents can delegate better",
+      "title_zh": "國際觀察：Google、Intel的CSP / 雲端需求相關動態",
+      "source": "Google Cloud Blog",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/how-agents-can-delegate-better/",
+      "published": "Fri, 21 Aug 2026 16:00:00 +0000",
+      "region": "international",
+      "segments": [
+        "CSP / 雲端需求",
+        "晶片設計",
+        "先進封裝 / 測試",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "Google",
+        "Intel",
+        "ASE"
+      ],
+      "importance": 5,
+      "summary_zh": "In any organizational behavior class, students will learn that effective delegation is among the most important skills for a seasoned leader. Getting meaningful work done involves careful coordination, starting with a subdivision of projects into manageable ta",
+      "investment_takeaway": "投資觀察重點在 CSP CapEx、AI 叢集擴建，以及 GPU/ASIC 需求是否轉成供應鏈訂單。"
+    },
+    {
+      "id": "c8edb8ec175b4263ec26",
+      "title": "Forget 2nm: TSMC reports claim it's surging ahead for 1.6nm chips - Android Central",
+      "title_zh": "台灣觀察：TSMC的晶圓代工 / 製程相關動態",
+      "source": "TSMC / CoWoS / Advanced Packaging - Google News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSFpqTEUwOFI0aDZqRlk0OXl1bnYtZzRsWmJrNmU3enVnX2JwZVBZTVZDcmM2cXRmYWtiMkRTS0YtbDJnQUI0dl9ZNHplZk5GMHZyalNyWUZ6ZW9kS3liZGRqZXdMcG1DeVlBTWlWdzlDZ2NGV2xEYkZmU01fcE9NaDhVRnhwSjY2eWFZUzFnb0Jid1VoMGxiemk3aWpyMkxqWkY2bXJ4VGVoRHRt?oc=5",
+      "published": "Fri, 21 Aug 2026 10:17:00 GMT",
+      "region": "taiwan",
+      "segments": [
+        "晶圓代工 / 製程"
+      ],
+      "companies": [
+        "TSMC"
+      ],
+      "importance": 5,
+      "summary_zh": "Forget 2nm: TSMC reports claim it's surging ahead for 1.6nm chips Android Central",
+      "investment_takeaway": "投資觀察重點在台灣供應鏈是否取得 AI 伺服器、封裝、測試或零組件增量訂單。"
+    },
+    {
+      "id": "7bd2a07509d6e15a8d44",
+      "title": "QCT Unveils Next-Generation QuantaGrid Servers Powered by AMD EPYC™ 9006 Series CPUs to Accelerate AI - The National Law Review",
+      "title_zh": "台灣觀察：AMD、Quanta的晶片設計相關動態",
+      "source": "Taiwan AI Server Supply Chain - Google News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT1dTZWVFRVQ3YUNjVEc0c0FjYVRNZmJOaXFXT0VjdW1jYlZFbTJnUkdYdUstN0pfRlRnTmtESG45ek5kVk5QRV9zcU5zZlcxX2VDQ1pabGl2dlNCN1ZrdERxc3hfTXBaSlhGYlhYTFdDYUFFQ1dLSXVmeUNIR1Jad2hBOVNtWU54dmEzM0dLUXZxUVZKNUI2dGlJaTFGd2hmcnRnTkNSYW40OU55anVr?oc=5",
+      "published": "Sat, 15 Aug 2026 11:20:29 GMT",
+      "region": "taiwan",
+      "segments": [
+        "晶片設計",
+        "AI 伺服器 / 資料中心供應鏈",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "AMD",
+        "Quanta"
+      ],
+      "importance": 5,
+      "summary_zh": "QCT Unveils Next-Generation QuantaGrid Servers Powered by AMD EPYC™ 9006 Series CPUs to Accelerate AI The National Law Review",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+    },
+    {
+      "id": "6ef7ecf3072ab3ef32fc",
+      "title": "How to Value Intel in 2026: Two Businesses, Two Completely Different Frameworks - TIKR.com",
+      "title_zh": "國際觀察：Intel的晶片設計相關動態",
+      "source": "Intel Foundry / AI Chips - Google News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOThpM2MtM1dZcjdBaEtDUy00UlV5Q0FORkdzUW8xX2ZnTlVZZWlucnFRT0Nia2FPVXR6TXM0cy0zaFJfdDhibXZGT1hKRnlaRjcwUHJROG1fY3RFV0t2RXpGTzVJVjRONWM4VXlxMHkxX2trZ3hyN2ROSEpTMkhJWkg0NEdWdVBYUmNGSkRR?oc=5",
+      "published": "Fri, 21 Aug 2026 12:29:39 GMT",
+      "region": "international",
+      "segments": [
+        "晶片設計",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "Intel"
+      ],
+      "importance": 3,
+      "summary_zh": "How to Value Intel in 2026: Two Businesses, Two Completely Different Frameworks TIKR.com",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+    },
+    {
+      "id": "c52e19104a350e639330",
+      "title": "Delta debuts AI dual-arm cobot solution - Taipei Times",
+      "title_zh": "台灣觀察：未分類 / 待人工確認的未分類 / 待人工確認相關動態",
+      "source": "Taiwan AI Server Supply Chain - Google News",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42N3J0MXBQOUpmQ2dYUnNhTmJHRmRWcmsyb1pwOTZrRjRueHhtQXcweDV3WHZyVE51djdZSmxmU2x2cWlyZ01DajlseUFTQ1NiUTVybExDeFJYc085SnlwVmhGZTk4RlhNSm9WNHMwRFlzVUxkbFE?oc=5",
+      "published": "Thu, 20 Aug 2026 16:00:00 GMT",
+      "region": "taiwan",
+      "segments": [
+        "未分類 / 待人工確認"
+      ],
+      "companies": [],
+      "importance": 1,
+      "summary_zh": "Delta debuts AI dual-arm cobot solution Taipei Times",
+      "investment_takeaway": "投資觀察重點在台灣供應鏈是否取得 AI 伺服器、封裝、測試或零組件增量訂單。"
+    },
     {
       "id": "dd3cf3769795d73dfe88",
       "title": "Is It Worth Investing in TSMC (TSM) Based on Wall Street's Bullish Views? - Yahoo Finance",
@@ -663,6 +785,22 @@
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     },
     {
+      "id": "61deb748315c1eb4a3f9",
+      "title": "TAIEX briefly tops 46,000 points - Taiwan News",
+      "title_zh": "台灣觀察：政策 / 地緣政治的政策 / 地緣政治相關動態",
+      "source": "Taiwan AI Server Supply Chain - Google News",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pb1Q3aHFyZEtmaXYwbkNBXzRpbEZJZlV6aExxd2g5bmRqT0xEVlpmWFBXSVNUXzlNYW9TaG5QaGZsREVLZHZiak9LemhwREtJNVdsMTFxbVc?oc=5",
+      "published": "Mon, 17 Aug 2026 09:14:00 GMT",
+      "region": "taiwan",
+      "segments": [
+        "政策 / 地緣政治"
+      ],
+      "companies": [],
+      "importance": 2,
+      "summary_zh": "TAIEX briefly tops 46,000 points Taiwan News",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+    },
+    {
       "id": "4f1eb8d4b49b69ca98fa",
       "title": "Top 4 CSPs boost AI infrastructure; volume ramping of 800G switches fuels Accton's growth",
       "title_zh": "台灣觀察：Microsoft、Amazon的CSP / 雲端需求相關動態",
@@ -741,22 +879,6 @@
       "importance": 3,
       "summary_zh": "Cambricon Technologies chairman and president Chen Tian-shi said the company's sixth-generation AI processor and instruction set remain under development, with the next-generation platform targeting large-model training and inference while improving programmab",
       "investment_takeaway": "投資觀察重點在 CoWoS/先進封裝產能、載板與測試稼動率，這通常是 AI 加速器供給瓶頸。"
-    },
-    {
-      "id": "61deb748315c1eb4a3f9",
-      "title": "TAIEX briefly tops 46,000 points - Taiwan News",
-      "title_zh": "台灣觀察：政策 / 地緣政治的政策 / 地緣政治相關動態",
-      "source": "Taiwan AI Server Supply Chain - Google News",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pb1Q3aHFyZEtmaXYwbkNBXzRpbEZJZlV6aExxd2g5bmRqT0xEVlpmWFBXSVNUXzlNYW9TaG5QaGZsREVLZHZiak9LemhwREtJNVdsMTFxbVc?oc=5",
-      "published": "Mon, 17 Aug 2026 09:14:00 GMT",
-      "region": "taiwan",
-      "segments": [
-        "政策 / 地緣政治"
-      ],
-      "companies": [],
-      "importance": 2,
-      "summary_zh": "TAIEX briefly tops 46,000 points Taiwan News",
-      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     },
     {
       "id": "21f513e4e74e58e7b78e",
@@ -2308,6 +2430,25 @@
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     },
     {
+      "id": "a6f7223891c8eec743aa",
+      "title": "TSMC 2025 Sustainability Report Now Available Online - TSMC",
+      "title_zh": "台灣觀察：TSMC的晶圓代工 / 製程相關動態",
+      "source": "TSMC / CoWoS / Advanced Packaging - Google News",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04SVdSYWxEb3I4NFlCWjU5d0gxNFBjOUFWeEFTa0twWEdmak1RVUNzN1NYNy1McXU2dU51ODFqM1ZESzJUZXdxb3FMMFdadEZo?oc=5",
+      "published": "Wed, 19 Aug 2026 07:00:00 GMT",
+      "region": "taiwan",
+      "segments": [
+        "晶圓代工 / 製程",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "TSMC"
+      ],
+      "importance": 4,
+      "summary_zh": "TSMC 2025 Sustainability Report Now Available Online TSMC",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+    },
+    {
       "id": "e466cd90008a4db1482e",
       "title": "Going with the Flow(s): Distinct Clusters Target Individuals of Interest to Russia",
       "title_zh": "國際觀察：Microsoft、Google的CSP / 雲端需求相關動態",
@@ -2354,25 +2495,6 @@
       "investment_takeaway": "投資觀察重點在 CSP CapEx、AI 叢集擴建，以及 GPU/ASIC 需求是否轉成供應鏈訂單。"
     },
     {
-      "id": "a6f7223891c8eec743aa",
-      "title": "TSMC 2025 Sustainability Report Now Available Online - TSMC",
-      "title_zh": "台灣觀察：TSMC的晶圓代工 / 製程相關動態",
-      "source": "TSMC / CoWoS / Advanced Packaging - Google News",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04SVdSYWxEb3I4NFlCWjU5d0gxNFBjOUFWeEFTa0twWEdmak1RVUNzN1NYNy1McXU2dU51ODFqM1ZESzJUZXdxb3FMMFdadEZo?oc=5",
-      "published": "Wed, 19 Aug 2026 07:00:00 GMT",
-      "region": "taiwan",
-      "segments": [
-        "晶圓代工 / 製程",
-        "政策 / 地緣政治"
-      ],
-      "companies": [
-        "TSMC"
-      ],
-      "importance": 4,
-      "summary_zh": "TSMC 2025 Sustainability Report Now Available Online TSMC",
-      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
       "id": "ce348fecee82903a67d4",
       "title": "TSMC vs. GlobalFoundries: Which Foundry Stock Is the Better Buy? - Yahoo Finance",
       "title_zh": "台灣觀察：TSMC的晶圓代工 / 製程相關動態",
@@ -2413,110 +2535,6 @@
       "importance": 4,
       "summary_zh": "Broadcom Holds Steady as ARK Buys the Dip, Intel Slips, AMD Eases After Google's Marvell Chip Deal 24/7 Wall St.",
       "investment_takeaway": "投資觀察重點在 CoWoS/先進封裝產能、載板與測試稼動率，這通常是 AI 加速器供給瓶頸。"
-    },
-    {
-      "id": "0557db4024a130d09aa7",
-      "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support",
-      "title_zh": "國際觀察：CSP / 雲端需求、政策 / 地緣政治的CSP / 雲端需求相關動態",
-      "source": "NVIDIA Newsroom",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/",
-      "published": "Thu, 20 Aug 2026 13:00:24 GMT",
-      "region": "international",
-      "segments": [
-        "CSP / 雲端需求",
-        "政策 / 地緣政治"
-      ],
-      "companies": [],
-      "importance": 3,
-      "summary_zh": "It’s a new way into the cloud. GeForce NOW welcomes Firefox support to the cloud, opening up another way to jump into high-performance PC gaming straight from the browser, starting today. Whether on a school laptop or everyday PC, it’s now even easier to play ",
-      "investment_takeaway": "投資觀察重點在 CSP CapEx、AI 叢集擴建，以及 GPU/ASIC 需求是否轉成供應鏈訂單。"
-    },
-    {
-      "id": "b59993e9fa350b31b4e0",
-      "title": "Tata chairman’s shock exit move puts JLR owner's bets on chips, iPhones and Air India at risk - CNBC",
-      "title_zh": "台灣觀察：未分類 / 待人工確認的未分類 / 待人工確認相關動態",
-      "source": "Taiwan AI Server Supply Chain - Google News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVkJTeVNMWk9ySVF5cF9lWmZEd1VDRUNDNUpSUnFZSWRERDhRQzlYT3dSMDVodUxFOU0ya1BaOFp2TXNkLS1PR1NpWEtaNGtVRlNCcXJYc21SN1FQcGt0alBrRzl3VG5qb0diRmRBMW5VSThLVWxYV2J1bGlZU0h4R1FOcVE3TGNkWmxDWHI3bWszbHlvZUpsNkYzVUtOSXJidWfSAacBQVVfeXFMUC1VNDJIcDlUcjFVMkF3XzBlaW14UE9fejJoZGozcG51UWs3eE1OV1IwZDRfcktMVFljaWw2dF9ndFZPWkxJUFdvUHE1aFROczR2dGNQTjNkUzlNeUQ1RUIzREdGSE1DSzROaUZJMXUxLUxnTTRBelFfZXBpdGJzYmZNREUtc0t1Y3ZTdGRZTnN3ek81ajJ5TEt1cnNTRTZ3LXptODNjMDg?oc=5",
-      "published": "Fri, 14 Aug 2026 07:21:28 GMT",
-      "region": "taiwan",
-      "segments": [
-        "未分類 / 待人工確認"
-      ],
-      "companies": [],
-      "importance": 1,
-      "summary_zh": "Tata chairman’s shock exit move puts JLR owner's bets on chips, iPhones and Air India at risk CNBC",
-      "investment_takeaway": "投資觀察重點在台灣供應鏈是否取得 AI 伺服器、封裝、測試或零組件增量訂單。"
-    },
-    {
-      "id": "153803b3f09912e8f4fe",
-      "title": "Mitsubishi to launch Foxconn-made BEV in Australia, New Zealand - Just Auto",
-      "title_zh": "台灣觀察：Foxconn的AI 伺服器 / 資料中心供應鏈相關動態",
-      "source": "Taiwan AI Server Supply Chain - Google News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYWpuNHA3eGtQNmRpb3lIaWpBV3g5Wmhjcmc5clNPMENXeHdaYUpVNEZGZ0pyRHUxeXFaMGRTX1VIRmFyZnZkUnVWRVBCa2xsZnhnWk9JRGNDdW5sVXhoay01aDB0VThhYWMtMlBhWVV4TFVQc19SU2xWZ3NBVEhKdXVhU0FtWmcydG9jWjBoZGk4bVdxd1VaYlFR?oc=5",
-      "published": "Tue, 18 Aug 2026 09:07:31 GMT",
-      "region": "taiwan",
-      "segments": [
-        "AI 伺服器 / 資料中心供應鏈",
-        "政策 / 地緣政治"
-      ],
-      "companies": [
-        "Foxconn"
-      ],
-      "importance": 3,
-      "summary_zh": "Mitsubishi to launch Foxconn-made BEV in Australia, New Zealand Just Auto",
-      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
-      "id": "8977d5481a1d761402f6",
-      "title": "Taiwan shares end slightly higher on reduced turnover - Focus Taiwan",
-      "title_zh": "台灣觀察：政策 / 地緣政治的政策 / 地緣政治相關動態",
-      "source": "Taiwan AI Server Supply Chain - Google News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TVjNfdGVUdU1xd2o3SHZva19GY25YZ1lkMHFJQ2NRamsxbHYyd0NVRlk3Vm1scTBjbERsUDhVMU9IUU5VZXNsQm1zRjVnTG9pbWdLbXE3dw?oc=5",
-      "published": "Mon, 17 Aug 2026 08:49:00 GMT",
-      "region": "taiwan",
-      "segments": [
-        "政策 / 地緣政治"
-      ],
-      "companies": [],
-      "importance": 3,
-      "summary_zh": "Taiwan shares end slightly higher on reduced turnover Focus Taiwan",
-      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
-      "id": "e2509a366520851c2285",
-      "title": "Google's China shift and the battle over AI models - Nikkei Asia",
-      "title_zh": "台灣觀察：Google的政策 / 地緣政治相關動態",
-      "source": "Taiwan AI Server Supply Chain - Google News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNk9YQmdGcEl1NGR5M3BQXzlrMTZheGZNYjJyOEc1endkYllGakVVcGZXa0FyTGJzMlVlaFQ4cTFJb0p5aDZJb1ZpZ0Y0QTRHbkgzY20zckp5LVBaMWVFLVFEZW5fMFZjcUhmbFlYMlRCYVZlSHNFZmNUbGJjUjRKTW1SeHF4RnpQMG5z?oc=5",
-      "published": "Thu, 20 Aug 2026 08:41:00 GMT",
-      "region": "taiwan",
-      "segments": [
-        "政策 / 地緣政治"
-      ],
-      "companies": [
-        "Google"
-      ],
-      "importance": 2,
-      "summary_zh": "Google's China shift and the battle over AI models Nikkei Asia",
-      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
-      "id": "a542a271e52e162de81f",
-      "title": "Shikhar Malhotra named chairman of HCL-Foxconn chip venture as Jewar plant advances - digitimes",
-      "title_zh": "台灣觀察：Foxconn的AI 伺服器 / 資料中心供應鏈相關動態",
-      "source": "Taiwan AI Server Supply Chain - Google News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOazFDYWpfZ3FHSU5QRGRob19lZFlaZVFtdjRfUi1wSHNIUVFYOXFValJpcVdnWjU4Nk9BSHpsNkwtb2NsYjc2aks3TTN3TGZMNGh6VlRhV0JhXzZlZk1TVk11aFBXUjZfcVNTYk1jWjFHa29VcGNCSGdjTEFwT3FocTRNR0l2T09qNEVkNGZQWFhCLVlwSTBBcmxOb0s?oc=5",
-      "published": "Wed, 19 Aug 2026 00:45:05 GMT",
-      "region": "taiwan",
-      "segments": [
-        "AI 伺服器 / 資料中心供應鏈"
-      ],
-      "companies": [
-        "Foxconn"
-      ],
-      "importance": 2,
-      "summary_zh": "Shikhar Malhotra named chairman of HCL-Foxconn chip venture as Jewar plant advances digitimes",
-      "investment_takeaway": "投資觀察重點在台灣供應鏈是否取得 AI 伺服器、封裝、測試或零組件增量訂單。"
     }
   ]
 }
