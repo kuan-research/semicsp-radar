@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T11:19:34+00:00",
+  "generated_at": "2026-08-22T11:45:18+00:00",
   "date": "2026-08-22",
   "market": {
     "indices": [
@@ -7,13 +7,13 @@
         "symbol": "^TWII",
         "name": "台灣加權指數",
         "group": "大盤",
-        "price": 45224.3,
+        "price": 45224.29,
         "previous_close": 45857.27,
-        "change": -632.9699999999939,
-        "change_percent": -1.38030458420223,
+        "change": -632.9799999999959,
+        "change_percent": -1.3803263909953556,
         "currency": "TWD",
         "market_state": "",
-        "updated_at": 1787290200,
+        "updated_at": 1787290395,
         "plain_read": "台灣加權指數小幅下跌，代表短線買盤較保守。"
       }
     ],
@@ -177,6 +177,13 @@
     ],
     "news": [
       {
+        "title": "台股飆漲害慘保健食品股？這兩間跌到低檔 專家曝1玄學",
+        "source": "Yahoo 股市 - 台股動態",
+        "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E9%A3%86%E6%BC%B2%E5%AE%B3%E6%85%98%E4%BF%9D%E5%81%A5%E9%A3%9F%E5%93%81%E8%82%A1-%E9%80%99%E5%85%A9%E9%96%93%E8%B7%8C%E5%88%B0%E4%BD%8E%E6%AA%94-%E5%B0%88%E5%AE%B6%E6%9B%9D1%E7%8E%84%E5%AD%B8-113000932.html",
+        "published": "Sat, 22 Aug 2026 11:30:00 GMT",
+        "summary": "台股近期漲勢凌厲，財經專家葉育碩卻觀察到保健食品類股表現疲軟，如葡萄王、大研生醫股價皆處於相對低點。葉育碩提出「保健焦慮」理論，推測因股市大漲帶來財富效果，投資人心情變好、壓力降低，導致對健康保養的焦"
+      },
+      {
         "title": "台股周線翻黑 誰在逆勢吸金？3飆股狂噴60% 「三大水手」接棒成新主流",
         "source": "Yahoo 股市 - 台股動態",
         "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E5%91%A8%E7%B7%9A%E7%BF%BB%E9%BB%91-%E8%AA%B0%E5%9C%A8%E9%80%86%E5%8B%A2%E5%90%B8%E9%87%91-3%E9%A3%86%E8%82%A1%E7%8B%82%E5%99%B460-%E4%B8%89%E5%A4%A7%E6%B0%B4%E6%89%8B-%E6%8E%A5%E6%A3%92%E6%88%90%E6%96%B0%E4%B8%BB%E6%B5%81-085301998.html",
@@ -210,13 +217,6 @@
         "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1-%E9%80%B1%E8%B7%8C586%E9%BB%9E%E5%B8%82%E5%80%BC%E8%92%B8%E7%99%BC%E8%BF%911-9%E5%85%86-%E8%88%AA%E9%81%8B%E9%80%86%E5%8B%A2%E5%A4%A7%E6%BC%B213-063800845.html",
         "published": "Sat, 22 Aug 2026 06:38:00 GMT",
         "summary": "【記者趙筱文／台北報導】台股本週震盪走低。根據臺灣證券交易所統計，加權指數8月21日收在45,224.29點，較前一週8月14日的45,811.01點下跌586.72點，週跌幅1.28%；全體上市公司"
-      },
-      {
-        "title": "《戲說》男星成「演藝圈股神」 13度買這張股票狂賺302萬！進場第一天就賺10萬信心大增、連5年現身股東會",
-        "source": "Yahoo 股市 - 台股動態",
-        "url": "https://tw.news.yahoo.com/%E6%88%B2%E8%AA%AA-%E7%94%B7%E6%98%9F%E6%88%90-%E6%BC%94%E8%97%9D%E5%9C%88%E8%82%A1%E7%A5%9E-13%E5%BA%A6%E8%B2%B7%E9%80%99%E5%BC%B5%E8%82%A1%E7%A5%A8%E7%8B%82%E8%B3%BA302%E8%90%AC-%E9%80%B2%E5%A0%B4%E7%AC%AC-055800873.html",
-        "published": "Sat, 22 Aug 2026 05:58:00 GMT",
-        "summary": "曾演出《戲說台灣》、《玫瑰瞳鈴眼》等本土類戲劇的呂嘉興號稱「演藝圈股神」，自曝買進大立光獲利32萬多元已實現損益截圖，及公開買進13次大立光獲利302萬元的交易明細對帳單，引發網友討論，而他自豪買進1"
       },
       {
         "title": "最後一隻白老鼠？ 26萬散戶昨FOMO進場淪住套房 分析師：健康換手",
@@ -662,22 +662,6 @@
       "investment_takeaway": "投資觀察重點在台灣供應鏈是否取得 AI 伺服器、封裝、測試或零組件增量訂單。"
     },
     {
-      "id": "4972bd43f1c62e966989",
-      "title": "Taiwan's Delta Electronics expands into humanoid robot market - Taiwan News",
-      "title_zh": "台灣觀察：政策 / 地緣政治的政策 / 地緣政治相關動態",
-      "source": "Taiwan AI Server Supply Chain - Google News",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zQnlJeVNxN3cwSS14ajUwdGUzSzlqQTdCVmppUTJPV1Y2TU9BZ1VpNXp2UUJpLUNKcGFjQ05nQ0RKYzhrVUNiOEtyZ0RCNzVZVGx1UTlUUDg?oc=5",
-      "published": "Thu, 20 Aug 2026 07:26:00 GMT",
-      "region": "taiwan",
-      "segments": [
-        "政策 / 地緣政治"
-      ],
-      "companies": [],
-      "importance": 2,
-      "summary_zh": "Taiwan's Delta Electronics expands into humanoid robot market Taiwan News",
-      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
       "id": "f2074827dbfdc53be632",
       "title": "TSMC Rises Ahead of Nvidia's Critical AI Demand Test - GuruFocus",
       "title_zh": "台灣觀察：NVIDIA、TSMC的晶片設計相關動態",
@@ -712,6 +696,22 @@
       "companies": [],
       "importance": 2,
       "summary_zh": "Taiwanese company announces $275 million investment, 2,000 jobs in Socorro El Paso Inc.",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+    },
+    {
+      "id": "4972bd43f1c62e966989",
+      "title": "Taiwan's Delta Electronics expands into humanoid robot market - Taiwan News",
+      "title_zh": "台灣觀察：政策 / 地緣政治的政策 / 地緣政治相關動態",
+      "source": "Taiwan AI Server Supply Chain - Google News",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zQnlJeVNxN3cwSS14ajUwdGUzSzlqQTdCVmppUTJPV1Y2TU9BZ1VpNXp2UUJpLUNKcGFjQ05nQ0RKYzhrVUNiOEtyZ0RCNzVZVGx1UTlUUDg?oc=5",
+      "published": "Thu, 20 Aug 2026 07:26:00 GMT",
+      "region": "taiwan",
+      "segments": [
+        "政策 / 地緣政治"
+      ],
+      "companies": [],
+      "importance": 2,
+      "summary_zh": "Taiwan's Delta Electronics expands into humanoid robot market Taiwan News",
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     },
     {
@@ -1222,22 +1222,6 @@
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     },
     {
-      "id": "4aff9ede4765090cf891",
-      "title": "Super Micro Just Removed a Major Investor Risk - TradingView",
-      "title_zh": "台灣觀察：政策 / 地緣政治的政策 / 地緣政治相關動態",
-      "source": "Taiwan AI Server Supply Chain - Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaE1LSzY2VnVBRmdUMmM1ZmlqNTNhdDVwQThRZmpiWXY0akF0TFhKVmtTSXlTSVltb3YwYUUtSGVaSTdYS3d4UWw4cXpXMFFpYm91QThlYmpaUWtNcjR4TTd4VEpWdGhyN2hxN21XeXVGUVlBRS05dGJpdjdrYzFISGJOVllfRHN4OFkxejd0WEZwTXAwaHVDNGJCM091WGVxeVBXTVc1anVkdw?oc=5",
-      "published": "Thu, 20 Aug 2026 18:20:27 GMT",
-      "region": "taiwan",
-      "segments": [
-        "政策 / 地緣政治"
-      ],
-      "companies": [],
-      "importance": 2,
-      "summary_zh": "Super Micro Just Removed a Major Investor Risk TradingView",
-      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
       "id": "dd3cf3769795d73dfe88",
       "title": "Is It Worth Investing in TSMC (TSM) Based on Wall Street's Bullish Views? - Yahoo Finance",
       "title_zh": "台灣觀察：TSMC、ASE的晶圓代工 / 製程相關動態",
@@ -1276,6 +1260,22 @@
       "importance": 3,
       "summary_zh": "Intel and AMD Fall 4%, NVIDIA Unchanged as Chip Selloff Defies Bond Yield Relief Yahoo Finance",
       "investment_takeaway": "投資觀察重點在此消息是否影響需求能見度、產能瓶頸、價格或供應鏈議價能力。"
+    },
+    {
+      "id": "4aff9ede4765090cf891",
+      "title": "Super Micro Just Removed a Major Investor Risk - TradingView",
+      "title_zh": "台灣觀察：政策 / 地緣政治的政策 / 地緣政治相關動態",
+      "source": "Taiwan AI Server Supply Chain - Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaE1LSzY2VnVBRmdUMmM1ZmlqNTNhdDVwQThRZmpiWXY0akF0TFhKVmtTSXlTSVltb3YwYUUtSGVaSTdYS3d4UWw4cXpXMFFpYm91QThlYmpaUWtNcjR4TTd4VEpWdGhyN2hxN21XeXVGUVlBRS05dGJpdjdrYzFISGJOVllfRHN4OFkxejd0WEZwTXAwaHVDNGJCM091WGVxeVBXTVc1anVkdw?oc=5",
+      "published": "Thu, 20 Aug 2026 18:20:27 GMT",
+      "region": "taiwan",
+      "segments": [
+        "政策 / 地緣政治"
+      ],
+      "companies": [],
+      "importance": 2,
+      "summary_zh": "Super Micro Just Removed a Major Investor Risk TradingView",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     },
     {
       "id": "22e968efb5990a723383",
