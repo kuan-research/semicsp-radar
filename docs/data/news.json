@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T23:21:13+00:00",
+  "generated_at": "2026-08-24T23:46:14+00:00",
   "date": "2026-08-24",
   "market": {
     "indices": [
@@ -177,6 +177,13 @@
     ],
     "news": [
       {
+        "title": "市場準備迎接輝達財報 美股漲跌互見、台積電ADR跌2.11％",
+        "source": "Yahoo 股市 - 台股動態",
+        "url": "https://tw.news.yahoo.com/%E5%B8%82%E5%A0%B4%E6%BA%96%E5%82%99%E8%BF%8E%E6%8E%A5%E8%BC%9D%E9%81%94%E8%B2%A1%E5%A0%B1-%E7%BE%8E%E8%82%A1%E6%BC%B2%E8%B7%8C%E4%BA%92%E8%A6%8B-%E5%8F%B0%E7%A9%8D%E9%9B%BBadr%E8%B7%8C2-11-230931276.html",
+        "published": "Mon, 24 Aug 2026 23:09:31 GMT",
+        "summary": "AI晶片龍頭輝達即將公布財報，牽動美股科技股後市表現。投資人聚焦輝達財報，並準備迎接備受關注的通膨數據報告，美股主要指數星期一大多收低，半導體和記憶體類股遭到拋售。（請聽ＡＩ報導）。 輝達將"
+      },
+      {
         "title": "國際股市拉回，台股跌破季線",
         "source": "Yahoo 股市 - 台股動態",
         "url": "https://tw.stock.yahoo.com/news/%E5%9C%8B%E9%9A%9B%E8%82%A1%E5%B8%82%E6%8B%89%E5%9B%9E-%E5%8F%B0%E8%82%A1%E8%B7%8C%E7%A0%B4%E5%AD%A3%E7%B7%9A-230921638.html",
@@ -210,13 +217,6 @@
         "url": "https://tw.news.yahoo.com/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%93%A1%E5%B7%A5%E8%96%AA%E9%85%AC%E4%B8%AD%E4%BD%8D%E6%95%B8295%E8%90%AC-%E5%89%B5%E9%AB%98-223256882.html",
         "published": "Mon, 24 Aug 2026 22:32:56 GMT",
         "summary": "台積電於最新年度永續報告書揭露，去年全球員工總數首度突破9萬人，創新高，年增約8.3%，去年員工總薪酬中位數295萬元，同寫新猷，年增約二成。去年全體員工離職率2.9% ，一年內新進員工離職率5.7%"
-      },
-      {
-        "title": "富邦金：台股AI基本面有撐",
-        "source": "Yahoo 股市 - 台股動態",
-        "url": "https://tw.news.yahoo.com/%E5%AF%8C%E9%82%A6%E9%87%91-%E5%8F%B0%E8%82%A1ai%E5%9F%BA%E6%9C%AC%E9%9D%A2%E6%9C%89%E6%92%90-222253130.html",
-        "published": "Mon, 24 Aug 2026 22:22:53 GMT",
-        "summary": "富邦金控昨（24）日召開第2季法說會，富邦金總經理韓蔚廷說，金控內部看好今年台灣經濟成長率飛越10%，展望台股，韓蔚廷認為，近來市場對消息更加敏感、波動可能放大，但是，AI基本面並未改變也有支撐，預期"
       },
       {
         "title": "最後一隻白老鼠？ 26萬散戶昨FOMO進場淪住套房 分析師：健康換手",
@@ -270,6 +270,26 @@
     "errors": []
   },
   "items": [
+    {
+      "id": "d435525d7371be267446",
+      "title": "Nvidia employee among nine charged in Taiwan over AI server smuggling to China - Newswav",
+      "title_zh": "台灣觀察：NVIDIA的晶片設計相關動態",
+      "source": "Taiwan AI Server Supply Chain - Google News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbnViRndZVENKc09MVW5rbXFibHhQZEl2clhtZ1AzSG1sWVRRbWZ3UnVHTGFNY25uckxKekw2cFRLUXNNTmp0aXp5NmVzTE9nV2Naakd6TnFLSFd5VUM2UndfUzdTOUhXUjdnSW1hNXBLOW1WQy1XajMwY1ptbFJqbjY2blB0cFJILUZhTUJUOUxyVW5yd3Z4XzR2OEZfWHd0dmlvZEE1aS0zLTJVWkhGMkJSLUd3WVE?oc=5",
+      "published": "Mon, 24 Aug 2026 11:27:21 GMT",
+      "region": "taiwan",
+      "segments": [
+        "晶片設計",
+        "AI 伺服器 / 資料中心供應鏈",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "importance": 5,
+      "summary_zh": "Nvidia employee among nine charged in Taiwan over AI server smuggling to China Newswav",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+    },
     {
       "id": "4b4adc6df237734d736a",
       "title": "Taiwan charges 9 over illegal AI server exports to China, including Nvidia and Super Micro staff - CT Insider",
@@ -369,26 +389,6 @@
       "investment_takeaway": "投資觀察重點在此消息是否影響需求能見度、產能瓶頸、價格或供應鏈議價能力。"
     },
     {
-      "id": "9b51c64533673003f0e7",
-      "title": "Taiwan charges 9 over illegal AI server exports to China, including Nvidia and Super Micro staff - The Batesville Daily Guard",
-      "title_zh": "台灣觀察：NVIDIA的晶片設計相關動態",
-      "source": "Taiwan AI Server Supply Chain - Google News",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOUlNadHhsUkxxOGlsenhpUjVmZlhva0VwSUo5RW16MUt4VzVFUGozdklEZ2FuWUFGZGZyN01kM2xkbVJINTZ1dkh1b25SZmNCWFBtRWNDNlJKWFp3NllyOXpOMDFWNGhUb1RNSlczcGRFMTVzOFF5QjcwUDhSY1FBdlNUQmFLRFJHVDJOZzNxeGFtc1ZXeUM0R2RiVXNUNFZVTHY1RXA3bmNjVVBYZmo0MzB2Z1RPZTVZVDFGZl92aXZwcXFwcnowSHc5M1didkZQRHotY2h3SVFicm5HTVNDMUZkTDlpTFNWblhUNl8yd2xJc3h1UW4xYjJ6ZElRYkJ0eEJPY29jaXR2dw?oc=5",
-      "published": "Mon, 24 Aug 2026 19:33:43 GMT",
-      "region": "taiwan",
-      "segments": [
-        "晶片設計",
-        "AI 伺服器 / 資料中心供應鏈",
-        "政策 / 地緣政治"
-      ],
-      "companies": [
-        "NVIDIA"
-      ],
-      "importance": 5,
-      "summary_zh": "Taiwan charges 9 over illegal AI server exports to China, including Nvidia and Super Micro staff The Batesville Daily Guard",
-      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
       "id": "561c08507a89bfe4e4b4",
       "title": "Should Intel (INTC) Fear In House AI Chips From Data Center Customers? - simplywall.st",
       "title_zh": "國際觀察：Intel的CSP / 雲端需求相關動態",
@@ -426,6 +426,26 @@
       ],
       "importance": 5,
       "summary_zh": "Taiwan charges 9 over illegal AI server exports to China, including Nvidia and Super Micro staff CT Insider",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+    },
+    {
+      "id": "9b51c64533673003f0e7",
+      "title": "Taiwan charges 9 over illegal AI server exports to China, including Nvidia and Super Micro staff - The Batesville Daily Guard",
+      "title_zh": "台灣觀察：NVIDIA的晶片設計相關動態",
+      "source": "Taiwan AI Server Supply Chain - Google News",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOUlNadHhsUkxxOGlsenhpUjVmZlhva0VwSUo5RW16MUt4VzVFUGozdklEZ2FuWUFGZGZyN01kM2xkbVJINTZ1dkh1b25SZmNCWFBtRWNDNlJKWFp3NllyOXpOMDFWNGhUb1RNSlczcGRFMTVzOFF5QjcwUDhSY1FBdlNUQmFLRFJHVDJOZzNxeGFtc1ZXeUM0R2RiVXNUNFZVTHY1RXA3bmNjVVBYZmo0MzB2Z1RPZTVZVDFGZl92aXZwcXFwcnowSHc5M1didkZQRHotY2h3SVFicm5HTVNDMUZkTDlpTFNWblhUNl8yd2xJc3h1UW4xYjJ6ZElRYkJ0eEJPY29jaXR2dw?oc=5",
+      "published": "Mon, 24 Aug 2026 19:33:43 GMT",
+      "region": "taiwan",
+      "segments": [
+        "晶片設計",
+        "AI 伺服器 / 資料中心供應鏈",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "importance": 5,
+      "summary_zh": "Taiwan charges 9 over illegal AI server exports to China, including Nvidia and Super Micro staff The Batesville Daily Guard",
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     },
     {
@@ -484,26 +504,6 @@
       ],
       "importance": 5,
       "summary_zh": "Taiwan charges 9 over illegal AI server exports to China, including Nvidia and Super Micro staff The Spec",
-      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
-      "id": "8603f02d19eff1458c7a",
-      "title": "Taiwan charges 9 over illegal AI server exports to China, including Nvidia and Super Micro staffers - PBS",
-      "title_zh": "台灣觀察：NVIDIA的晶片設計相關動態",
-      "source": "Taiwan AI Server Supply Chain - Google News",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNi1qaXh2TU1uMjdEZVEzd3VDZHM4TWEyYUpRbnFBaXdTUmVjVlFENGU3ZmxCT3NZLXhkakVwXzU5NmRkRl9Lc0tWNkQyTXpjQjZoSDdrcElnODhwR0wwcV9yeEZhZkZrd1hSODJBVGlCclU5UzdnQ1VGeWdMU0JaUXhvRHc2WjBoQ3ljek1uY3FXelhfNTJPZXFtUGhSa01ENnNYTmNSR3VjSktlN002NjBTVlpqYUxmTHhqQ3hWLUkwdXZlaWNiemdXLUJwQdIB0wFBVV95cUxONHQxVXp4OWZFSWR1UlVfcHRTRnNmdG9DMjdnT0stLXE4MTF3NzljZGFBSUNPMHR1LXRyaW80MDdIRGpaX1ZJbDFTWjQ5WGtFSF9BSnZ1ZUdta3QtRl8yUlo2TGxtRHJ4bE13MDBGVVdiQW9Da2VGc1dXcW1taUdGZmdIQnR3d2hkSFpIQUNhT283VTNxX0RyalNRM1FBcjRXQVJFNXRpLXpPYWVheXhjaGhTbmVNeHkyYmlPVk9FRnBQcGF0ZDhJOVhrNk9jSnJHUjFz?oc=5",
-      "published": "Mon, 24 Aug 2026 20:20:37 GMT",
-      "region": "taiwan",
-      "segments": [
-        "晶片設計",
-        "AI 伺服器 / 資料中心供應鏈",
-        "政策 / 地緣政治"
-      ],
-      "companies": [
-        "NVIDIA"
-      ],
-      "importance": 5,
-      "summary_zh": "Taiwan charges 9 over illegal AI server exports to China, including Nvidia and Super Micro staffers PBS",
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     },
     {
@@ -600,6 +600,26 @@
       ],
       "importance": 5,
       "summary_zh": "Taiwan charges 9 over illegal AI server exports to China, including Nvidia and Super Micro staff Greenwich Time",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+    },
+    {
+      "id": "8603f02d19eff1458c7a",
+      "title": "Taiwan charges 9 over illegal AI server exports to China, including Nvidia and Super Micro staffers - PBS",
+      "title_zh": "台灣觀察：NVIDIA的晶片設計相關動態",
+      "source": "Taiwan AI Server Supply Chain - Google News",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNi1qaXh2TU1uMjdEZVEzd3VDZHM4TWEyYUpRbnFBaXdTUmVjVlFENGU3ZmxCT3NZLXhkakVwXzU5NmRkRl9Lc0tWNkQyTXpjQjZoSDdrcElnODhwR0wwcV9yeEZhZkZrd1hSODJBVGlCclU5UzdnQ1VGeWdMU0JaUXhvRHc2WjBoQ3ljek1uY3FXelhfNTJPZXFtUGhSa01ENnNYTmNSR3VjSktlN002NjBTVlpqYUxmTHhqQ3hWLUkwdXZlaWNiemdXLUJwQdIB0wFBVV95cUxONHQxVXp4OWZFSWR1UlVfcHRTRnNmdG9DMjdnT0stLXE4MTF3NzljZGFBSUNPMHR1LXRyaW80MDdIRGpaX1ZJbDFTWjQ5WGtFSF9BSnZ1ZUdta3QtRl8yUlo2TGxtRHJ4bE13MDBGVVdiQW9Da2VGc1dXcW1taUdGZmdIQnR3d2hkSFpIQUNhT283VTNxX0RyalNRM1FBcjRXQVJFNXRpLXpPYWVheXhjaGhTbmVNeHkyYmlPVk9FRnBQcGF0ZDhJOVhrNk9jSnJHUjFz?oc=5",
+      "published": "Mon, 24 Aug 2026 20:20:37 GMT",
+      "region": "taiwan",
+      "segments": [
+        "晶片設計",
+        "AI 伺服器 / 資料中心供應鏈",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "importance": 5,
+      "summary_zh": "Taiwan charges 9 over illegal AI server exports to China, including Nvidia and Super Micro staffers PBS",
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     },
     {
@@ -760,23 +780,6 @@
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     },
     {
-      "id": "9b6811fa1e7de7616a84",
-      "title": "Taiwan AI Server - The Herald Journal",
-      "title_zh": "台灣觀察：AI 伺服器 / 資料中心供應鏈、政策 / 地緣政治的AI 伺服器 / 資料中心供應鏈相關動態",
-      "source": "Taiwan AI Server Supply Chain - Google News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMnlldTcyOWtWLWhWNWUzMDlZbW41QU5LTk5wejYxYXBPbWZ5SXBWSTFUTWV0WGFkVG1BVTBUamltYkdjX2VNdFdzWFg0UEtmaXNZdTZNWURuVjNyWjZnbzcwSlpiMGtXZVFHRDFYNFFIZ2hndERLQzd1MkRLTDMwbjg0ZE1aWjlKSGtGSGM3VWx0TG11Ym1oOA?oc=5",
-      "published": "Mon, 24 Aug 2026 19:30:44 GMT",
-      "region": "taiwan",
-      "segments": [
-        "AI 伺服器 / 資料中心供應鏈",
-        "政策 / 地緣政治"
-      ],
-      "companies": [],
-      "importance": 5,
-      "summary_zh": "Taiwan AI Server The Herald Journal",
-      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
       "id": "0c4b82b9968a3cd30e57",
       "title": "Taiwan charges 9 over illegal AI server exports to China, including Nvidia and Super Micro staff - Ottumwa Courier",
       "title_zh": "台灣觀察：NVIDIA的晶片設計相關動態",
@@ -794,6 +797,23 @@
       ],
       "importance": 5,
       "summary_zh": "Taiwan charges 9 over illegal AI server exports to China, including Nvidia and Super Micro staff Ottumwa Courier",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+    },
+    {
+      "id": "9b6811fa1e7de7616a84",
+      "title": "Taiwan AI Server - The Herald Journal",
+      "title_zh": "台灣觀察：AI 伺服器 / 資料中心供應鏈、政策 / 地緣政治的AI 伺服器 / 資料中心供應鏈相關動態",
+      "source": "Taiwan AI Server Supply Chain - Google News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMnlldTcyOWtWLWhWNWUzMDlZbW41QU5LTk5wejYxYXBPbWZ5SXBWSTFUTWV0WGFkVG1BVTBUamltYkdjX2VNdFdzWFg0UEtmaXNZdTZNWURuVjNyWjZnbzcwSlpiMGtXZVFHRDFYNFFIZ2hndERLQzd1MkRLTDMwbjg0ZE1aWjlKSGtGSGM3VWx0TG11Ym1oOA?oc=5",
+      "published": "Mon, 24 Aug 2026 19:30:44 GMT",
+      "region": "taiwan",
+      "segments": [
+        "AI 伺服器 / 資料中心供應鏈",
+        "政策 / 地緣政治"
+      ],
+      "companies": [],
+      "importance": 5,
+      "summary_zh": "Taiwan AI Server The Herald Journal",
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     },
     {
@@ -2494,22 +2514,6 @@
       "companies": [],
       "importance": 3,
       "summary_zh": "Notebook brands that rushed into Southeast Asia for manufacturing are moving production back to China, as the cost gap remains too wide and the impact of substitute tariffs has proved limited, according to supply chain sources. The shift is expected to affect ",
-      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
-      "id": "e88e178d5d1e4a186ac4",
-      "title": "Commentary: Robots go to work— highlight of the five robotic trends at WRC 2026",
-      "title_zh": "台灣觀察：政策 / 地緣政治的政策 / 地緣政治相關動態",
-      "source": "DIGITIMES Asia",
-      "url": "https://www.digitimes.com/news/a20260824PD207/2026-robotics-robot-data-beijing.html",
-      "published": "Mon, 24 Aug 2026 03:06:18 GMT",
-      "region": "taiwan",
-      "segments": [
-        "政策 / 地緣政治"
-      ],
-      "companies": [],
-      "importance": 2,
-      "summary_zh": "The 2026 World Robot Conference (WRC) opened in Beijing on August 19, and the biggest change on this year's show floor was not the larger number of humanoid robots — it was that robots started working on site. From coffee making and retail service to printed c",
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     }
   ]
