@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T04:37:22+00:00",
+  "generated_at": "2026-08-25T05:30:22+00:00",
   "date": "2026-08-25",
   "market": {
     "indices": [
@@ -7,14 +7,14 @@
         "symbol": "^TWII",
         "name": "台灣加權指數",
         "group": "大盤",
-        "price": 44695.17,
+        "price": 44919.09,
         "previous_close": 44719.35,
-        "change": -24.18000000000029,
-        "change_percent": -0.0540705533510668,
+        "change": 199.73999999999796,
+        "change_percent": 0.44665228810346747,
         "currency": "TWD",
         "market_state": "",
-        "updated_at": 1787631440,
-        "plain_read": "台灣加權指數變動不大，市場暫時沒有明確方向。"
+        "updated_at": 1787634620,
+        "plain_read": "台灣加權指數小幅上漲，屬於偏強但仍需觀察量能的走勢。"
       }
     ],
     "stocks": [
@@ -22,53 +22,53 @@
         "symbol": "2330.TW",
         "name": "台積電",
         "group": "晶圓代工",
-        "price": 2380.0,
+        "price": 2385.0,
         "previous_close": 2350.0,
-        "change": 30.0,
-        "change_percent": 1.276595744680851,
+        "change": 35.0,
+        "change_percent": 1.4893617021276597,
         "currency": "TWD",
         "market_state": "",
-        "updated_at": 1787631439,
+        "updated_at": 1787634613,
         "plain_read": "台積電小幅上漲，屬於偏強但仍需觀察量能的走勢。"
       },
       {
         "symbol": "2317.TW",
         "name": "鴻海",
         "group": "AI 伺服器 / 組裝",
-        "price": 241.0,
+        "price": 242.5,
         "previous_close": 245.0,
-        "change": -4.0,
-        "change_percent": -1.6326530612244898,
+        "change": -2.5,
+        "change_percent": -1.0204081632653061,
         "currency": "TWD",
         "market_state": "",
-        "updated_at": 1787631439,
-        "plain_read": "鴻海明顯下跌，短線風險意識升高，需留意是否為大盤或族群同步修正。"
+        "updated_at": 1787634618,
+        "plain_read": "鴻海小幅下跌，代表短線買盤較保守。"
       },
       {
         "symbol": "2382.TW",
         "name": "廣達",
         "group": "AI 伺服器 ODM",
-        "price": 324.5,
+        "price": 325.5,
         "previous_close": 331.0,
-        "change": -6.5,
-        "change_percent": -1.9637462235649545,
+        "change": -5.5,
+        "change_percent": -1.6616314199395772,
         "currency": "TWD",
         "market_state": "",
-        "updated_at": 1787631436,
+        "updated_at": 1787634604,
         "plain_read": "廣達明顯下跌，短線風險意識升高，需留意是否為大盤或族群同步修正。"
       },
       {
         "symbol": "6669.TW",
         "name": "緯穎",
         "group": "AI 伺服器 ODM",
-        "price": 6290.0,
+        "price": 6395.0,
         "previous_close": 6375.0,
-        "change": -85.0,
-        "change_percent": -1.3333333333333335,
+        "change": 20.0,
+        "change_percent": 0.3137254901960784,
         "currency": "TWD",
         "market_state": "",
-        "updated_at": 1787631434,
-        "plain_read": "緯穎小幅下跌，代表短線買盤較保守。"
+        "updated_at": 1787634583,
+        "plain_read": "緯穎小幅上漲，屬於偏強但仍需觀察量能的走勢。"
       },
       {
         "symbol": "3231.TW",
@@ -80,102 +80,116 @@
         "change_percent": -3.021978021978022,
         "currency": "TWD",
         "market_state": "",
-        "updated_at": 1787631428,
+        "updated_at": 1787634620,
         "plain_read": "緯創明顯下跌，短線風險意識升高，需留意是否為大盤或族群同步修正。"
       },
       {
         "symbol": "2454.TW",
         "name": "聯發科",
         "group": "IC 設計",
-        "price": 3680.0,
+        "price": 3705.0,
         "previous_close": 3845.0,
-        "change": -165.0,
-        "change_percent": -4.291287386215865,
+        "change": -140.0,
+        "change_percent": -3.6410923276983094,
         "currency": "TWD",
         "market_state": "",
-        "updated_at": 1787631432,
+        "updated_at": 1787634608,
         "plain_read": "聯發科明顯下跌，短線風險意識升高，需留意是否為大盤或族群同步修正。"
       },
       {
         "symbol": "3711.TW",
         "name": "日月光投控",
         "group": "封裝測試",
-        "price": 581.0,
+        "price": 587.0,
         "previous_close": 588.0,
-        "change": -7.0,
-        "change_percent": -1.1904761904761905,
+        "change": -1.0,
+        "change_percent": -0.17006802721088435,
         "currency": "TWD",
         "market_state": "",
-        "updated_at": 1787631440,
-        "plain_read": "日月光投控小幅下跌，代表短線買盤較保守。"
+        "updated_at": 1787634616,
+        "plain_read": "日月光投控變動不大，市場暫時沒有明確方向。"
       },
       {
         "symbol": "3037.TW",
         "name": "欣興",
         "group": "載板 / PCB",
-        "price": 1070.0,
+        "price": 1085.0,
         "previous_close": 1130.0,
-        "change": -60.0,
-        "change_percent": -5.3097345132743365,
+        "change": -45.0,
+        "change_percent": -3.982300884955752,
         "currency": "TWD",
         "market_state": "",
-        "updated_at": 1787631441,
+        "updated_at": 1787634618,
         "plain_read": "欣興明顯下跌，短線風險意識升高，需留意是否為大盤或族群同步修正。"
       },
       {
         "symbol": "8046.TW",
         "name": "南電",
         "group": "載板 / PCB",
-        "price": 1140.0,
+        "price": 1160.0,
         "previous_close": 1180.0,
-        "change": -40.0,
-        "change_percent": -3.389830508474576,
+        "change": -20.0,
+        "change_percent": -1.694915254237288,
         "currency": "TWD",
         "market_state": "",
-        "updated_at": 1787631440,
+        "updated_at": 1787634621,
         "plain_read": "南電明顯下跌，短線風險意識升高，需留意是否為大盤或族群同步修正。"
       },
       {
         "symbol": "3443.TW",
         "name": "創意",
         "group": "ASIC / 設計服務",
-        "price": 5425.0,
+        "price": 5490.0,
         "previous_close": 5295.0,
-        "change": 130.0,
-        "change_percent": 2.4551463644948064,
+        "change": 195.0,
+        "change_percent": 3.6827195467422094,
         "currency": "TWD",
         "market_state": "",
-        "updated_at": 1787631441,
+        "updated_at": 1787634586,
         "plain_read": "創意明顯上漲，代表市場今天對相關題材或資金面較樂觀。"
       },
       {
         "symbol": "3653.TW",
         "name": "健策",
         "group": "散熱 / 機構件",
-        "price": 5125.0,
+        "price": 5135.0,
         "previous_close": 5460.0,
-        "change": -335.0,
-        "change_percent": -6.135531135531135,
+        "change": -325.0,
+        "change_percent": -5.952380952380952,
         "currency": "TWD",
         "market_state": "",
-        "updated_at": 1787631341,
+        "updated_at": 1787634583,
         "plain_read": "健策明顯下跌，短線風險意識升高，需留意是否為大盤或族群同步修正。"
       },
       {
         "symbol": "2308.TW",
         "name": "台達電",
         "group": "電源 / 資料中心",
-        "price": 1675.0,
+        "price": 1690.0,
         "previous_close": 1765.0,
-        "change": -90.0,
-        "change_percent": -5.099150141643059,
+        "change": -75.0,
+        "change_percent": -4.2492917847025495,
         "currency": "TWD",
         "market_state": "",
-        "updated_at": 1787631435,
+        "updated_at": 1787634611,
         "plain_read": "台達電明顯下跌，短線風險意識升高，需留意是否為大盤或族群同步修正。"
       }
     ],
     "news": [
+      {
+        "title": "5G換手不再卡頓！愛立信聯發科攻LTM 中斷時間最高減40%",
+        "source": "Yahoo 股市 - 台股動態",
+        "url": "https://tw.news.yahoo.com/5g%E6%8F%9B%E6%89%8B%E4%B8%8D%E5%86%8D%E5%8D%A1%E9%A0%93-%E6%84%9B%E7%AB%8B%E4%BF%A1%E8%81%AF%E7%99%BC%E7%A7%91%E6%94%BBltm-%E4%B8%AD%E6%96%B7%E6%99%82%E9%96%93%E6%9C%80%E9%AB%98%E6%B8%9B40-050921848.html",
+        "published": "Tue, 25 Aug 2026 05:09:21 GMT",
+        "summary": "[Newtalk新聞] 愛立信攜手AT&T與聯發科技，在採用愛立信無線接取網路（RAN）技術的AT&T網路上，完成北美首例愛立信低延遲移動性（Low-latency Mobility）現網測試，支援第"
+      },
+      {
+        "title": "普發1萬不夠看？謝金河拋「新生兒每人1張台積電」 試算金額曝光：政府這筆錢剛好",
+        "source": "Yahoo 股市 - 台股動態",
+        "url": "https://tw.news.yahoo.com/%E6%99%AE%E7%99%BC1%E8%90%AC%E4%B8%8D%E5%A4%A0%E7%9C%8B-%E8%AC%9D%E9%87%91%E6%B2%B3%E6%8B%8B-%E6%96%B0%E7%94%9F%E5%85%92%E6%AF%8F%E4%BA%BA1%E5%BC%B5%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E8%A9%A6%E7%AE%97%E9%87%91%E9%A1%8D%E6%9B%9D%E5%85%89-%E6%94%BF%E5%BA%9C%E9%80%99%E7%AD%86%E9%8C%A2%E5%89%9B%E5%A5%BD-050336395.html",
+        "published": "Tue, 25 Aug 2026 05:03:36 GMT",
+        "summary": "總統賴清德日前宣布明年普發1萬元，引發不少討論。對此，財訊傳媒董事長謝金河在臉書發文表示，台灣今年經濟表現強勁，稅收有望突破4.5兆元，既然財政條件轉佳，明年除了普發1萬元現金，也可以考慮同步推出「新"
+      },
       {
         "title": "推基地台無感切換 愛立信攜手聯發科等完成北美測試",
         "source": "Yahoo 股市 - 台股動態",
@@ -191,32 +205,18 @@
         "summary": "[FTNN新聞網]記者張雅茹／綜合報導晶圓代工龍頭台積電（2330）最新永續報告書出爐，揭露員工薪酬最新數據。台積電2025年全球員工總體薪酬中位數（不含退休金..."
       },
       {
-        "title": "台股量縮「人走茶涼」？ 郭哲榮喊免驚：把握回檔好時機",
+        "title": "Pax Silica名單沒寫台灣 全球AI供應鏈卻繞不過台積電",
         "source": "Yahoo 股市 - 台股動態",
-        "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%87%8F%E7%B8%AE-%E4%BA%BA%E8%B5%B0%E8%8C%B6%E6%B6%BC-%E9%83%AD%E5%93%B2%E6%A6%AE%E5%96%8A%E5%85%8D%E9%A9%9A-%E6%8A%8A%E6%8F%A1%E5%9B%9E%E6%AA%94%E5%A5%BD%E6%99%82%E6%A9%9F-034500423.html",
-        "published": "Tue, 25 Aug 2026 03:45:00 GMT",
-        "summary": "台股近日呈現震盪格局，24日成交量也量縮至6294億元，相較6月高峰期逾1.5兆明顯萎縮、甚至接近腰斬。對此，摩爾證券投顧分析師郭哲榮表示，目前市場正處於「散戶退潮」階段，不過投資人不必過度恐慌，反而"
+        "url": "https://tw.news.yahoo.com/pax-silica%E5%90%8D%E5%96%AE%E6%B2%92%E5%AF%AB%E5%8F%B0%E7%81%A3-%E5%85%A8%E7%90%83ai%E4%BE%9B%E6%87%89%E9%8F%88%E5%8D%BB%E7%B9%9E%E4%B8%8D%E9%81%8E%E5%8F%B0%E7%A9%8D%E9%9B%BB-040212965.html",
+        "published": "Tue, 25 Aug 2026 04:02:12 GMT",
+        "summary": "《放言科技傳媒》跳脫傳統媒體框架，透過權威專欄寫作揭露新聞內幕；邀請年輕世代踴躍書寫；結合AI大數據，探討網路民意並提供網路服務，呈現媒體即科技的嶄新樣貌。以對話、真實、空間、寛容為前提，和讀者一起「"
       },
       {
-        "title": "【Hot台股】緯創盤中急拉5%又跳水！網喊「假拉大出貨」分析師：多空交戰拉回可買",
+        "title": "愛立信攜聯發科、AT&T，完成北美首例LTM實網試驗",
         "source": "Yahoo 股市 - 台股動態",
-        "url": "https://tw.stock.yahoo.com/news/%E3%80%90hot%E5%8F%B0%E8%82%A1%E3%80%91%E7%B7%AF%E5%89%B5%E7%9B%A4%E4%B8%AD%E6%80%A5%E6%8B%895%E5%8F%88%E8%B7%B3%E6%B0%B4%EF%BC%81%E7%B6%B2%E5%96%8A%E3%80%8C%E5%81%87%E6%8B%89%E5%A4%A7%E5%87%BA%E8%B2%A8%E3%80%8D%E5%88%86%E6%9E%90%E5%B8%AB%EF%BC%9A%E5%A4%9A%E7%A9%BA%E4%BA%A4%E6%88%B0%E6%8B%89%E5%9B%9E%E5%8F%AF%E8%B2%B7-034222733.html",
-        "published": "Tue, 25 Aug 2026 03:42:22 GMT",
-        "summary": "今日社群台股最Hot議題 「緯創怎麼噴了」、「緯創又有什麼利多了」、「緯創這麼好玩喔」、「緯創是德州挖到石油嗎」。"
-      },
-      {
-        "title": "台股ETF上週受益人數週增11.79萬人 終止連2降",
-        "source": "Yahoo 股市 - 台股動態",
-        "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1etf%E4%B8%8A%E9%80%B1%E5%8F%97%E7%9B%8A%E4%BA%BA%E6%95%B8%E9%80%B1%E5%A2%9E11-79%E8%90%AC%E4%BA%BA-%E7%B5%82%E6%AD%A2%E9%80%A32%E9%99%8D-033618342.html",
-        "published": "Tue, 25 Aug 2026 03:36:18 GMT",
-        "summary": "（中央社記者曾仁凱台北2026年08月25日電）台股7月回檔、8月反彈震盪，根據集保結算所截至8月21日的最新統計資料，台股ETF受益人數在經過連續兩週降溫後，上週止跌回升，總共94檔台股ETF受益人"
-      },
-      {
-        "title": "1萬元有望當三星、海力士、台積電股東！全台首檔「亞洲半導體主動式ETF」10月掛牌",
-        "source": "Yahoo 股市 - 台股動態",
-        "url": "https://tw.stock.yahoo.com/news/1%E8%90%AC%E5%85%83%E6%9C%89%E6%9C%9B%E7%95%B6%E4%B8%89%E6%98%9F%E3%80%81%E6%B5%B7%E5%8A%9B%E5%A3%AB%E3%80%81%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%82%A1%E6%9D%B1%EF%BC%81%E5%85%A8%E5%8F%B0%E9%A6%96%E6%AA%94%E3%80%8C%E4%BA%9E%E6%B4%B2%E5%8D%8A%E5%B0%8E%E9%AB%94%E4%B8%BB%E5%8B%95%E5%BC%8Fetf%E3%80%8D10%E6%9C%88%E6%8E%9B%E7%89%8C-033544144.html",
-        "published": "Tue, 25 Aug 2026 03:35:44 GMT",
-        "summary": "全台首檔聚焦日韓台亞洲半導體的主動式ETF！AMD執行長蘇姿丰日前表示，AI現在才打到第三局，安聯投信今（25）日看好AI市場需求依舊強勁，再推出安聯亞洲半導體主動式ETF（00412A），1萬元就能"
+        "url": "https://tw.stock.yahoo.com/news/%E6%84%9B%E7%AB%8B%E4%BF%A1%E6%94%9C%E8%81%AF%E7%99%BC%E7%A7%91-t-%E5%AE%8C%E6%88%90%E5%8C%97%E7%BE%8E%E9%A6%96%E4%BE%8Bltm%E5%AF%A6%E7%B6%B2%E8%A9%A6%E9%A9%97-035900699.html",
+        "published": "Tue, 25 Aug 2026 03:59:00 GMT",
+        "summary": "MoneyDJ新聞 2026-08-25 11:59:52 新聞中心 發佈愛立信攜手AT&T與聯發科(2454)，在採用愛立信無線接取網路(RAN)技術的AT&T網路上，完成北美首例愛立信低延遲移動性"
       },
       {
         "title": "最後一隻白老鼠？ 26萬散戶昨FOMO進場淪住套房 分析師：健康換手",
@@ -263,13 +263,82 @@
     ],
     "summary": {
       "tracked": 12,
-      "gainers": 2,
-      "losers": 10,
+      "gainers": 3,
+      "losers": 9,
       "plain_read": "追蹤的半導體供應鏈多數下跌，今天比較像是風險降溫或籌碼修正。"
     },
     "errors": []
   },
   "items": [
+    {
+      "id": "c21ca1ec5f954f987f79",
+      "title": "Taiwan AI server supply chain expands China footprint",
+      "title_zh": "台灣觀察：AI 伺服器 / 資料中心供應鏈、政策 / 地緣政治的AI 伺服器 / 資料中心供應鏈相關動態",
+      "source": "DIGITIMES Asia",
+      "url": "https://www.digitimes.com/news/a20260825PD215/taiwan-ai-server-supply-chain-production-investment.html",
+      "published": "Tue, 25 Aug 2026 04:24:37 GMT",
+      "region": "taiwan",
+      "segments": [
+        "AI 伺服器 / 資料中心供應鏈",
+        "政策 / 地緣政治"
+      ],
+      "companies": [],
+      "importance": 5,
+      "summary_zh": "Taiwan's AI server supply chain is stepping up investment in China, but expansion is concentrated in components rather than full-system assembly. By contrast, Taiwan's notebook PC production in China is mostly flat as the industry shifts to Southeast Asia and ",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+    },
+    {
+      "id": "a79c04bb38bac21e41d7",
+      "title": "Taiwan AI server supply chain expands China footprint - digitimes",
+      "title_zh": "台灣觀察：AI 伺服器 / 資料中心供應鏈、政策 / 地緣政治的AI 伺服器 / 資料中心供應鏈相關動態",
+      "source": "Taiwan AI Server Supply Chain - Google News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZlVKQWFOMnhiU2hhWkI4SGg5ZXFIcHFWVC1UdlFLeExxNE5Dczk2RWJLZ0dMZTJzankwVlNTSjZKN25wTm0tRjh5ZWptYnBTMTllcHJfVHNBeFZwNnp5REdXMXQ2QXRaYVVzcllPQ0U0WWlyR3IxVnEzMHYtZWNGb2hmckVGVTV3Mklaam43Ulg4X2dHSm92RUlab0hyUGU1MWNxbw?oc=5",
+      "published": "Tue, 25 Aug 2026 04:24:37 GMT",
+      "region": "taiwan",
+      "segments": [
+        "AI 伺服器 / 資料中心供應鏈",
+        "政策 / 地緣政治"
+      ],
+      "companies": [],
+      "importance": 5,
+      "summary_zh": "Taiwan AI server supply chain expands China footprint digitimes",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+    },
+    {
+      "id": "64b02d9ca8be39f26bde",
+      "title": "Taiwan Charges 9 Over Illegal AI Server Exports to China - United News of Bangladesh",
+      "title_zh": "台灣觀察：AI 伺服器 / 資料中心供應鏈、政策 / 地緣政治的AI 伺服器 / 資料中心供應鏈相關動態",
+      "source": "Taiwan AI Server Supply Chain - Google News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ2NIbXBOWGpINVhmLVV0UXhjZ25Qd3cyVlhwZTVud0FmXzR5OGdYTENRMkxDWnkxT3lvVHBvMXU0aHZRNXRLQS1CYWx0N1BuOHJpdnoxakEydG45NVBwRC1HRktuazQxYXVHeFN6RlpZSlRPUFZUQThNSHFZeDFlTm55OUxTUXdWV2wxMUViRm8xSUR6WUdPN0hsY3I?oc=5",
+      "published": "Tue, 25 Aug 2026 05:01:31 GMT",
+      "region": "taiwan",
+      "segments": [
+        "AI 伺服器 / 資料中心供應鏈",
+        "政策 / 地緣政治"
+      ],
+      "companies": [],
+      "importance": 5,
+      "summary_zh": "Taiwan Charges 9 Over Illegal AI Server Exports to China United News of Bangladesh",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+    },
+    {
+      "id": "425dbf61cb271dd5846e",
+      "title": "Intel stock slides below $95 offering price as $20B dilution weighs - eciks.org",
+      "title_zh": "國際觀察：Intel的晶片設計相關動態",
+      "source": "Intel Foundry / AI Chips - Google News",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lNnVjbmxOTWxSYjFlYmtjR1ZGMWNxRFpmb05BT0UtdWNBZExXdktFeHRLaERFOWYxdjZCcTcyTTRBbWd0WE91RjVxLWExMThLOWlTU1dLT2lNQ3dsYlhwM1UwWk9Fa25maVhGeUpR?oc=5",
+      "published": "Mon, 24 Aug 2026 16:30:51 GMT",
+      "region": "international",
+      "segments": [
+        "晶片設計"
+      ],
+      "companies": [
+        "Intel"
+      ],
+      "importance": 2,
+      "summary_zh": "Intel stock slides below $95 offering price as $20B dilution weighs eciks.org",
+      "investment_takeaway": "投資觀察重點在此消息是否影響需求能見度、產能瓶頸、價格或供應鏈議價能力。"
+    },
     {
       "id": "0ab9e21e814593e48d47",
       "title": "TSMC suppliers reportedly plan Taiwan plant for critical chipmaking tubing",
@@ -2471,76 +2540,6 @@
       ],
       "importance": 5,
       "summary_zh": "Taiwan Indicts Nine in NVIDIA AI Server Smuggling Case streamlinefeed.co.ke",
-      "investment_takeaway": "投資觀察重點在 CoWoS/先進封裝產能、載板與測試稼動率，這通常是 AI 加速器供給瓶頸。"
-    },
-    {
-      "id": "3f8a07f5f0297b6e38d7",
-      "title": "Intel Outlines Architectures for Agentic AI at Hot Chips 2026 - Intel Newsroom",
-      "title_zh": "國際觀察：Intel的晶片設計相關動態",
-      "source": "Intel Foundry / AI Chips - Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR3pPUGQ5SFlqYndHbURabk5kUzE5d09FRDIxR3BRX0dhb29DT3JtX051cXY5VXlJcFE2aHgydmFUSnNQUmJwclJZQkNJaWhScExRQTNSeTcyUlJsN2UzekJkUXhBRWdFT1BqZjgyekJyQzRTMXdRU3I5c1RHdDFlMV91aGVieTJXMFVpWlRYOWpkUE1Rd2xMeHNGOXhUTlRoR194dmZUbVQ?oc=5",
-      "published": "Mon, 24 Aug 2026 14:35:34 GMT",
-      "region": "international",
-      "segments": [
-        "晶片設計"
-      ],
-      "companies": [
-        "Intel"
-      ],
-      "importance": 2,
-      "summary_zh": "Intel Outlines Architectures for Agentic AI at Hot Chips 2026 Intel Newsroom",
-      "investment_takeaway": "投資觀察重點在此消息是否影響需求能見度、產能瓶頸、價格或供應鏈議價能力。"
-    },
-    {
-      "id": "57134c3388cfa7f737c3",
-      "title": "Nvidia raising AI server prices more than 15% amid memory costs - qz.com",
-      "title_zh": "台灣觀察：NVIDIA的晶片設計相關動態",
-      "source": "Taiwan AI Server Supply Chain - Google News",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45aHR0TkZZT216VkZ6ZE9iVnJCNW5DV09ZbHE5cHBiUUREdGFtNGpxQk1USThMcjJfZUNURHg1S3ZHR2hGelhQckFjak1PTDVBdFBIdWRXeWlidEY2aVloVmZobHBHcTFUaUhFdjB2MA?oc=5",
-      "published": "Mon, 24 Aug 2026 13:16:11 GMT",
-      "region": "taiwan",
-      "segments": [
-        "晶片設計",
-        "記憶體 / HBM",
-        "AI 伺服器 / 資料中心供應鏈"
-      ],
-      "companies": [
-        "NVIDIA"
-      ],
-      "importance": 5,
-      "summary_zh": "Nvidia raising AI server prices more than 15% amid memory costs qz.com",
-      "investment_takeaway": "投資觀察重點在 HBM 價格、良率、客戶認證與供應合約年限。"
-    },
-    {
-      "id": "ca1cddb2696aaa137fde",
-      "title": "Semiconductor orders lift Taiwan's Kenmec outlook - Taiwan News",
-      "title_zh": "台灣觀察：政策 / 地緣政治的政策 / 地緣政治相關動態",
-      "source": "Taiwan AI Server Supply Chain - Google News",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mZlg1LW1ucmhWenhHWFkwVV9wRHJ0MkZLYXNsNHpsNndVWkF5dkRhMFM5LUYyTENaUENlS2RlRFdoa0NzLVl6SVBWVExvNkF1TXplcE1TMWE?oc=5",
-      "published": "Wed, 19 Aug 2026 08:21:00 GMT",
-      "region": "taiwan",
-      "segments": [
-        "政策 / 地緣政治"
-      ],
-      "companies": [],
-      "importance": 2,
-      "summary_zh": "Semiconductor orders lift Taiwan's Kenmec outlook Taiwan News",
-      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
-      "id": "ad6f4c3e6e94a1cfb8ba",
-      "title": "proteanTecs Unveils Advanced Packaging Solutions to Improve Yield, Performance, and Reliability of Multi-Die Systems - Yahoo Finance",
-      "title_zh": "台灣觀察：先進封裝 / 測試的先進封裝 / 測試相關動態",
-      "source": "TSMC / CoWoS / Advanced Packaging - Google News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM1o5T2xYaVFDa1dDRmRMNk9uYWl4RWlmZWV0UDVENUdqeEFSVXpPTnFjOGFibVFRWnl5SHJzdFNwMDRMeUtZSHNhay1SUjJoSGxJM3hidUNablpVOVZIR051UDJmc2NOX3BvS2djYmZOM3dJVmRpSlRXcWdJei1nT3FBRjFQenNfTm8tZnU5NHFhZjBZY0ZWVVdoTTJNM0E3OUNEdmVsRFBKT1hEaFE?oc=5",
-      "published": "Wed, 19 Aug 2026 15:00:00 GMT",
-      "region": "taiwan",
-      "segments": [
-        "先進封裝 / 測試"
-      ],
-      "companies": [],
-      "importance": 3,
-      "summary_zh": "proteanTecs Unveils Advanced Packaging Solutions to Improve Yield, Performance, and Reliability of Multi-Die Systems Yahoo Finance",
       "investment_takeaway": "投資觀察重點在 CoWoS/先進封裝產能、載板與測試稼動率，這通常是 AI 加速器供給瓶頸。"
     }
   ]
