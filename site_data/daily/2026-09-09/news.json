@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T17:54:28+00:00",
+  "generated_at": "2026-09-09T20:31:18+00:00",
   "date": "2026-09-09",
   "market": {
     "indices": [
@@ -177,6 +177,13 @@
     ],
     "news": [
       {
+        "title": "台股ETF規模創高 00919息利雙收最可期",
+        "source": "Yahoo 股市 - 台股動態",
+        "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1etf%E8%A6%8F%E6%A8%A1%E5%89%B5%E9%AB%98-00919%E6%81%AF%E5%88%A9%E9%9B%99%E6%94%B6%E6%9C%80%E5%8F%AF%E6%9C%9F-192656735.html",
+        "published": "Wed, 09 Sep 2026 19:26:56 GMT",
+        "summary": "【記者柯安聰台北報導】近期大盤挑戰新高，台股ETF持續發熱，根據CMONEY統計資料顯示，台股ETF整體規模領先大盤創新高來到7.859兆；以各檔表現來看，包括群益台灣精選高息（00919）、元大高股"
+      },
+      {
         "title": "台股根本不怕美國升息？專家估「很快5萬點」：台積電1技術狠甩三星、Intel",
         "source": "Yahoo 股市 - 台股動態",
         "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%A0%B9%E6%9C%AC%E4%B8%8D%E6%80%95%E7%BE%8E%E5%9C%8B%E5%8D%87%E6%81%AF-%E5%B0%88%E5%AE%B6%E4%BC%B0-%E5%BE%88%E5%BF%AB5%E8%90%AC%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB1%E6%8A%80%E8%A1%93%E7%8B%A0%E7%94%A9%E4%B8%89%E6%98%9F-intel-174703598.html",
@@ -210,13 +217,6 @@
         "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E5%87%BA%E7%8F%BE-%E6%98%8E%E9%A1%AF%E8%AE%8A%E5%8C%96-%E5%B0%88%E5%AE%B6%E6%8F%AD%E9%80%992%E5%A4%A9%E6%98%AF%E9%97%9C%E9%8D%B5-143300258.html",
         "published": "Wed, 09 Sep 2026 14:33:00 GMT",
         "summary": "台股近期高檔震盪，投資人觀望氣氛濃厚，市場焦點鎖定美國即將公布的PPI與CPI數據，這將牽動聯準會後續利率政策走向。財經專家葉育碩指出，儘管市場追價意願保守，但資金並未離場，外資已連續四日買超，並積極"
-      },
-      {
-        "title": "台股3年衝10萬點！郭哲榮抱這檔拚翻倍",
-        "source": "Yahoo 股市 - 台股動態",
-        "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A13%E5%B9%B4%E8%A1%9D10%E8%90%AC%E9%BB%9E-%E9%83%AD%E5%93%B2%E6%A6%AE%E6%8A%B1%E9%80%99%E6%AA%94%E6%8B%9A%E7%BF%BB%E5%80%8D-140411172.html",
-        "published": "Wed, 09 Sep 2026 14:04:11 GMT",
-        "summary": "[NOWNEWS今日新聞]台股近期成交量明顯萎縮，今（9）日開盤一度大漲逾430點，隨後漲勢快速收斂，盤中甚至一度翻黑，終場僅小漲77.58點，收在47,183.36點。不過，摩爾投顧分析師郭哲榮仍持"
       },
       {
         "title": "最後一隻白老鼠？ 26萬散戶昨FOMO進場淪住套房 分析師：健康換手",
@@ -270,6 +270,147 @@
     "errors": []
   },
   "items": [
+    {
+      "id": "eecc0a5d66fcefa3358a",
+      "title": "Enterprise-grade PostgreSQL with AlloyDB Omni RPM Orchestrator is generally available",
+      "title_zh": "國際觀察：Google、Meta的CSP / 雲端需求相關動態",
+      "source": "Google Cloud Blog",
+      "url": "https://cloud.google.com/blog/products/databases/alloydb-omni-rpm-orchestrator-is-generally-available/",
+      "published": "Wed, 09 Sep 2026 19:00:00 +0000",
+      "region": "international",
+      "segments": [
+        "CSP / 雲端需求",
+        "晶圓代工 / 製程",
+        "記憶體 / HBM",
+        "先進封裝 / 測試",
+        "AI 伺服器 / 資料中心供應鏈",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "Google",
+        "Meta",
+        "ASE"
+      ],
+      "importance": 5,
+      "summary_zh": "We are thrilled to announce the general availability of the AlloyDB Omni Red Hat RPM orchestrator , that brings production-ready security, resiliency, and low-downtime operations to PostgreSQL workloads in your enterprise environments. This GA milestone builds",
+      "investment_takeaway": "投資觀察重點在 CSP CapEx、AI 叢集擴建，以及 GPU/ASIC 需求是否轉成供應鏈訂單。"
+    },
+    {
+      "id": "34207ff6a2403fa58729",
+      "title": "Google is a Leader in the 2026 Gartner® Magic Quadrant™ for Enterprise AI Assistants",
+      "title_zh": "國際觀察：Microsoft、Google的CSP / 雲端需求相關動態",
+      "source": "Google Cloud Blog",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-is-a-leader-in-2026-gartner-magic-quadrant-for-enterprise-ai-assistants/",
+      "published": "Wed, 09 Sep 2026 18:00:00 +0000",
+      "region": "international",
+      "segments": [
+        "CSP / 雲端需求",
+        "晶片設計",
+        "先進封裝 / 測試",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "Microsoft",
+        "Google",
+        "ASE"
+      ],
+      "importance": 5,
+      "summary_zh": "We are excited to share that Gartner has named Google a Leader in its inaugural 2026 Magic Quadrant for Enterprise AI Assistants . In this comprehensive evaluation of top enterprise AI assistant vendors, Gartner placed Google in the Leaders quadrant for its ev",
+      "investment_takeaway": "投資觀察重點在 CSP CapEx、AI 叢集擴建，以及 GPU/ASIC 需求是否轉成供應鏈訂單。"
+    },
+    {
+      "id": "ad92b9bd62d5a0c77372",
+      "title": "Intel '100% committed' to getting New Albany fab completed, Moreno says - The Columbus Dispatch",
+      "title_zh": "國際觀察：Intel的晶片設計相關動態",
+      "source": "Intel Foundry / AI Chips - Google News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYTcwZzAyUm5peHZRd0JkcEdwTzlyWmNmUk9ZNlh2MjllSmhISy02amJUeVpSR2s2S1ZpVU1qTHRIOE5ZQWtnOWFBZjRHa2tsQnAwUE1QekpiYlBDR0JWdnBueTlnSUYxblcwMnVlckNQdFR6T3lzcDRuWi1PSFduSURuak9tdTB5X3pTcmgtRm5mcXJXQ1ZHVElwQ3ZPaFJMbDNGM0JKdXFocDI0X2xLZVF1dmFxLXBPQlhEMQ?oc=5",
+      "published": "Fri, 04 Sep 2026 16:15:14 GMT",
+      "region": "international",
+      "segments": [
+        "晶片設計",
+        "政策 / 地緣政治"
+      ],
+      "companies": [
+        "Intel"
+      ],
+      "importance": 3,
+      "summary_zh": "Intel '100% committed' to getting New Albany fab completed, Moreno says The Columbus Dispatch",
+      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
+    },
+    {
+      "id": "53e713a141fed4285257",
+      "title": "AMD CFO Lifts AI Chip Market Forecast to $3 Trillion, Reaffirms TSMC as Primary Supplier - finance.biggo.com",
+      "title_zh": "國際觀察：AMD、TSMC的晶片設計相關動態",
+      "source": "Intel Foundry / AI Chips - Google News",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TWkhldkF5dzFpdmNhVTBaTVJLS1pOSXVvTVJ1RE1jb2RzbG9YSVhlT3hIVVhsTmdINi1MajEzRUZ6Zy15aFZtaXZORFM2YVc5bWNMYWhkaTBlZ3BSeEZ6eHFiQ1hjMzBGM2QxRVk2TWotY1NfZkE?oc=5",
+      "published": "Wed, 09 Sep 2026 18:19:35 GMT",
+      "region": "international",
+      "segments": [
+        "晶片設計",
+        "晶圓代工 / 製程"
+      ],
+      "companies": [
+        "AMD",
+        "TSMC"
+      ],
+      "importance": 3,
+      "summary_zh": "AMD CFO Lifts AI Chip Market Forecast to $3 Trillion, Reaffirms TSMC as Primary Supplier finance.biggo.com",
+      "investment_takeaway": "投資觀察重點在此消息是否影響需求能見度、產能瓶頸、價格或供應鏈議價能力。"
+    },
+    {
+      "id": "0ff221339e621c0b51d9",
+      "title": "Intel (INTC) Stock Looks Rich On Cash Flow Yet Trades At A Sales Discount - simplywall.st",
+      "title_zh": "國際觀察：Intel的晶片設計相關動態",
+      "source": "Intel Foundry / AI Chips - Google News",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbTVKOFhZM1U5cmpOYWNERmRnSXFHNmltSkdwbkllS2stVC1YSV82VU5qVW1MMUZtSS1Va0hINFBZUVpDbDM5UjNQdXdFNG5KbWdkM0FsR3p6aE1OYTNSeGgzRzBxMDNBSlZlVGduc3lJSUxEMEJXZHJYYXVEejBkejlIM3NhWVNlQ1kxS0ZWeWRWMkZxb3dubWg4Q0E1TjhjTm1raGJfX0VZcnRpdDJ5aUtvNk8xRDhGMUNVVDRwZS1VcEdQNGJWSFllbGJYNkXSAc8BQVVfeXFMUG01SjhYWTNVOXJqTmFjREZkZ0lxRzZpbUpHcG5JZUtrLVQtWElfNlVOalVtTDFGbUktVWtISDRQWVFaQ2wzOVIzUHV3RTRuSm1nZDNBbEd6emhNTmEzUnhoM0cwcTAzQUpWZVRnbnN5SUlMRDBCV2RyWGF1RHowZHo5SDNzYVlTZUNZMUtGVnlkVjJGcW93bm1oOENBNU44Y05ta2hiX19FWXJ0aXQyeWlLbzZPMUQ4RjFDVVQ0cGUtVXBHUDRiVkhZZWxiWDZF?oc=5",
+      "published": "Wed, 09 Sep 2026 17:25:56 GMT",
+      "region": "international",
+      "segments": [
+        "晶片設計"
+      ],
+      "companies": [
+        "Intel"
+      ],
+      "importance": 2,
+      "summary_zh": "Intel (INTC) Stock Looks Rich On Cash Flow Yet Trades At A Sales Discount simplywall.st",
+      "investment_takeaway": "投資觀察重點在此消息是否影響需求能見度、產能瓶頸、價格或供應鏈議價能力。"
+    },
+    {
+      "id": "6522ddc02792dbbbc63a",
+      "title": "Beyond the benchmark: How an adaptive approach drives scientific discovery",
+      "title_zh": "國際觀察：Microsoft的CSP / 雲端需求相關動態",
+      "source": "Microsoft Azure Blog",
+      "url": "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/",
+      "published": "Tue, 08 Sep 2026 20:00:00 +0000",
+      "region": "international",
+      "segments": [
+        "CSP / 雲端需求"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "importance": 3,
+      "summary_zh": "For research and development (R&D) organizations, the promise of agentic AI is not a better one-time answer. It is a new way to explore complex scientific and engineering problems: pursuing multiple hypotheses, validating them against evidence, learning from w",
+      "investment_takeaway": "投資觀察重點在 CSP CapEx、AI 叢集擴建，以及 GPU/ASIC 需求是否轉成供應鏈訂單。"
+    },
+    {
+      "id": "a5c21f8990e81905e156",
+      "title": "Intel (INTC) Stock Looks Rich On Cash Flow Yet Trades At A Sales Discount - simplywall.st",
+      "title_zh": "國際觀察：Intel的晶片設計相關動態",
+      "source": "Intel Foundry / AI Chips - Google News",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPN2tUb1N1eURRRF9rQkZjcmlKYVhQUHR0VjdMQ1h4WUU4MGRRamlINXJBUGpLZkI2OG9GTS03NEVtTHpFdnRFOENhWTZ3RXlQaHRIb2VWZTdKampSQ2lpSC1nU2pxRlRTMzQzTV9pWW1KZ1czdFBMN2ZHLWM1LWJuSU9xdjNZMnVKQ25UZTRCWFZaaFhWN25keXVMVC0xd0lxbWt6QjdVZ0pMSjlyeW5LTnY1ZWVjS0xEWEtFN2RXRDdvVkE4QlF1dlZn0gHPAUFVX3lxTFBtNUo4WFkzVTlyak5hY0RGZGdJcUc2aW1KR3BuSWVLay1ULVhJXzZVTmpVbUwxRm1JLVVrSEg0UFlRWkNsMzlSM1B1d0U0bkptZ2QzQWxHenpoTU5hM1J4aDNHMHEwM0FKVmVUZ25zeUlJTEQwQldkclhhdUR6MGR6OUgzc2FZU2VDWTFLRlZ5ZFYyRnFvd25taDhDQTVOOGNObWtoYl9fRVlydGl0MnlpS282TzFEOEYxQ1VUNHBlLVVwR1A0YlZIWWVsYlg2RQ?oc=5",
+      "published": "Wed, 09 Sep 2026 17:25:54 GMT",
+      "region": "international",
+      "segments": [
+        "晶片設計"
+      ],
+      "companies": [
+        "Intel"
+      ],
+      "importance": 2,
+      "summary_zh": "Intel (INTC) Stock Looks Rich On Cash Flow Yet Trades At A Sales Discount simplywall.st",
+      "investment_takeaway": "投資觀察重點在此消息是否影響需求能見度、產能瓶頸、價格或供應鏈議價能力。"
+    },
     {
       "id": "c7cf989debad19cf988d",
       "title": "Beyond DMS: Accelerating Migrations SQL Server Logins and Users to Cloud SQL",
@@ -381,7 +522,7 @@
     },
     {
       "id": "dcee59d715abc2ac2b20",
-      "title": "AI servers and PCs drive Asus revenue surge - Taiwan News",
+      "title": "AI servers and PCs drive Asus revenue surge - taiwannews.com.tw",
       "title_zh": "台灣觀察：AI 伺服器 / 資料中心供應鏈、政策 / 地緣政治的AI 伺服器 / 資料中心供應鏈相關動態",
       "source": "Taiwan AI Server Supply Chain - Google News",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93bG1jd1BreFp3LUN4UlJ3NENZNTl5M2hQbXJGMjBnMHpfcF9xdHF5SkR4Vm5OUmlkU05nV3FpbV9UemtQVEdMODFSWXZsRjFHVjhEYWczaGc?oc=5",
@@ -393,7 +534,7 @@
       ],
       "companies": [],
       "importance": 5,
-      "summary_zh": "AI servers and PCs drive Asus revenue surge Taiwan News",
+      "summary_zh": "AI servers and PCs drive Asus revenue surge taiwannews.com.tw",
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     },
     {
@@ -512,7 +653,7 @@
     },
     {
       "id": "2d32a09ec357343d457e",
-      "title": "AMD Rises 3% as CFO Lifts AI Chip Market Forecast Toward $3 Trillion; Intel Ticks Up - 24/7 Wall St.",
+      "title": "AMD Rises 3% as CFO Lifts AI Chip Market Forecast Toward $3 Trillion; Intel Ticks Up - 247wallst.com",
       "title_zh": "國際觀察：AMD、Intel的晶片設計相關動態",
       "source": "Intel Foundry / AI Chips - Google News",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUXcyZHk3MWlyVXBtQ3RPR2JCNWFLaFY1eVFuNmdSU3dhbGZSV0FGaG5wenBicC1GLWUxV1ZQc3lCS1AwVmJsSkIwVEUzNWIzSEVJYVU5MUhrVzlmZVJJUHVObm83dXVhaGx1ekZZOFlRaE1JVndxUnE2NGg3NmNLOVZjczFmd0NVczJ4dDVrNkdxakJnWVdlcWVTa1BlVG5NRUlOQldDSnNVMVRFUUhYUTRCWHhuWUl6UzdvMldLWDJhWTA?oc=5",
@@ -526,26 +667,8 @@
         "Intel"
       ],
       "importance": 3,
-      "summary_zh": "AMD Rises 3% as CFO Lifts AI Chip Market Forecast Toward $3 Trillion; Intel Ticks Up 24/7 Wall St.",
+      "summary_zh": "AMD Rises 3% as CFO Lifts AI Chip Market Forecast Toward $3 Trillion; Intel Ticks Up 247wallst.com",
       "investment_takeaway": "投資觀察重點在此消息是否影響需求能見度、產能瓶頸、價格或供應鏈議價能力。"
-    },
-    {
-      "id": "6522ddc02792dbbbc63a",
-      "title": "Beyond the benchmark: How an adaptive approach drives scientific discovery",
-      "title_zh": "國際觀察：Microsoft的CSP / 雲端需求相關動態",
-      "source": "Microsoft Azure Blog",
-      "url": "https://azure.microsoft.com/en-us/blog/beyond-the-benchmark-how-an-adaptive-approach-drives-scientific-discovery/",
-      "published": "Tue, 08 Sep 2026 20:00:00 +0000",
-      "region": "international",
-      "segments": [
-        "CSP / 雲端需求"
-      ],
-      "companies": [
-        "Microsoft"
-      ],
-      "importance": 3,
-      "summary_zh": "For research and development (R&D) organizations, the promise of agentic AI is not a better one-time answer. It is a new way to explore complex scientific and engineering problems: pursuing multiple hypotheses, validating them against evidence, learning from w",
-      "investment_takeaway": "投資觀察重點在 CSP CapEx、AI 叢集擴建，以及 GPU/ASIC 需求是否轉成供應鏈訂單。"
     },
     {
       "id": "60203eee9a37d656659e",
@@ -562,24 +685,6 @@
       "importance": 3,
       "summary_zh": "Amkor Technology Expands Arizona Advanced Packaging Investment To $12 Billion Pulse 2.0",
       "investment_takeaway": "投資觀察重點在 CoWoS/先進封裝產能、載板與測試稼動率，這通常是 AI 加速器供給瓶頸。"
-    },
-    {
-      "id": "a5c21f8990e81905e156",
-      "title": "Intel (INTC) Stock Looks Rich On Cash Flow Yet Trades At A Sales Discount - simplywall.st",
-      "title_zh": "國際觀察：Intel的晶片設計相關動態",
-      "source": "Intel Foundry / AI Chips - Google News",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPN2tUb1N1eURRRF9rQkZjcmlKYVhQUHR0VjdMQ1h4WUU4MGRRamlINXJBUGpLZkI2OG9GTS03NEVtTHpFdnRFOENhWTZ3RXlQaHRIb2VWZTdKampSQ2lpSC1nU2pxRlRTMzQzTV9pWW1KZ1czdFBMN2ZHLWM1LWJuSU9xdjNZMnVKQ25UZTRCWFZaaFhWN25keXVMVC0xd0lxbWt6QjdVZ0pMSjlyeW5LTnY1ZWVjS0xEWEtFN2RXRDdvVkE4QlF1dlZn0gHPAUFVX3lxTFBtNUo4WFkzVTlyak5hY0RGZGdJcUc2aW1KR3BuSWVLay1ULVhJXzZVTmpVbUwxRm1JLVVrSEg0UFlRWkNsMzlSM1B1d0U0bkptZ2QzQWxHenpoTU5hM1J4aDNHMHEwM0FKVmVUZ25zeUlJTEQwQldkclhhdUR6MGR6OUgzc2FZU2VDWTFLRlZ5ZFYyRnFvd25taDhDQTVOOGNObWtoYl9fRVlydGl0MnlpS282TzFEOEYxQ1VUNHBlLVVwR1A0YlZIWWVsYlg2RQ?oc=5",
-      "published": "Wed, 09 Sep 2026 17:25:54 GMT",
-      "region": "international",
-      "segments": [
-        "晶片設計"
-      ],
-      "companies": [
-        "Intel"
-      ],
-      "importance": 2,
-      "summary_zh": "Intel (INTC) Stock Looks Rich On Cash Flow Yet Trades At A Sales Discount simplywall.st",
-      "investment_takeaway": "投資觀察重點在此消息是否影響需求能見度、產能瓶頸、價格或供應鏈議價能力。"
     },
     {
       "id": "942d6e0fdcc6196dc0aa",
@@ -848,27 +953,6 @@
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     },
     {
-      "id": "9e9d8b7d7a15756c1b32",
-      "title": "Intel Hits 1 Million-Wafer Milestone With ASML’s Next-Gen Chip Technology - TradingView",
-      "title_zh": "國際觀察：Intel、ASML的晶片設計相關動態",
-      "source": "Intel Foundry / AI Chips - Google News",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mdEw5ZWp1cFRUUWZKLTFfZEVYMTMzMXU4MXdkdlFUQ3IzSTZJR0U3aFd0SmVRY2p0N2x3M0ROV3Zpc2FEYnVjYTcyd0dJYkdESVliakZIa2V6REZkMVNFTGxvRnhrSzU3?oc=5",
-      "published": "Tue, 08 Sep 2026 09:39:47 GMT",
-      "region": "international",
-      "segments": [
-        "晶片設計",
-        "晶圓代工 / 製程",
-        "設備 / 材料"
-      ],
-      "companies": [
-        "Intel",
-        "ASML"
-      ],
-      "importance": 4,
-      "summary_zh": "Intel Hits 1 Million-Wafer Milestone With ASML’s Next-Gen Chip Technology TradingView",
-      "investment_takeaway": "投資觀察重點在此消息是否影響需求能見度、產能瓶頸、價格或供應鏈議價能力。"
-    },
-    {
       "id": "abc9b5b8fba0c5f0d417",
       "title": "TSMC and Samsung Commit to ASML High-NA EUV Machines for AI Chip Production: 11 outlets compared - NewsCord",
       "title_zh": "台灣觀察：TSMC、Samsung的晶圓代工 / 製程相關動態",
@@ -1118,6 +1202,27 @@
       "importance": 5,
       "summary_zh": "Asia Vital said August 2026 revenue rose to NT$512 million, up 29.10% year over year, as shipments of ASIC servers to a US cloud service provider customer continued to increase. The Taiwan-based supplier said revenue stayed above NT$500 million for a third str",
       "investment_takeaway": "投資觀察重點在 CSP CapEx、AI 叢集擴建，以及 GPU/ASIC 需求是否轉成供應鏈訂單。"
+    },
+    {
+      "id": "9e9d8b7d7a15756c1b32",
+      "title": "Intel Hits 1 Million-Wafer Milestone With ASML’s Next-Gen Chip Technology - TradingView",
+      "title_zh": "國際觀察：Intel、ASML的晶片設計相關動態",
+      "source": "Intel Foundry / AI Chips - Google News",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mdEw5ZWp1cFRUUWZKLTFfZEVYMTMzMXU4MXdkdlFUQ3IzSTZJR0U3aFd0SmVRY2p0N2x3M0ROV3Zpc2FEYnVjYTcyd0dJYkdESVliakZIa2V6REZkMVNFTGxvRnhrSzU3?oc=5",
+      "published": "Tue, 08 Sep 2026 09:39:47 GMT",
+      "region": "international",
+      "segments": [
+        "晶片設計",
+        "晶圓代工 / 製程",
+        "設備 / 材料"
+      ],
+      "companies": [
+        "Intel",
+        "ASML"
+      ],
+      "importance": 4,
+      "summary_zh": "Intel Hits 1 Million-Wafer Milestone With ASML’s Next-Gen Chip Technology TradingView",
+      "investment_takeaway": "投資觀察重點在此消息是否影響需求能見度、產能瓶頸、價格或供應鏈議價能力。"
     },
     {
       "id": "4c7c9a097bfaee04863e",
@@ -2212,7 +2317,7 @@
     },
     {
       "id": "13482b559595bd11d69a",
-      "title": "Intel, Amkor, Nova, Qualcomm, and FormFactor Stocks Trade Up, What You Need To Know - StockStory",
+      "title": "Intel, Amkor, Nova, Qualcomm, and FormFactor Stocks Trade Up, What You Need To Know - stockstory.org",
       "title_zh": "國際觀察：Intel、Qualcomm的晶片設計相關動態",
       "source": "Intel Foundry / AI Chips - Google News",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNS3BsWXo3dG1mOUtIQ2VWMW9pODU2ZVlsalBKUjExeVVFUUp0cDFQa2JKWUJoNEFkLTVEam1RNnNXQzM1a1QtNVFNRExLSUNWak52UmFteEhSTGtEb1ZscEROWDFwWjFUdlpIUlExT2dHUW5Jb0ZETTFpN0NsbzNtaG13dkgyOFFILVNPUXBnRXllZ0tRS0xJSUZaWnNKald1TUs4MmZ2ZzVFN2NRbWtGRlBBNjlkaUZhdzNKalV5UXhiM25PUWJuYVVoUVd3QlBtT3JUaHFWSQ?oc=5",
@@ -2227,7 +2332,7 @@
         "Qualcomm"
       ],
       "importance": 4,
-      "summary_zh": "Intel, Amkor, Nova, Qualcomm, and FormFactor Stocks Trade Up, What You Need To Know StockStory",
+      "summary_zh": "Intel, Amkor, Nova, Qualcomm, and FormFactor Stocks Trade Up, What You Need To Know stockstory.org",
       "investment_takeaway": "投資觀察重點在 CoWoS/先進封裝產能、載板與測試稼動率，這通常是 AI 加速器供給瓶頸。"
     },
     {
@@ -2361,7 +2466,7 @@
     },
     {
       "id": "eb6a304f2f241104e967",
-      "title": "Taiwan's Aspeed posts 10th straight monthly revenue record - Taiwan News",
+      "title": "Taiwan's Aspeed posts 10th straight monthly revenue record - taiwannews.com.tw",
       "title_zh": "台灣觀察：政策 / 地緣政治的政策 / 地緣政治相關動態",
       "source": "Taiwan AI Server Supply Chain - Google News",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQZG51RGNOd0MwZkd3d0RrWmRYY1BjVWhTT0hTSlN2OXFRRFM3N0c1b2dqMC1zckg4cmpiMkRtVVllU1ZlcnFfak16djdKT3B1ck42WQ?oc=5",
@@ -2372,7 +2477,7 @@
       ],
       "companies": [],
       "importance": 2,
-      "summary_zh": "Taiwan's Aspeed posts 10th straight monthly revenue record Taiwan News",
+      "summary_zh": "Taiwan's Aspeed posts 10th straight monthly revenue record taiwannews.com.tw",
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
     },
     {
@@ -2391,6 +2496,22 @@
       ],
       "importance": 2,
       "summary_zh": "Foxconn says third quarter to outperform market expectations on AI strength brecorder.com",
+      "investment_takeaway": "投資觀察重點在台灣供應鏈是否取得 AI 伺服器、封裝、測試或零組件增量訂單。"
+    },
+    {
+      "id": "0c075d8588c2dcee90a2",
+      "title": "James Huang Visits Three Gulf Nations to Pursue Sovereign AI Computing Power Export Opportunities - finance.biggo.com",
+      "title_zh": "台灣觀察：未分類 / 待人工確認的未分類 / 待人工確認相關動態",
+      "source": "Taiwan AI Server Supply Chain - Google News",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0OWpTZ0wwUkhLTjhyRWRTZGI1ejdYb19URGp2Sl9MTkZJY19nS194UWVvX0RZOEI2Q0x2S1loM0dOWVIzOVp0SDI1cE1kcGN0RXVraTZqUVdldDN5NDYtQUtYU0RmTlpBTEVXMk5aRnJ3SThNdHc?oc=5",
+      "published": "Tue, 08 Sep 2026 10:25:00 GMT",
+      "region": "taiwan",
+      "segments": [
+        "未分類 / 待人工確認"
+      ],
+      "companies": [],
+      "importance": 1,
+      "summary_zh": "James Huang Visits Three Gulf Nations to Pursue Sovereign AI Computing Power Export Opportunities finance.biggo.com",
       "investment_takeaway": "投資觀察重點在台灣供應鏈是否取得 AI 伺服器、封裝、測試或零組件增量訂單。"
     },
     {
@@ -2413,122 +2534,6 @@
       "importance": 5,
       "summary_zh": "TSMC to use ASML’s next-gen machines for high-volume chip manufacturing The Business Journals",
       "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
-      "id": "090888d29dc4fc796446",
-      "title": "Intel Shares Surge as CPU Price Hike Plan Adds Billions to U.S. Stake - finance.biggo.com",
-      "title_zh": "國際觀察：Intel的晶片設計相關動態",
-      "source": "Intel Foundry / AI Chips - Google News",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yVzczcWhiU2wtb0cwUW1hUHBJcThWU1BwSFE2M2VfWjlNZDJDeGVkSHhXZUVDUTZERTQwbmJhcUUtdWk0cU42ZGh1VXFjV2dCNXM3VGVRQ1Z6MWV3MVgta0pxLWhMQ29XbldvYkhmaEtGZFdXZEE?oc=5",
-      "published": "Tue, 08 Sep 2026 18:40:38 GMT",
-      "region": "international",
-      "segments": [
-        "晶片設計"
-      ],
-      "companies": [
-        "Intel"
-      ],
-      "importance": 2,
-      "summary_zh": "Intel Shares Surge as CPU Price Hike Plan Adds Billions to U.S. Stake finance.biggo.com",
-      "investment_takeaway": "投資觀察重點在此消息是否影響需求能見度、產能瓶頸、價格或供應鏈議價能力。"
-    },
-    {
-      "id": "0c075d8588c2dcee90a2",
-      "title": "James Huang Visits Three Gulf Nations to Pursue Sovereign AI Computing Power Export Opportunities - finance.biggo.com",
-      "title_zh": "台灣觀察：未分類 / 待人工確認的未分類 / 待人工確認相關動態",
-      "source": "Taiwan AI Server Supply Chain - Google News",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0OWpTZ0wwUkhLTjhyRWRTZGI1ejdYb19URGp2Sl9MTkZJY19nS194UWVvX0RZOEI2Q0x2S1loM0dOWVIzOVp0SDI1cE1kcGN0RXVraTZqUVdldDN5NDYtQUtYU0RmTlpBTEVXMk5aRnJ3SThNdHc?oc=5",
-      "published": "Tue, 08 Sep 2026 10:25:00 GMT",
-      "region": "taiwan",
-      "segments": [
-        "未分類 / 待人工確認"
-      ],
-      "companies": [],
-      "importance": 1,
-      "summary_zh": "James Huang Visits Three Gulf Nations to Pursue Sovereign AI Computing Power Export Opportunities finance.biggo.com",
-      "investment_takeaway": "投資觀察重點在台灣供應鏈是否取得 AI 伺服器、封裝、測試或零組件增量訂單。"
-    },
-    {
-      "id": "3145c2f4eddf1fd4023b",
-      "title": "Intel, Amkor, Nova, Qualcomm, and FormFactor Stocks Trade Up, What You Need To Know - The Globe and Mail",
-      "title_zh": "國際觀察：Intel、Qualcomm的晶片設計相關動態",
-      "source": "Intel Foundry / AI Chips - Google News",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxONmVPa0N2eGtBbmNpZE50aFdUSXozRzJyMUYxczJiYXRKOWY5Z0NrU1dPUkQ1VmVrdTQ4ZlkxX1JBaG5oeEFqUkF0eHRZZ2VSa3FDMllCbndNM19XWVd6TlZfY3dZNmROMXFudkF4ekpEZ3dnQ2Z2eUVKYUFWck1Ha1lQMG95Z1JjRkVQZ1JrMS1tNkxYdXBtTVF2Y0c2MnlLNkUxZkp5WjJqOTB2WW42R2pWZV82MUNfTm9sclJ2SXJCREFZOWFfYU11TS1pMGFNME8tRFl1dDE2My1BX0RrSjBiaEFXa3QyMTB3OXBIeXR2R1NQWWc?oc=5",
-      "published": "Tue, 08 Sep 2026 16:40:00 GMT",
-      "region": "international",
-      "segments": [
-        "晶片設計",
-        "先進封裝 / 測試"
-      ],
-      "companies": [
-        "Intel",
-        "Qualcomm"
-      ],
-      "importance": 4,
-      "summary_zh": "Intel, Amkor, Nova, Qualcomm, and FormFactor Stocks Trade Up, What You Need To Know The Globe and Mail",
-      "investment_takeaway": "投資觀察重點在 CoWoS/先進封裝產能、載板與測試稼動率，這通常是 AI 加速器供給瓶頸。"
-    },
-    {
-      "id": "37434b2acdf938132378",
-      "title": "Intel Foundry and ASML Collaborate to Accelerate Industry Readiness for High NA EUV - HPCwire",
-      "title_zh": "國際觀察：Intel、ASML的晶片設計相關動態",
-      "source": "Intel Foundry / AI Chips - Google News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUmZNcGc2UjVTYV9ibXNoNkFaT1ozRkIxblAydmFCZkw5cC00dGh3d2hXUUl0TzRpYjJGUG5Fc3UyazR4bnhkajFUUUpteXRRdUdKbllQeENtcUdGUzZicDN6Rlg2TjJIb2hJZXpMSU05TGV6eURtcmFRVnlaNnh4amFXZEh5VGluVFgzc1NzYnZkQnl3MlRPdXMzcURBMWh1ZUFtcUJma2FoRjNqa2RYM2lsTjVRM09nR1RieVF3?oc=5",
-      "published": "Tue, 08 Sep 2026 19:50:58 GMT",
-      "region": "international",
-      "segments": [
-        "晶片設計",
-        "晶圓代工 / 製程",
-        "設備 / 材料",
-        "政策 / 地緣政治"
-      ],
-      "companies": [
-        "Intel",
-        "ASML"
-      ],
-      "importance": 5,
-      "summary_zh": "Intel Foundry and ASML Collaborate to Accelerate Industry Readiness for High NA EUV HPCwire",
-      "investment_takeaway": "投資觀察重點在出口管制、補貼與區域產能配置，可能影響長期供應鏈重組。"
-    },
-    {
-      "id": "db61ba6bd6ba428c36ba",
-      "title": "ASML locks in TSMC, Samsung, and Intel while Huawei races to break its grip - the-decoder.com",
-      "title_zh": "台灣觀察：Intel、TSMC的晶片設計相關動態",
-      "source": "TSMC / CoWoS / Advanced Packaging - Google News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMl9yN1RsR1hoam5IM1p4TVRnZFh3dGpRYUVzTVp6cUhkUERqalRyRWdveWtYdWNPR3pfUktHRFp3M0J2cXIyLWxnZ1NlUDkxcmVMb1VxQm05TWJlZ3duci1BNjRYdUpLY1Y1Y1Ewc2hfc0hqdUtUVU9tLW5zNmtJeW1OUmhVMFM2M0NiY3dUOWhITzB3RGM2b2dVUjhOZjQ?oc=5",
-      "published": "Tue, 08 Sep 2026 15:21:18 GMT",
-      "region": "taiwan",
-      "segments": [
-        "晶片設計",
-        "晶圓代工 / 製程",
-        "記憶體 / HBM",
-        "設備 / 材料"
-      ],
-      "companies": [
-        "Intel",
-        "TSMC",
-        "Samsung",
-        "ASML"
-      ],
-      "importance": 5,
-      "summary_zh": "ASML locks in TSMC, Samsung, and Intel while Huawei races to break its grip the-decoder.com",
-      "investment_takeaway": "投資觀察重點在 HBM 價格、良率、客戶認證與供應合約年限。"
-    },
-    {
-      "id": "c021ca02c014f708dcb2",
-      "title": "SRS Deploys Advanced Packaging for Remote-Handled Transuranic Waste Shipment - Department of Energy (.gov)",
-      "title_zh": "台灣觀察：先進封裝 / 測試的先進封裝 / 測試相關動態",
-      "source": "TSMC / CoWoS / Advanced Packaging - Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdEZSc1UtcGswYUVmb2dNMkFDeERIOTE4ZTRMeGVmVzkzbjljTUxzWWt3cFI4WXdBTDRwaVhkVEpDREF1c3JTSUF6aU5pUEpyd1hsY3VPTXh6TUhYak1Ta1JEcDJaeEd5d2E3NENKc2F0VDlIQTF4aWtVaEtzWkF2dktPRmdDa2lCdUdvWWp5UGVRellqQ1JZY2ZyMnVXdkh0V01lZ2ljdHoyRTQ?oc=5",
-      "published": "Tue, 08 Sep 2026 16:46:45 GMT",
-      "region": "taiwan",
-      "segments": [
-        "先進封裝 / 測試"
-      ],
-      "companies": [],
-      "importance": 3,
-      "summary_zh": "SRS Deploys Advanced Packaging for Remote-Handled Transuranic Waste Shipment Department of Energy (.gov)",
-      "investment_takeaway": "投資觀察重點在 CoWoS/先進封裝產能、載板與測試稼動率，這通常是 AI 加速器供給瓶頸。"
     }
   ]
 }
